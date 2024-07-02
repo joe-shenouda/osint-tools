@@ -208,6 +208,8 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [osint-cli-tool-skeleton](https://pypi.org/project/osint-cli-tool-skeleton/) - OSINT cli tool skeleton
 - [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
 - [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
+- [Tool | path](https://learnmeabitcoin.com/tools/path/) - Search Bitcoin transactions, blocks, and addresses.
+
 
 
 ## THROWAWAY CONTACT/Temporary contact
@@ -256,7 +258,9 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Fake Tiktok Profile Generator](https://fakeinfo.net/fake-tiktok-profile-generator) - Who doesn't love to have a huge number of followers and posts on the popular social media platform TikTok? Everybody loves to. One may create a fake TikTok profile with a higher follower count using our Fake Tiktok Profile Generator tool. 
 - [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - d you ever wish to become a YouTuber with a large number of subscribers? Well, dreams do come true. By using the Fake Youtube Channel Generator tool, you may create a fake youtube channel with an attractive channel name and several subscribers. 
 - [Resume Builder](https://vinaysomawat.github.io/Resume-Builder/) - simple resume builder
-- [Fake Generator Tools](https://fauxid.com/tools) - Here are a list of tools that can help you create fake identities, fake emails, fake credit cards, fake driver's license, and a fake company. 
+- [Fake Generator Tools](https://fauxid.com/tools) - Here are a list of tools that can help you create fake identities, fake emails, fake credit cards, fake driver's license, and a fake company.
+- [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - Tool for generating fake YouTube channels.
+
     
 ## EMULATOR
     
@@ -455,6 +459,8 @@ START FOR FREE
 - [No.1 Free People Search](http://www.yasni.com/) - Finds people and their online presence.
 - [xlek](https://xlek.com/) - Public records and people search.
 - [Ufind.name](https://ufind.name/) - Searches for people across social networks.
+- [York City PA Compensation](https://b2.caspio.com/dp/0a92100001903125816c4d34a37a) - Database of compensation in York City, PA.
+
 
     
 ## USERNAME
