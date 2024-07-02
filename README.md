@@ -381,1108 +381,1142 @@ START FOR FREE
     
 ## WEATHER
     
-- [OpenWeatherMap](https://openweathermap.org/)
-- [Weather History & Data Archive](https://www.wunderground.com/history)
-- [World Temperatures — Weather Around The World](https://www.timeanddate.com/weather/)
-- [AccuWeather](https://www.accuweather.com/)
+- [OpenWeatherMap](https://openweathermap.org/) - Provides current weather data and forecasts.
+- [Weather History & Data Archive](https://www.wunderground.com/history) - Access historical weather data.
+- [World Temperatures — Weather Around The World](https://www.timeanddate.com/weather/) - Check global weather conditions.
+- [AccuWeather](https://www.accuweather.com/) - Offers detailed weather forecasts and news.
     
    
- ## THREAT INTEL
+## THREAT INTEL
+
+- [Threatbutt](https://threatbutt.com/map/) - A humorous take on real-time threat maps.
+- [Cyberthreat Real-Time Map](https://cybermap.kaspersky.com/) - Displays live cyber threat activities globally.
+- [Live Cyber Attack Threat Map](https://www.checkpoint.com/ThreatPortal/livemap.html) - Shows real-time cyber attacks worldwide.
+- [Digital Attack Map](https://www.digitalattackmap.com/) - Visualizes DDoS attacks happening around the world.
+- [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - Provides real-time cyber threat intelligence.
+- [Cyber Threat Intelligence](https://pulsedive.com/) - Offers an open threat intelligence platform.
+- [Cisco Talos Intelligence Group](https://talosintelligence.com/) - Delivers security research and threat intelligence.
+- [Fortinet Threat Map](https://threatmap.fortiguard.com/) - Displays real-time cyber attacks globally.
+- [ThreatMiner](https://www.threatminer.org/) - A threat intelligence research platform.
+- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open-source tool for threat intelligence gathering.
+- [Visualizing Global Internet Performance](https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp) - Monitors global internet performance.
+- [NETSCOUT Cyber Threat Horizon](https://horizon.netscout.com/) - Provides real-time threat intelligence and analysis.
+- [APTnotes](https://github.com/aptnotes/data) - A collection of APT reports and notes.
+
     
-- [Threatbutt](https://threatbutt.com/map/)
-- [Cyberthreat Real-Time Map](https://cybermap.kaspersky.com/)
-- [Live Cyber Attack Threat Map](https://www.checkpoint.com/ThreatPortal/livemap.html)
-- [Digital Attack Map](https://www.digitalattackmap.com/)
-- [Bitdefender Threat Map](https://threatmap.bitdefender.com/)
-- [Cyber Threat Intelligence](https://pulsedive.com/)
-- [Cisco Talos Intelligence Group](https://talosintelligence.com/)
-- [Fortinet Threat Map](https://threatmap.fortiguard.com/)
-- [ThreatMiner](https://www.threatminer.org/)
-- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl)
-- [Visualizing Global Internet Performance](https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp)
-- [NETSCOUT Cyber Threat Horizon](https://horizon.netscout.com/)
-- [APTnotes](https://github.com/aptnotes/data)
-    
- ## OTHER
-    
-- [Nextstrain](https://nextstrain.org/)
+## OTHER
+
+- [Nextstrain](https://nextstrain.org/) - Tracks and visualizes pathogen evolution in real-time.
+
     
 ## IDENTITY RESOLUTION
 
-- [Clearbit](https://dashboard.clearbit.com/lookup)
-- [Aeroleads.com](https://aeroleads.com/)
+- [Clearbit](https://dashboard.clearbit.com/lookup) - Provides business intelligence and contact data.
+- [Aeroleads.com](https://aeroleads.com/) - Finds and verifies email addresses and contact details.
+
     
 ## UNIFIED SEARCH
-    
-- [SynapsInt](https://synapsint.com/)
-- [InfoTracer](https://infotracer.com/)
-- [MetaDefender](https://metadefender.opswat.com/)
-- [Username Search](https://usersearch.org/)
-- [SpyTox](https://www.spytox.com/)
-- [Effect Group](https://effectgroup.io/)
-- [osrframework](https://pypi.org/project/osrframework/)
-- [Google Custom Search](https://cse.google.com/cse?cx=017648920863780530960:lddgpbzqgoi)
-- [OSINT Search Engine](https://cse.google.com/cse/publicurl?cx=006290531980334157382:qcaf4enph7i)
-- [LinkScope](https://github.com/AccentuSoft/LinkScope_Client)
-- [IOA](https://www.io-archive.org/)
+
+- [SynapsInt](https://synapsint.com/) - Provides unified search across various OSINT sources.
+- [InfoTracer](https://infotracer.com/) - Offers people search and background checks.
+- [MetaDefender](https://metadefender.opswat.com/) - Scans files and URLs for threats.
+- [Username Search](https://usersearch.org/) - Searches for usernames across multiple platforms.
+- [SpyTox](https://www.spytox.com/) - Provides comprehensive people search and information lookup.
+- [Effect Group](https://effectgroup.io/) - Offers advanced OSINT tools and services.
+- [osrframework](https://pypi.org/project/osrframework/) - A framework for open source intelligence tools.
+- [Google Custom Search](https://cse.google.com/cse?cx=017648920863780530960:lddgpbzqgoi) - Custom search engine for specific queries.
+- [OSINT Search Engine](https://cse.google.com/cse/publicurl?cx=006290531980334157382:qcaf4enph7i) - Specialized search engine for OSINT resources.
+- [LinkScope](https://github.com/AccentuSoft/LinkScope_Client) - OSINT tool for link analysis and data gathering.
+- [IOA](https://www.io-archive.org/) - Internet Archive for open source intelligence data.
+
     
 ## PEOPLE
-    
-- [IDCrawl](https://www.idcrawl.com/)
-- [WebMii](https://webmii.com/)
-- [TruePeopleSearch](https://www.truepeoplesearch.com/)
-- [Free People Search](https://www.peoplefinder.com/)
-- [fastpeoplesearch](https://fastpeoplesearch.com/)
-- [TruePeopleSearch](https://truepeoplesearch.com/)
-- [People Search](http://itools.com/search/people-search)
-- [People Search Engine](https://cse.google.com/cse?cx=14db36e158cd791c0)
-- [Dating Sites Search Engine](https://cse.google.com/cse?cx=c7b340447e1e12653)
-- [192](https://www.192.com/)
-- [International](https://www.infobel.com/)
-- [People search Tool](https://www.aware-online.com/en/osint-tools/people-search-tool/)
-- [PeekYou](https://www.peekyou.com/)
-- [White Pages](https://www.whitepages.com/)
-- [New Canada 411](https://www.canada411.ca/)
-- [411](http://411.com/)
-- [TruthFinder](https://www.truthfinder.com/)
-- [zaba search](https://www.zabasearch.com/)
-- [Thats them](https://thatsthem.com/)
-- [People search](https://radaris.com/)
-- [No.1 Free People Search](http://www.yasni.com/)
-- [xlek](https://xlek.com/)
-- [Ufind.name](https://ufind.name/)
+
+- [IDCrawl](https://www.idcrawl.com/) - Searches social media profiles and public web pages.
+- [WebMii](https://webmii.com/) - Finds information about people from various sources.
+- [TruePeopleSearch](https://www.truepeoplesearch.com/) - Free people search and background checks.
+- [Free People Search](https://www.peoplefinder.com/) - Provides people search and background information.
+- [fastpeoplesearch](https://fastpeoplesearch.com/) - Free people search and contact information.
+- [TruePeopleSearch](https://truepeoplesearch.com/) - Locates people and their contact details.
+- [People Search](http://itools.com/search/people-search) - Searches for people across different platforms.
+- [People Search Engine](https://cse.google.com/cse?cx=14db36e158cd791c0) - Google custom search for people information.
+- [Dating Sites Search Engine](https://cse.google.com/cse?cx=c7b340447e1e12653) - Searches across various dating sites.
+- [192](https://www.192.com/) - UK-based people search and directory services.
+- [International](https://www.infobel.com/) - Global directory for people and businesses.
+- [People search Tool](https://www.aware-online.com/en/osint-tools/people-search-tool/) - Comprehensive people search tool.
+- [PeekYou](https://www.peekyou.com/) - Searches social media profiles and public records.
+- [White Pages](https://www.whitepages.com/) - Provides contact information and public records.
+- [New Canada 411](https://www.canada411.ca/) - Canadian people and business directory.
+- [411](http://411.com/) - People search and directory assistance.
+- [TruthFinder](https://www.truthfinder.com/) - Background checks and people search.
+- [zaba search](https://www.zabasearch.com/) - Public records and people search.
+- [Thats them](https://thatsthem.com/) - Free people search and reverse lookup.
+- [People search](https://radaris.com/) - Comprehensive people search and background information.
+- [No.1 Free People Search](http://www.yasni.com/) - Finds people and their online presence.
+- [xlek](https://xlek.com/) - Public records and people search.
+- [Ufind.name](https://ufind.name/) - Searches for people across social networks.
+
     
 ## USERNAME
+
+- [WhatsMyName Web](https://whatsmyname.app/) - Checks usernames across multiple social networks.
+- [Username Checker](https://analyzeid.com/username/) - Verifies username availability on various platforms.
+- [Username Search](https://www.idcrawl.com/username) - Searches for usernames across social media.
+- [maigret](https://pypi.org/project/maigret/) - Investigates usernames across many sites.
+- [sherlock](https://github.com/sherlock-project/sherlock) - Finds usernames on social networks.
+- [socialscan](https://pypi.org/project/socialscan/) - Checks email addresses and usernames for usage.
+- [socid-extractor](https://pypi.org/project/socid-extractor/) - Extracts social media profile IDs.
+- [social-analyzer](https://pypi.org/project/social-analyzer/) - Analyzes and checks social media accounts.
+- [KnowEm](https://knowem.com/) - Checks username availability across networks.
+- [Check Usernames](https://checkusernames.com/) - Checks availability of usernames on social networks.
+- [Username Checker](https://checkuser.org/) - Verifies username availability on various sites.
+- [Namechk](https://namechk.com/) - Checks usernames across multiple websites.
+- [Lullar Com](https://com.lullar.com/) - Searches for people by username.
+- [SearchPOF.com](https://searchpof.com/) - Searches Plenty of Fish profiles by username.
+- [OSINT Toolkit](https://one-plus.github.io/EmailUsername) - Tools for email and username investigation.
+- [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/) - Searches for usernames across platforms.
+- [snoop](https://github.com/snooppr/snoop) - Checks usernames on social networks and websites.
+
     
-- [WhatsMyName Web](https://whatsmyname.app/)
-- [Username Checker](https://analyzeid.com/username/)
-- [Username Search](https://www.idcrawl.com/username)
-- [maigret](https://pypi.org/project/maigret/)
-- [sherlock](https://github.com/sherlock-project/sherlock)
-- [socialscan](https://pypi.org/project/socialscan/)
-- [socid-extractor](https://pypi.org/project/socid-extractor/)
-- [social-analyzer](https://pypi.org/project/social-analyzer/)
-- [KnowEm](https://knowem.com/)
-- [Check Usernames](https://checkusernames.com/)
-- [Username Checker](https://checkuser.org/)
-- [Namechk](https://namechk.com/)
-- [Lullar Com](https://com.lullar.com/)
-- [SearchPOF.com](https://searchpof.com/)
-- [OSINT Toolkit](https://one-plus.github.io/EmailUsername)
-- [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/)
-- [snoop](https://github.com/snooppr/snoop)
-    
- ## EMAIL
-    
-- [Email Lookup](https://tools.epieos.com/email.php)
-- [holehe](https://pypi.org/project/holehe/)
-- [Infoga](http://github.com/m4ll0k/Infoga)
-- [Trumail](https://trumail.io/)
-- [Email Verifier](https://hunter.io/email-verifier)
-- [Verify Email](https://verify-email.org/)
-- [Reverse Whois](https://osint.sh/reversewhois/)
-- [Email Dossier](https://centralops.net/co/emaildossier.aspx)
-- [Email Format](https://www.email-format.com/)
-- [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
-- [E-mail search tool](https://www.aware-online.com/osint-tools/e-mail-search-tool/)
-- [Proofy](https://proofy.io/)
-- [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/)
-- [Phonebook.cz](https://phonebook.cz/)
-- [Email Breach Analysis](https://www.hotsheet.com/inoitsu/)
-- [Emailrep.io](https://emailrep.io/)
-- [Email Finder](https://osint.sh/email/)
-- [EmailHarvester](https://pypi.org/project/EmailHarvester/)
-- [h8mail](https://pypi.org/project/h8mail/)
-- [WhatBreach](https://github.com/Ekultek/WhatBreach)
-- [email2phonenumber](https://github.com/martinvigo/email2phonenumber)
-- [buster](https://github.com/sham00n/buster)
-- [Anymailfinder.com](https://anymailfinder.com/)
-- [SimpleMail](https://www.simplemail.dev/)   
+## EMAIL
+
+- [Email Lookup](https://tools.epieos.com/email.php) - Searches for information associated with an email.
+- [holehe](https://pypi.org/project/holehe/) - Checks if an email is used on various sites.
+- [Infoga](http://github.com/m4ll0k/Infoga) - Scans email addresses for information.
+- [Trumail](https://trumail.io/) - Verifies email deliverability.
+- [Email Verifier](https://hunter.io/email-verifier) - Checks email validity and deliverability.
+- [Verify Email](https://verify-email.org/) - Verifies if an email address is valid.
+- [Reverse Whois](https://osint.sh/reversewhois/) - Finds domain ownership using an email.
+- [Email Dossier](https://centralops.net/co/emaildossier.aspx) - Investigates email addresses.
+- [Email Format](https://www.email-format.com/) - Finds email formats for companies.
+- [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx) - Analyzes email headers.
+- [E-mail search tool](https://www.aware-online.com/osint-tools/e-mail-search-tool/) - Searches for email-related information.
+- [Proofy](https://proofy.io/) - Verifies email addresses in bulk.
+- [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/) - Generates common email permutations.
+- [Phonebook.cz](https://phonebook.cz/) - Searches for email addresses in public data.
+- [Email Breach Analysis](https://www.hotsheet.com/inoitsu/) - Checks if an email was part of a breach.
+- [Emailrep.io](https://emailrep.io/) - Provides email address reputation and intelligence.
+- [Email Finder](https://osint.sh/email/) - Finds email addresses related to a domain.
+- [EmailHarvester](https://pypi.org/project/EmailHarvester/) - Harvests email addresses from websites.
+- [h8mail](https://pypi.org/project/h8mail/) - Finds passwords for emails in data breaches.
+- [WhatBreach](https://github.com/Ekultek/WhatBreach) - Checks if emails were part of known breaches.
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) - Finds phone numbers associated with emails.
+- [buster](https://github.com/sham00n/buster) - Email search and verification tool.
+- [Anymailfinder.com](https://anymailfinder.com/) - Finds and verifies professional email addresses.
+- [SimpleMail](https://www.simplemail.dev/) - Email search and verification service.
+
     
 ## PHONE
-    
-- [PhoneInfoga](https://demo.phoneinfoga.crvx.fr/)
-- [Phonerator](https://www.martinvigo.com/tools/phonerator/)
-- [Skype Lookup](https://tools.epieos.com/skype.php)
-- [Reverse Phone Lookup](https://www.idcrawl.com/phone)
-- [Truecaller Search Engine](https://cse.google.com/cse?cx=c46b76bce1848d976)
-- [Nuwber](https://nuwber.com/)
-- [Who Called Me](https://www.whocalledme.com/)
-- [ignorant](https://pypi.org/project/ignorant/)
-- [Phone number search Tool](https://www.aware-online.com/en/osint-tools/phone-number-search-tool/)
-- [Validnumber.com](https://validnumber.com/)
-- [Reverse Phone Lookup](https://www.zlookup.com/)
-- [Reverse Phone Lookup](https://www.reversephonecheck.com/)
-- [Truecaller](https://www.truecaller.com/)
-- [SYNC.me](https://sync.me/)
-- [OpenCelliD](https://opencellid.org/)
-- [CellTower Locator](http://www.cell2gps.com/)
-- [Find GSM base stations cell id coordinates](https://cellidfinder.com/)
-- [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project)
-- [Phone Scoop](https://www.phonescoop.com/phones/)
-- [GSM Arena](https://www.gsmarena.com/)
-- [Fcc.io](http://fcc.io/)
-- [Oldphonebook.com](http://www.oldphonebook.com/)
-- [carrier lookup](https://www.carrierlookup.com/)
-- [Free Reverse Phone Lookup](https://spydialer.com/default.aspx)
+
+- [PhoneInfoga](https://demo.phoneinfoga.crvx.fr/) - Scans phone numbers and gathers information.
+- [Phonerator](https://www.martinvigo.com/tools/phonerator/) - Generates possible phone numbers for investigation.
+- [Skype Lookup](https://tools.epieos.com/skype.php) - Finds Skype accounts linked to phone numbers.
+- [Reverse Phone Lookup](https://www.idcrawl.com/phone) - Searches for information linked to phone numbers.
+- [Truecaller Search Engine](https://cse.google.com/cse?cx=c46b76bce1848d976) - Custom search engine for phone number lookup.
+- [Nuwber](https://nuwber.com/) - Provides reverse phone lookup and people search.
+- [Who Called Me](https://www.whocalledme.com/) - Identifies unknown callers and phone numbers.
+- [ignorant](https://pypi.org/project/ignorant/) - OSINT tool for phone number investigation.
+- [Phone number search Tool](https://www.aware-online.com/en/osint-tools/phone-number-search-tool/) - Comprehensive phone number search tool.
+- [Validnumber.com](https://validnumber.com/) - Validates phone numbers for accuracy.
+- [Reverse Phone Lookup](https://www.zlookup.com/) - Free service to find information on phone numbers.
+- [Reverse Phone Lookup](https://www.reversephonecheck.com/) - Provides detailed information on phone numbers.
+- [Truecaller](https://www.truecaller.com/) - Identifies unknown callers and blocks spam calls.
+- [SYNC.me](https://sync.me/) - Provides caller ID and spam blocker services.
+- [OpenCelliD](https://opencellid.org/) - Crowdsourced global cell tower database.
+- [CellTower Locator](http://www.cell2gps.com/) - Locates GSM cell towers.
+- [Find GSM base stations cell id coordinates](https://cellidfinder.com/) - Finds coordinates for GSM base stations.
+- [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - Tool for investigating phone numbers.
+- [Phone Scoop](https://www.phonescoop.com/phones/) - Provides detailed information about mobile phones.
+- [GSM Arena](https://www.gsmarena.com/) - Specifications and reviews for mobile phones.
+- [Fcc.io](http://fcc.io/) - Looks up FCC ID numbers.
+- [Oldphonebook.com](http://www.oldphonebook.com/) - Searches for people in old phone books.
+- [carrier lookup](https://www.carrierlookup.com/) - Identifies phone number carriers.
+- [Free Reverse Phone Lookup](https://spydialer.com/default.aspx) - Finds information on phone numbers for free.
+
     
 # SOCIAL MEDIA
+
+- [Social Profiles Finder](https://www.social-searcher.com/search-users/) - Searches for social media profiles across platforms.
+- [Who posted what?](https://whopostedwhat.com/) - Finds social media posts by keyword and user.
+- [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec) - Custom search engine for VKontakte profiles.
+- [SOCMINT](https://start.me/p/Wp1kpe/socmint) - A collection of social media intelligence tools.
+- [OSINT & SOCMINT Tooling](https://osint.support/chrome-extensions/2019/09/29/osint-socmint-tooling.html) - Chrome extensions for social media intelligence.
+- [Skype Search Engine](https://www.skypli.com/) - Searches for Skype usernames and profiles.
+- [Vimeo search tool](https://www.aware-online.com/en/osint-tools/vimeo-search-tool/) - Finds Vimeo user profiles and videos.
+- [Kribrum.io](https://kribrum.io/) - Monitors social media and online reputation.
+- [Graphtreon.com](https://graphtreon.com/) - Tracks Patreon creators and analytics.
+- [Social Search Engine](https://www.socialsearchengine.org/) - Searches for social media profiles and posts.
+- [Instagram, Reddit & Snapchat](https://one-plus.github.io/Instagram) - Tools for investigating Instagram, Reddit, and Snapchat profiles.
+- [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php) - Custom Google search for Dribbble profiles.
+- [Google to search profiles on Xing](https://recruitin.net/xing.php) - Custom Google search for Xing profiles.
+
     
-- [Social Profiles Finder](https://www.social-searcher.com/search-users/)
-- [Who posted what?](https://whopostedwhat.com/)
-- [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec)
-- [SOCMINT](https://start.me/p/Wp1kpe/socmint)
-- [OSINT & SOCMINT Tooling](https://osint.support/chrome-extensions/2019/09/29/osint-socmint-tooling.html)
-- [Skype Search Engine](https://www.skypli.com/)
-- [Vimeo search tool](https://www.aware-online.com/en/osint-tools/vimeo-search-tool/)
-- [Kribrum.io](https://kribrum.io/)
-- [Graphtreon.com](https://graphtreon.com/)
-- [Social Search Engine](https://www.socialsearchengine.org/)
-- [Instagram, Reddit & Snapchat](https://one-plus.github.io/Instagram)
-- [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php)
-- [Google to search profiles on Xing](https://recruitin.net/xing.php)
+## FACEBOOK
+
+- [Facebook Search Engine](https://cse.google.com/cse?cx=95ae46262a5f2958e) - Custom search engine for Facebook profiles and posts.
+- [Facebook Photo Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:jyvyp2ppxma) - Searches for photos on Facebook.
+- [Facebook Scraped Data search](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/) - Searches for scraped Facebook data.
+- [Facebook Search](https://www.social-searcher.com/facebook-search/) - Searches Facebook posts, photos, and profiles.
+- [Facebook Search](https://sowdust.github.io/fb-search/) - Advanced search tool for Facebook.
+- [Facebook Video Downloader](https://fbdown.github.io/) - Downloads Facebook videos.
+- [Facebook Search Tool](https://www.aware-online.com/osint-tools/facebook-search-tool/) - Comprehensive tool for Facebook searches.
+- [Have I Been Zucked?](https://haveibeenzucked.com/) - Checks if your data was compromised in Facebook breaches.
+- [Facebook Profile Directory](https://www.facebook.com/directory/) - Directory of Facebook profiles.
+- [Find My Facebook ID](https://commentpicker.com/find-facebook-id.php) - Finds the Facebook ID of a profile.
+- [Facebook Friends List Generator](https://osint.support/chrome-extensions/2019/10/20/facebook-friends-list-generator.html) - Generates a list of Facebook friends.
+- [Facebook Entity Id Parser](https://osint.support/chrome-extensions/2019/09/08/facebook-entity-id-parser.html) - Parses Facebook entity IDs.
+- [Facebook Profile Id Grabber](https://osint.support/chrome-extensions/2019/09/01/facebook-profile-id-grabber.html) - Grabs Facebook profile IDs.
+- [Facebook Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/01/facebook-email-reverse-lookup.html) - Reverse lookup tool for Facebook emails.
+
     
- ## FACEBOOK
-    
-- [Facebook Search Engine](https://cse.google.com/cse?cx=95ae46262a5f2958e)
-- [Facebook Photo Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:jyvyp2ppxma)
-- [Facebook Scraped Data search](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/)
-- [Facebook Search](https://www.social-searcher.com/facebook-search/)
-- [Facebook Search](https://sowdust.github.io/fb-search/)
-- [Facebook Video Downloader](https://fbdown.github.io/)
-- [Facebook Search Tool](https://www.aware-online.com/osint-tools/facebook-search-tool/)
-- [Have I Been Zucked?](https://haveibeenzucked.com/)
-- [Facebook Profile Directory](https://www.facebook.com/directory/)
-- [Find My Facebook ID](https://commentpicker.com/find-facebook-id.php)
-- [Facebook Friends List Generator](https://osint.support/chrome-extensions/2019/10/20/facebook-friends-list-generator.html)
-- [Facebook Entity Id Parser](https://osint.support/chrome-extensions/2019/09/08/facebook-entity-id-parser.html)
-- [Facebook Profile Id Grabber](https://osint.support/chrome-extensions/2019/09/01/facebook-profile-id-grabber.html)
-- [Facebook Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/01/facebook-email-reverse-lookup.html)
-    
- ## TWITTER
-    
-- [BirdHunt](https://birdhunt.co/)
-- [Nitter Instances](https://xnaas.github.io/nitter-instances/)
-- [Twitter Search Engine](https://cse.google.com/cse?cx=5857bab69c8b8e37e)
-- [Tweet Finder](https://cse.google.com/cse/publicurl?cx=016621447308871563343:u4r_fupvs-e)
-- [Twitter Photo Search](https://cse.google.com/cse/publicurl?cx=006290531980334157382:_ltcjq0robu)
-- [twint](https://pypi.org/project/twint/)
-- [Tweet Archive Search](https://cse.google.com/cse/publicurl?cx=005797772976587943970:kffjgylvzwu)
-- [Twitter Advanced Search](https://twitter.com/search-advanced)
-- [Twitter / Profiles Directory](https://twitter.com/i/directory/)
-- [TweetBeaver](https://tweetbeaver.com/)
-- [Twitter search tool](https://www.aware-online.com/en/osint-tools/twitter-search-tool/)
-- [Google to search profiles on Twitter](https://recruitin.net/twitter.php)
-- [The one million tweet map](https://onemilliontweetmap.com/)
-- [Tweet Binder](https://www.tweetbinder.com/)
-- [Twitter Search](https://one-plus.github.io/Twitter)
-- [Twitter Monitoring](https://one-plus.github.io/TwitterMonitor)
-- [Thread Reader](https://threadreaderapp.com/)
-- [Search Twitter Users](https://pushshift.io/twitter-user-search/)
-- [Getdewey.co](https://getdewey.co/)
-- [geosocial footprint](http://geosocialfootprint.com/)
-- [tweetmap](https://www.omnisci.com/demos/tweetmap)
-- [Twitter Analytics](https://foller.me/)
-- [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/)
-- [TruthNest](https://app.truthnest.com/)
-- [getdaytrends](https://getdaytrends.com/)
-- [Twitter Trending Hashtags and Topics](https://www.trendsmap.com/)
-- [Socialbearing](https://socialbearing.com/)
-- [Twiangulate: analyzing the connections between friends and followers](http://twiangulate.com/search/)
-- [Twittertrails.com](http://twittertrails.com/)
-- [Download and Export Twitter Followers into Excel for Free](https://www.vicinitas.io/free-tools/download-twitter-followers)
+## TWITTER
+
+- [BirdHunt](https://birdhunt.co/) - Search for Twitter users and tweets.
+- [Nitter Instances](https://xnaas.github.io/nitter-instances/) - Alternative front-end for Twitter.
+- [Twitter Search Engine](https://cse.google.com/cse?cx=5857bab69c8b8e37e) - Custom search engine for Twitter content.
+- [Tweet Finder](https://cse.google.com/cse/publicurl?cx=016621447308871563343:u4r_fupvs-e) - Finds tweets by keyword and user.
+- [Twitter Photo Search](https://cse.google.com/cse/publicurl?cx=006290531980334157382:_ltcjq0robu) - Searches for photos on Twitter.
+- [twint](https://pypi.org/project/twint/) - Advanced Twitter scraping tool.
+- [Tweet Archive Search](https://cse.google.com/cse/publicurl?cx=005797772976587943970:kffjgylvzwu) - Searches archived tweets.
+- [Twitter Advanced Search](https://twitter.com/search-advanced) - Twitter's own advanced search interface.
+- [Twitter / Profiles Directory](https://twitter.com/i/directory/) - Directory of Twitter profiles.
+- [TweetBeaver](https://tweetbeaver.com/) - Extracts data from Twitter for analysis.
+- [Twitter search tool](https://www.aware-online.com/en/osint-tools/twitter-search-tool/) - Comprehensive tool for searching Twitter.
+- [Google to search profiles on Twitter](https://recruitin.net/twitter.php) - Custom Google search for Twitter profiles.
+- [The one million tweet map](https://onemilliontweetmap.com/) - Visualizes real-time tweets on a map.
+- [Tweet Binder](https://www.tweetbinder.com/) - Analyzes hashtags and mentions on Twitter.
+- [Twitter Search](https://one-plus.github.io/Twitter) - Tools for investigating Twitter profiles and tweets.
+- [Twitter Monitoring](https://one-plus.github.io/TwitterMonitor) - Monitors Twitter activity in real-time.
+- [Thread Reader](https://threadreaderapp.com/) - Unrolls Twitter threads into readable formats.
+- [Search Twitter Users](https://pushshift.io/twitter-user-search/) - Searches for Twitter user profiles.
+- [Getdewey.co](https://getdewey.co/) - Analyzes and visualizes Twitter data.
+- [geosocial footprint](http://geosocialfootprint.com/) - Analyzes geolocation data from tweets.
+- [tweetmap](https://www.omnisci.com/demos/tweetmap) - Interactive map of Twitter activity.
+- [Twitter Analytics](https://foller.me/) - Provides detailed analytics for Twitter profiles.
+- [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/) - Visualizes topics in tweets.
+- [TruthNest](https://app.truthnest.com/) - Analyzes Twitter profiles and their influence.
+- [getdaytrends](https://getdaytrends.com/) - Displays trending Twitter topics by location.
+- [Twitter Trending Hashtags and Topics](https://www.trendsmap.com/) - Tracks trending hashtags on a map.
+- [Socialbearing](https://socialbearing.com/) - Analyzes Twitter accounts, tweets, and hashtags.
+- [Twiangulate: analyzing the connections between friends and followers](http://twiangulate.com/search/) - Analyzes connections between Twitter users.
+- [Twittertrails.com](http://twittertrails.com/) - Investigates the spread of rumors on Twitter.
+- [Download and Export Twitter Followers into Excel for Free](https://www.vicinitas.io/free-tools/download-twitter-followers) - Exports Twitter followers to Excel.
+
     
 ## YOUTUBE
-    
-- [YouTube search tool](https://www.aware-online.com/en/osint-tools/youtube-search-tool/)
-- [YouTube video upload time](https://www.aware-online.com/en/osint-tutorials/youtube-video-upload-time/)
-- [yt-dlp](https://pypi.org/project/yt-dlp/)
-- [Location Search](https://mattw.io/youtube-geofind/location)
-- [YouTube Metadata Bulk](https://mattw.io/youtube-metadata/bulk)
-- [Hadzy.com](https://hadzy.com/)
-- [Youtube channel ID](https://commentpicker.com/youtube-channel-id.php)
-- [Extract Meta Data YouTube](https://citizenevidence.amnestyusa.org/)
-- [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html)
-- [Youtube Channel Search](https://asif633.github.io/youtube-channel-search/)
-- [Yout](https://yout.com/)
-- [YouTube Comment Finder](https://ytcomment.kmcat.uk/)
-- [Youtube, Periscope, Twitch & Dailymotion](https://one-plus.github.io/Youtube)
-- [Unlistedvideos.com](https://unlistedvideos.com/)
-- [Youtube Comments Downloader](https://youtubecommentsdownloader.com/)
+
+- [YouTube search tool](https://www.aware-online.com/en/osint-tools/youtube-search-tool/) - Comprehensive tool for searching YouTube.
+- [YouTube video upload time](https://www.aware-online.com/en/osint-tutorials/youtube-video-upload-time/) - Finds the exact upload time of a YouTube video.
+- [yt-dlp](https://pypi.org/project/yt-dlp/) - Downloads videos and metadata from YouTube.
+- [Location Search](https://mattw.io/youtube-geofind/location) - Searches YouTube videos by location.
+- [YouTube Metadata Bulk](https://mattw.io/youtube-metadata/bulk) - Extracts metadata from multiple YouTube videos.
+- [Hadzy.com](https://hadzy.com/) - Analyzes YouTube channel and video performance.
+- [Youtube channel ID](https://commentpicker.com/youtube-channel-id.php) - Finds the channel ID of a YouTube channel.
+- [Extract Meta Data YouTube](https://citizenevidence.amnestyusa.org/) - Extracts metadata from YouTube videos.
+- [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html) - Searches for geotagged YouTube videos.
+- [Youtube Channel Search](https://asif633.github.io/youtube-channel-search/) - Searches for YouTube channels.
+- [Yout](https://yout.com/) - Converts and downloads YouTube videos.
+- [YouTube Comment Finder](https://ytcomment.kmcat.uk/) - Finds and searches YouTube comments.
+- [Youtube, Periscope, Twitch & Dailymotion](https://one-plus.github.io/Youtube) - Tools for investigating various video platforms.
+- [Unlistedvideos.com](https://unlistedvideos.com/) - Finds unlisted YouTube videos.
+- [Youtube Comments Downloader](https://youtubecommentsdownloader.com/) - Downloads comments from YouTube videos.
+
     
 ## REDDIT
-    
-- [Reveddit.com](https://www.reveddit.com/)
-- [Karma Decay](http://karmadecay.com/)
-- [redditsfinder](https://pypi.org/project/redditsfinder/)
-- [SocialGrep](https://www.socialgrep.com/search)
-- [Redective](https://www.redective.com/)
-- [Reddit_Persona](https://github.com/n2itn/reddit_persona)
-- [Reddit Downloader](https://redditdownloader.github.io/)
-- [Reddit Search Engine](https://cse.google.com/cse?cx=0728740ab68a619ba)
-- [Reddit Search Engine](https://cse.google.com/cse/publicurl?cx=017261104271573007538:bbzhlah6n4o)
-- [Reddit User Analyser](https://reddit-user-analyser.netlify.app/)
-- [reddit search](https://www.redditsearch.io/)
-- [Reddit search tool](https://www.aware-online.com/en/osint-tools/reddit-search-tool/)
-- [Pholder](https://pholder.com/)
-- [RedditMetis](https://redditmetis.com/)
-- [Search Reddit Comments by User](https://www.redditcommentsearch.com/)
-- [pushshift.io](https://pushshift.io/)
-- [Pushshift API Guide](https://github.com/pushshift/api)
+
+- [Reveddit.com](https://www.reveddit.com/) - Views removed and deleted Reddit posts.
+- [Karma Decay](http://karmadecay.com/) - Finds reposted images on Reddit.
+- [redditsfinder](https://pypi.org/project/redditsfinder/) - Finds relevant subreddits for given keywords.
+- [SocialGrep](https://www.socialgrep.com/search) - Searches Reddit posts and comments.
+- [Redective](https://www.redective.com/) - Investigates Reddit profiles and activity.
+- [Reddit_Persona](https://github.com/n2itn/reddit_persona) - Analyzes Reddit user behavior.
+- [Reddit Downloader](https://redditdownloader.github.io/) - Downloads Reddit posts and comments.
+- [Reddit Search Engine](https://cse.google.com/cse?cx=0728740ab68a619ba) - Custom search engine for Reddit content.
+- [Reddit Search Engine](https://cse.google.com/cse/publicurl?cx=017261104271573007538:bbzhlah6n4o) - Another custom search engine for Reddit.
+- [Reddit User Analyser](https://reddit-user-analyser.netlify.app/) - Analyzes Reddit user activity.
+- [reddit search](https://www.redditsearch.io/) - Searches Reddit posts and comments.
+- [Reddit search tool](https://www.aware-online.com/en/osint-tools/reddit-search-tool/) - Comprehensive tool for searching Reddit.
+- [Pholder](https://pholder.com/) - Aggregates popular images from Reddit.
+- [RedditMetis](https://redditmetis.com/) - Analyzes Reddit user profiles.
+- [Search Reddit Comments by User](https://www.redditcommentsearch.com/) - Searches for comments by Reddit users.
+- [pushshift.io](https://pushshift.io/) - Provides access to historical Reddit data.
+- [Pushshift API Guide](https://github.com/pushshift/api) - Guide for using the Pushshift API for Reddit data.
+
 
     
 ## LINKEDIN
-    
-- [LinkedIn Search](https://recruitin.net/)
-- [LinkedIn Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0)
-- [LinkedIn Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/03/linkedin-email-reverse-lookup.html)
-- [Proxycurl](https://nubela.co/proxycurl/)
+
+- [LinkedIn Search](https://recruitin.net/) - Custom search for LinkedIn profiles.
+- [LinkedIn Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0) - Google custom search for LinkedIn profiles.
+- [LinkedIn Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/03/linkedin-email-reverse-lookup.html) - Finds LinkedIn profiles using email addresses.
+- [Proxycurl](https://nubela.co/proxycurl/) - API for retrieving LinkedIn profile data.
+
     
 ## GOOGLE
-    
-- [Google Finder](https://tools.epieos.com/google-account.php)
-- [Google Social Search](https://www.social-searcher.com/google-social-search/)
-- [Google+ & LinkedIn](https://one-plus.github.io/G+Link)
-- [GHunt](https://github.com/mxrch/GHunt)
-- [Google+ Photo Custom Search](https://cse.google.com/cse/publicurl?cx=006205189065513216365:uo99tr1fxjq)
+
+- [Google Finder](https://tools.epieos.com/google-account.php) - Searches for Google account information.
+- [Google Social Search](https://www.social-searcher.com/google-social-search/) - Finds social media profiles through Google.
+- [Google+ & LinkedIn](https://one-plus.github.io/G+Link) - Tools for searching Google+ and LinkedIn profiles.
+- [GHunt](https://github.com/mxrch/GHunt) - Investigates Google accounts and gathers information.
+- [Google+ Photo Custom Search](https://cse.google.com/cse/publicurl?cx=006205189065513216365:uo99tr1fxjq) - Custom search for Google+ photos.
+
     
 ## DISCORD
-    
-- [Discord User Search](https://discordhub.com/user/search)
-- [Discord Me](https://discord.me/)
-- [Discord History Tracker](https://dht.chylex.com/)
-- [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
-- [DiscordServers](https://discordservers.com/)
-- [DISBOARD](https://disboard.org/)
-- [Discord ID Lookup](https://discord.id/)
-- [Discord Center](https://discord.center/)
-- [Discord Bots](https://discordbotlist.com/)
-- [Discord Bots](https://top.gg/)
-- [Discord Bots](https://discord.bots.gg/)
+
+- [Discord User Search](https://discordhub.com/user/search) - Searches for Discord users by username or ID.
+- [Discord Me](https://discord.me/) - Lists and promotes Discord servers.
+- [Discord History Tracker](https://dht.chylex.com/) - Tracks and archives Discord chat history.
+- [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT) - OSINT tool for investigating Discord profiles and servers.
+- [DiscordServers](https://discordservers.com/) - Directory of Discord servers.
+- [DISBOARD](https://disboard.org/) - Public Discord server listing.
+- [Discord ID Lookup](https://discord.id/) - Looks up Discord user profiles by ID.
+- [Discord Center](https://discord.center/) - Provides tools and resources for Discord users.
+- [Discord Bots](https://discordbotlist.com/) - Directory of Discord bots.
+- [Discord Bots](https://top.gg/) - Lists and reviews Discord bots.
+- [Discord Bots](https://discord.bots.gg/) - Searchable directory of Discord bots.
+
     
 ## TWITCH
-    
-- [TwitchTracker](https://twitchtracker.com/)
-- [Twitch Payout Search](https://sizeof.cat/project/twitch-payout-search/)
-- [Search for a Twitch channel](https://sullygnome.com/channelsearch)
-- [Searchstream.live](https://searchstream.live/)
-- [Username Availability](https://cactus.tools/twitch/username)
-- [Check channel badges](https://cactus.tools/twitch/badges)
-- [Check Twitch follow length](https://cactus.tools/twitch/followage)
-- [Twitch Following](https://cactus.tools/twitch/following)
-- [All Twitch Streamers Search](https://twitchstats.net/allstreamers)
-- [Twitchmetrics.net](https://www.twitchmetrics.net/)
-- [Twitch Username Search](https://twitchusernames.com/)
+
+- [TwitchTracker](https://twitchtracker.com/) - Tracks Twitch channel statistics and analytics.
+- [Twitch Payout Search](https://sizeof.cat/project/twitch-payout-search/) - Searches for Twitch payout information.
+- [Search for a Twitch channel](https://sullygnome.com/channelsearch) - Searches for Twitch channels by name.
+- [Searchstream.live](https://searchstream.live/) - Finds and tracks Twitch streams and streamers.
+- [Username Availability](https://cactus.tools/twitch/username) - Checks availability of Twitch usernames.
+- [Check channel badges](https://cactus.tools/twitch/badges) - Checks badges associated with Twitch channels.
+- [Check Twitch follow length](https://cactus.tools/twitch/followage) - Checks how long a user has been following a Twitch channel.
+- [Twitch Following](https://cactus.tools/twitch/following) - Lists users followed by a Twitch account.
+- [All Twitch Streamers Search](https://twitchstats.net/allstreamers) - Searches for all Twitch streamers.
+- [Twitchmetrics.net](https://www.twitchmetrics.net/) - Provides detailed analytics and insights for Twitch channels.
+- [Twitch Username Search](https://twitchusernames.com/) - Searches for Twitch usernames and profiles.
+
     
 ## INSTAGRAM
-    
-- [InstaHunt](https://instahunt.co/)
-- [Instagram Deep Photo Search Engine](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy)
-- [Instagram analyzer and viewer](https://gramho.com/)
-- [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/)
-- [Instagram User ID](https://commentpicker.com/instagram-user-id.php)
-- [Searchmy.bio](https://www.searchmy.bio/)
-- [instalooter](https://pypi.org/project/instalooter/)
-- [instaloader](https://pypi.org/project/instaloader/)
-- [chatter](https://github.com/visualbasic6/chatter)
-- [osi.ig](https://github.com/th3unkn0n/osi.ig)
-- [Osintgram](https://github.com/Datalux/Osintgram)
-- [SoIG](https://github.com/yezz123/SoIG)
-- [yesitsme](https://github.com/blackeko/yesitsme)
+
+- [InstaHunt](https://instahunt.co/) - Searches for Instagram profiles and content.
+- [Instagram Deep Photo Search Engine](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy) - Custom search engine for Instagram photos.
+- [Instagram analyzer and viewer](https://gramho.com/) - Analyzes and views Instagram profiles and posts.
+- [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/) - Finds the user ID of an Instagram profile.
+- [Instagram User ID](https://commentpicker.com/instagram-user-id.php) - Retrieves the user ID of an Instagram account.
+- [Searchmy.bio](https://www.searchmy.bio/) - Searches Instagram bios for keywords.
+- [instalooter](https://pypi.org/project/instalooter/) - Downloads photos and videos from Instagram.
+- [instaloader](https://pypi.org/project/instaloader/) - Downloads Instagram pictures, videos, and metadata.
+- [chatter](https://github.com/visualbasic6/chatter) - Scrapes and analyzes Instagram data.
+- [osi.ig](https://github.com/th3unkn0n/osi.ig) - OSINT tool for Instagram profile analysis.
+- [Osintgram](https://github.com/Datalux/Osintgram) - Performs OSINT tasks on Instagram accounts.
+- [SoIG](https://github.com/yezz123/SoIG) - Scrapes Instagram data and performs analysis.
+- [yesitsme](https://github.com/blackeko/yesitsme) - Identifies Instagram profiles and gathers information.
+
     
 ## TELEGRAM
-    
-- [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
-- [Telegram Search](https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg)
-- [Telegram Search. Search for posts](https://tgstat.com/search)
-- [Lyzem Blog](https://lyzem.com/)
-- [Telegram Channels List](https://tlgrm.eu/channels)
-- [Readergram.com](https://readergram.com/)
-- [Ixgram](https://www.telegramgroup1.com/)
-- [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html)
-- [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/)
-- [TelegramDB.org](https://telegramdb.org/)
-- [Global Telegram Database](https://t.me/s/privatelinks)
-- [Nekogram X](https://f-droid.org/packages/nekox.messenger/)
+
+- [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) - Custom search engine for Telegram content.
+- [Telegram Search](https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg) - Custom search engine for Telegram posts and channels.
+- [Telegram Search. Search for posts](https://tgstat.com/search) - Searches for posts on Telegram.
+- [Lyzem Blog](https://lyzem.com/) - Blog focusing on Telegram news and updates.
+- [Telegram Channels List](https://tlgrm.eu/channels) - Directory of Telegram channels.
+- [Readergram.com](https://readergram.com/) - Search engine for Telegram channels and posts.
+- [Ixgram](https://www.telegramgroup1.com/) - Directory of Telegram groups.
+- [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html) - Searches for Telegram channels, bots, and groups.
+- [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/) - Directory of Telegram channels, bots, and groups.
+- [TelegramDB.org](https://telegramdb.org/) - Database of Telegram channels and groups.
+- [Global Telegram Database](https://t.me/s/privatelinks) - Telegram channel sharing database of links.
+- [Nekogram X](https://f-droid.org/packages/nekox.messenger/) - Unofficial Telegram client with additional features.
+
     
 ## SNAPCHAT
-    
-- [Snap Map](https://map.snapchat.com/)
-- [SnapScraper](https://rhematt.github.io/Snap-Scraper/)
-- [snapmap-archiver](https://pypi.org/project/snapmap-archiver/)
-    
+
+- [Snap Map](https://map.snapchat.com/) - View public Snapchat stories on a map.
+- [SnapScraper](https://rhematt.github.io/Snap-Scraper/) - Tool for scraping Snapchat stories from Snap Map.
+- [snapmap-archiver](https://pypi.org/project/snapmap-archiver/) - Archive Snap Map stories.
+
 ## TIKTOK
-    
-- [TIKTOK Search Engine](https://cse.google.com/cse?cx=011444696387487602669:aqf7d9w73om)
-- [TikTok User Search](https://vidnice.com/search/)
-- [TikTok downloader](https://tiktokd.com/)
-    
+
+- [TIKTOK Search Engine](https://cse.google.com/cse?cx=011444696387487602669:aqf7d9w73om) - Custom search engine for TikTok content.
+- [TikTok User Search](https://vidnice.com/search/) - Search for TikTok users and their videos.
+- [TikTok downloader](https://tiktokd.com/) - Downloads TikTok videos.
+
 ## STEAM
-    
-- [Steam Community :: Search](https://steamcommunity.com/search/users/)
-- [Steam ID Finder](https://steamidfinder.com/lookup/)
-- [steamdb.info/calculator](https://steamdb.info/calculator/)
-    
+
+- [Steam Community :: Search](https://steamcommunity.com/search/users/) - Search for users on Steam Community.
+- [Steam ID Finder](https://steamidfinder.com/lookup/) - Finds Steam IDs and profiles.
+- [steamdb.info/calculator](https://steamdb.info/calculator/) - Calculates the value of a Steam account.
+
 ## CLUBHOUSE
-    
-- [Clubhouse Database](https://clubhousedb.com/)
-- [Rooms of Clubhouse](https://roomsofclubhouse.com/)
+
+- [Clubhouse Database](https://clubhousedb.com/) - Directory of Clubhouse users.
+- [Rooms of Clubhouse](https://roomsofclubhouse.com/) - Finds and tracks Clubhouse rooms.
+
     
     
 ## BOT
-    
-- [Bot Sentinel Dashboard ‹ Bot Sentinel](https://botsentinel.com/)
-- [Botometer by OSoMe](https://botometer.osome.iu.edu/)
-- [FollowerAudit](https://www.followeraudit.com/)
-- [Twitter Bot Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-bot-checker)
-- [BotSlayer](https://osome.iu.edu/tools/botslayer)
-    
+
+- [Bot Sentinel Dashboard ‹ Bot Sentinel](https://botsentinel.com/) - Tracks and identifies harmful bots on Twitter.
+- [Botometer by OSoMe](https://botometer.osome.iu.edu/) - Checks the activity of Twitter accounts to assess if they are bots.
+- [FollowerAudit](https://www.followeraudit.com/) - Analyzes the followers of a Twitter account to identify fake followers.
+- [Twitter Bot Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-bot-checker) - Tool for checking bots among Twitter followers.
+- [BotSlayer](https://osome.iu.edu/tools/botslayer) - Real-time system to detect and track bot activity on Twitter.
+
 ## ANALYTICS
-    
-- [SEO Resources Search Engine](https://cse.google.com/cse/publicurl?cx=005797772976587943970:i7q6z1kjm1w)
-- [Hashatit](https://www.hashatit.com/)
-- [Social Mentions](https://www.social-searcher.com/media-monitoring/)
-- [Social Trends](https://www.social-searcher.com/social-trends/)
-- [Anonymous Ad Preview Tool](https://ads.google.com/anon/AdPreview)
-- [Semrush](https://www.semrush.com/)
-- [Network Tool](https://osome.iu.edu/tools/networks/#/)
-- [Trends Tool](https://osome.iu.edu/tools/trends/#/)
-- [CoVaxxy](https://osome.iu.edu/tools/covaxxy)
-    
+
+- [SEO Resources Search Engine](https://cse.google.com/cse/publicurl?cx=005797772976587943970:i7q6z1kjm1w) - Custom search engine for SEO resources.
+- [Hashatit](https://www.hashatit.com/) - Search and analyze hashtags across social media platforms.
+- [Social Mentions](https://www.social-searcher.com/media-monitoring/) - Monitors and analyzes social media mentions.
+- [Social Trends](https://www.social-searcher.com/social-trends/) - Tracks trending topics across social media.
+- [Anonymous Ad Preview Tool](https://ads.google.com/anon/AdPreview) - Preview Google ads in various locations and languages.
+- [Semrush](https://www.semrush.com/) - Comprehensive tool for SEO, PPC, and content marketing.
+- [Network Tool](https://osome.iu.edu/tools/networks/#/) - Analyzes social media networks.
+- [Trends Tool](https://osome.iu.edu/tools/trends/#/) - Tracks and analyzes trends on social media.
+- [CoVaxxy](https://osome.iu.edu/tools/covaxxy) - Monitors and analyzes COVID-19 vaccine-related content on social media.
+
 ## BLOG
-    
-- [Blogs Search Engine](https://cse.google.com/cse?cx=013991603413798772546:8c1g6f0frp8#gsc.tab=0)
-- [WordPress Content Snatcher](https://cse.google.com/cse/publicurl?cx=011081986282915606282:w8bndhohpi0)
-- [WordPress Custom Search](https://cse.google.com/cse?cx=011081986282915606282:w8bndhohpi0)
-- [OSINT Blogs Search Engine](https://cse.google.com/cse?cx=fd4729049350a76d0)
+
+- [Blogs Search Engine](https://cse.google.com/cse?cx=013991603413798772546:8c1g6f0frp8#gsc.tab=0) - Custom search engine for blogs.
+- [WordPress Content Snatcher](https://cse.google.com/cse/publicurl?cx=011081986282915606282:w8bndhohpi0) - Custom search engine for WordPress content.
+- [WordPress Custom Search](https://cse.google.com/cse?cx=011081986282915606282:w8bndhohpi0) - Searches WordPress sites for content.
+- [OSINT Blogs Search Engine](https://cse.google.com/cse?cx=fd4729049350a76d0) - Custom search engine for OSINT blogs.
+
     
 ## NEWS
-    
-- [News Search Engine](https://cse.google.com/cse?cx=013991603413798772546:fvmtax6anhd)
-- [Mailing List Archives Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq)
-- [Google News](https://news.google.com/)
-- [News Search](https://upstract.com/search)
-- [Correct Search](http://correctsearch.com/)
-- [Beautiful News](https://informationisbeautiful.net/beautifulnews/)
-- [GoodGopher.com](https://goodgopher.com/)
-- [Newsnow](https://www.newsnow.co.uk/)
-- [Mereku.com](https://mereku.com/)
-- [Newspapers.com](https://www.newspapers.com/)
-- [Newspaper Archive](https://www.gastearsivi.com/en/)
-- [Talkwalker](https://www.talkwalker.com/alerts)
-- [Google Alerts](https://www.google.com/alerts)
-- [Paperball.news](https://paperball.news/)
-- [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/)
-- [Snopes](https://www.snopes.com/?s=)
-- [ReviewMeta](https://reviewmeta.com/)
-- [Verification Handbook](https://datajournalism.com/read/handbook/verification-1)
-- [Truth or Fiction](https://www.truthorfiction.com/)
-- Debunking False Stories Archives](https://www.factcheck.org/fake-news/)
-- [Fact-Checking](https://reporterslab.org/fact-checking/)
+
+- [News Search Engine](https://cse.google.com/cse?cx=013991603413798772546:fvmtax6anhd) - Custom search engine for news articles.
+- [Mailing List Archives Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq) - Searches mailing list archives.
+- [Google News](https://news.google.com/) - Aggregates news articles from various sources.
+- [News Search](https://upstract.com/search) - Comprehensive search for news articles.
+- [Correct Search](http://correctsearch.com/) - Search engine focusing on reliable news sources.
+- [Beautiful News](https://informationisbeautiful.net/beautifulnews/) - Visualizes news and data beautifully.
+- [GoodGopher.com](https://goodgopher.com/) - Independent news search engine.
+- [Newsnow](https://www.newsnow.co.uk/) - Real-time news updating service.
+- [Mereku.com](https://mereku.com/) - News search and aggregation.
+- [Newspapers.com](https://www.newspapers.com/) - Archive of historical newspapers.
+- [Newspaper Archive](https://www.gastearsivi.com/en/) - Global newspaper archive.
+- [Talkwalker](https://www.talkwalker.com/alerts) - Custom alerts for news mentions.
+- [Google Alerts](https://www.google.com/alerts) - Sets alerts for specific topics or keywords.
+- [Paperball.news](https://paperball.news/) - Aggregates and searches for news articles.
+- [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/) - Visualizes the spread of claims online.
+- [Snopes](https://www.snopes.com/?s=) - Fact-checking website for verifying news stories.
+- [ReviewMeta](https://reviewmeta.com/) - Analyzes and verifies online reviews.
+- [Verification Handbook](https://datajournalism.com/read/handbook/verification-1) - Guide for verifying information in digital journalism.
+- [Truth or Fiction](https://www.truthorfiction.com/) - Fact-checking website for news and stories.
+- [Debunking False Stories Archives](https://www.factcheck.org/fake-news/) - Archive of debunked fake news stories.
+- [Fact-Checking](https://reporterslab.org/fact-checking/) - Directory of fact-checking organizations.
+
     
 ## SEARCH ENGINES
-    
-- [Google Advanced Search](https://www.google.com/advanced_search)
-- [SearX](https://searx.ninja/)
-- [Bing](https://www.bing.com/)
-- [Yandex](https://yandex.com/)
-- [MetaGer: Privacy Protected Search](https://metager3.de/)
-- [Duck Duck Go](https://duckduckgo.com/)
-- [Search Engines Index](https://www.searchenginesindex.com/)
-- [carrot2](https://search.carrot2.org/#/search/web)
-- [Qwant](https://www.qwant.com/)
-- [Startpage](https://startpage.com/)
-- [Mailing List Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq)
-- [swisscows](https://swisscows.com/)
-- [Crossref](https://search.crossref.org/)
-- [Brave](https://search.brave.com/)
-- [Mojeek](https://www.mojeek.com/)
-- [Yahoo Search](https://search.yahoo.com/)
-- [Baidu](https://www.baidu.com/)
-- [Ecosia](https://www.ecosia.org/)
-- [Dogpile](https://www.dogpile.com/)
-- [Zoo Search](https://www.metacrawler.com/)
-- [App Store and iTunes search engine](https://fnd.io/)
-- [Ask](https://www.search.ask.com/)
-- [ZorexEye](http://zorexeye.com/)
-- [Flippity](https://www.flippity.com/)
-- [keys.openpgp.org](https://keys.openpgp.org/)
-- [MIT PGP Key Server](https://pgp.mit.edu/)
-- [Ipse.io](https://www.ipse.io/)
-- [Ipfs-search.com](https://ipfs-search.com/#/search)
-- [Debate.cards](http://debate.cards/)
-- [Argumentsearch.com](http://argumentsearch.com/)
-- [Meganzsearch.com](https://www.meganzsearch.com/)
-- [Engine.presearch.org](https://engine.presearch.org/)
-- [Blockscan.com](https://blockscan.com/)
-- [Publc.com](https://publc.com/)
-- [GoPit Search Engine - Home](https://www.gopit.com/socialsearch/index.php?type=Social)
-- [CachedViews.com](https://cachedviews.com/)
-- [MAC Address Lookup](https://maclookup.app/)
-- [sploitus](https://sploitus.com/)
-- [https://vulmon.com/](https://vulmon.com/)
-- [Vulnerability & Exploit Database](https://www.rapid7.com/db/)
-- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
-- [Recon](http://recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion.pet/)
-- [Google & Bing](https://one-plus.github.io/GoogleBing)
-- [Bookmarks](https://one-plus.github.io/Bookmarks)
-- [Boardreader - Forum Search](https://boardreader.com/)
-- [Libgen.rs](http://libgen.rs/)
-- [Stacksearch](https://stacksear.ch/)
-- [SearchTempest](https://www.searchtempest.com/)
-- [2lingual](https://2lingual.com/)
-- [SEQE - Search Engines Query Engine](https://seqe.me/)
-- [Milled](https://milled.com/search)
-- [btdig](https://btdig.com/)
-- [Osint Open Source Projects](https://awesomeopensource.com/projects/osint)
-- [Monster Crawler Search](http://monstercrawler.com/)
-- [Arabo.com](http://arabo.com/)
-- [Google Scholar](https://scholar.google.com/)
-- [Million Short](https://millionshort.com/)
-- [BeVigil](https://bevigil.com/)
-- [WordPress.com](https://en.search.wordpress.com/)
-- [Octosearch.dootech.com](https://octosearch.dootech.com/)
-- [Search craigslist](http://searchcraigslist.org/)
-- [Public AWS S3 & Azure Search](https://buckets.grayhatwarfare.com/)
-- [Public Buckets](https://osint.sh/buckets/)
-- [URL Shorteners Search](https://shorteners.grayhatwarfare.com/)
-- [Search Atlas](https://searchatlas.org/)
-- [Google to search profiles on Stack Overflow](https://recruitin.net/stackoverflow.php)
-- [Binparcel.com](https://binparcel.com/)
+
+- [Google Advanced Search](https://www.google.com/advanced_search) - Advanced search options for Google.
+- [SearX](https://searx.ninja/) - Privacy-respecting metasearch engine.
+- [Bing](https://www.bing.com/) - Microsoft's search engine.
+- [Yandex](https://yandex.com/) - Russian search engine.
+- [MetaGer: Privacy Protected Search](https://metager3.de/) - Privacy-focused search engine.
+- [Duck Duck Go](https://duckduckgo.com/) - Search engine that emphasizes privacy.
+- [Search Engines Index](https://www.searchenginesindex.com/) - Index of various search engines.
+- [carrot2](https://search.carrot2.org/#/search/web) - Clustering search engine.
+- [Qwant](https://www.qwant.com/) - Privacy-focused search engine based in France.
+- [Startpage](https://startpage.com/) - Privacy-enhancing search engine using Google results.
+- [Mailing List Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq) - Searches mailing list archives.
+- [swisscows](https://swisscows.com/) - Family-friendly and privacy-focused search engine.
+- [Crossref](https://search.crossref.org/) - Searches scholarly publications.
+- [Brave](https://search.brave.com/) - Privacy-focused search engine by Brave.
+- [Mojeek](https://www.mojeek.com/) - Independent and crawler-based search engine.
+- [Yahoo Search](https://search.yahoo.com/) - Yahoo's search engine.
+- [Baidu](https://www.baidu.com/) - Leading Chinese search engine.
+- [Ecosia](https://www.ecosia.org/) - Search engine that plants trees with its revenue.
+- [Dogpile](https://www.dogpile.com/) - Metasearch engine.
+- [Zoo Search](https://www.metacrawler.com/) - Metasearch engine for various types of content.
+- [App Store and iTunes search engine](https://fnd.io/) - Searches Apple's App Store and iTunes.
+- [Ask](https://www.search.ask.com/) - Search engine formerly known as Ask Jeeves.
+- [ZorexEye](http://zorexeye.com/) - Search engine for OSINT purposes.
+- [Flippity](https://www.flippity.com/) - Creates flashcards and other learning resources.
+- [keys.openpgp.org](https://keys.openpgp.org/) - Searches for OpenPGP keys.
+- [MIT PGP Key Server](https://pgp.mit.edu/) - Searches for PGP keys.
+- [Ipse.io](https://www.ipse.io/) - Search engine for the InterPlanetary File System (IPFS).
+- [Ipfs-search.com](https://ipfs-search.com/#/search) - Search engine for IPFS.
+- [Debate.cards](http://debate.cards/) - Search engine for debate resources.
+- [Argumentsearch.com](http://argumentsearch.com/) - Searches for debate arguments and resources.
+- [Meganzsearch.com](https://www.meganzsearch.com/) - Searches Mega.nz links.
+- [Engine.presearch.org](https://engine.presearch.org/) - Decentralized search engine.
+- [Blockscan.com](https://blockscan.com/) - Searches blockchain-related data.
+- [Publc.com](https://publc.com/) - Social search engine that rewards contributors.
+- [GoPit Search Engine - Home](https://www.gopit.com/socialsearch/index.php?type=Social) - Searches social media platforms.
+- [CachedViews.com](https://cachedviews.com/) - Searches cached versions of web pages.
+- [MAC Address Lookup](https://maclookup.app/) - Looks up MAC address information.
+- [sploitus](https://sploitus.com/) - Search engine for exploits and vulnerabilities.
+- [Vulmon](https://vulmon.com/) - Vulnerability search engine.
+- [Vulnerability & Exploit Database](https://www.rapid7.com/db/) - Searches vulnerabilities and exploits.
+- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - Repository of Google dorks.
+- [Recon](http://recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion.pet/) - Search engine for recon purposes on the dark web.
+- [Google & Bing](https://one-plus.github.io/GoogleBing) - Tools for enhanced searches on Google and Bing.
+- [Bookmarks](https://one-plus.github.io/Bookmarks) - Search engine for bookmarks.
+- [Boardreader - Forum Search](https://boardreader.com/) - Searches forums and discussion boards.
+- [Libgen.rs](http://libgen.rs/) - Library Genesis for scientific articles.
+- [Stacksearch](https://stacksear.ch/) - Searches Stack Overflow and other Stack Exchange sites.
+- [SearchTempest](https://www.searchtempest.com/) - Searches Craigslist and other classified ads.
+- [2lingual](https://2lingual.com/) - Bilingual search engine for Google.
+- [SEQE - Search Engines Query Engine](https://seqe.me/) - Metasearch engine querying multiple search engines.
+- [Milled](https://milled.com/search) - Searches for email newsletters.
+- [btdig](https://btdig.com/) - Torrent search engine.
+- [Osint Open Source Projects](https://awesomeopensource.com/projects/osint) - Directory of open-source OSINT projects.
+- [Monster Crawler Search](http://monstercrawler.com/) - Metasearch engine combining results from multiple sources.
+- [Arabo.com](http://arabo.com/) - Arabic-focused search engine.
+- [Google Scholar](https://scholar.google.com/) - Searches scholarly literature.
+- [Million Short](https://millionshort.com/) - Removes the top million sites from search results.
+- [BeVigil](https://bevigil.com/) - Search engine for security threats.
+- [WordPress.com](https://en.search.wordpress.com/) - Searches content on WordPress.com.
+- [Octosearch.dootech.com](https://octosearch.dootech.com/) - Metasearch engine.
+- [Search craigslist](http://searchcraigslist.org/) - Searches Craigslist listings.
+- [Public AWS S3 & Azure Search](https://buckets.grayhatwarfare.com/) - Searches public AWS S3 and Azure buckets.
+- [Public Buckets](https://osint.sh/buckets/) - Searches public cloud storage buckets.
+- [URL Shorteners Search](https://shorteners.grayhatwarfare.com/) - Searches URLs shortened by popular URL shorteners.
+- [Search Atlas](https://searchatlas.org/) - Visualizes and compares search results from different regions.
+- [Google to search profiles on Stack Overflow](https://recruitin.net/stackoverflow.php) - Custom Google search for Stack Overflow profiles.
+- [Binparcel.com](https://binparcel.com/) - Searches for parcel tracking information.
+
     
 ## GOOGLE CSE
-    
-- [Homepage Search Engine](https://cse.google.com/cse?cx=005797772976587943970:3tu7im1-rdg#gsc.tab=0)
-- [Amazon Cloud Search Engine](https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0)
-- [Google CSE instances Search Engine](https://cse.google.com/cse?cx=009462381166450434430:vggeu3dhhgg#gsc.tab=0)
-- [Robots.txt Search Engine](https://cse.google.com/cse?cx=013991603413798772546:zu7epjqvunu)
-- [Short URL Search Engine](https://cse.google.com/cse?cx=017261104271573007538:magh-vr6t6g#gsc.tab=0)
-- [Wikispaces Search Engine](https://cse.google.com/cse/publicurl?cx=005797772976587943970:afbre9pr2ly)
-- [Dog Bites Search Engine](https://cse.google.com/cse?cx=partner-pub-8216357153102971:3267723418)
-- [Google Domain Hacker](https://cse.google.com/cse/publicurl?cx=005797772976587943970:ca2hiy6hmri)
-- [Google Drive Folder Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:nwzqlcysx_w)
-- [Chrome Extension Archive Search Engine](https://cse.google.com/cse/publicurl?cx=000501358716561852263:h-5uyshsclq)
-- [Github with Awesome-List Search Engine](https://cse.google.com/cse/publicurl?cx=017261104271573007538:fqn_jyftcdq)
-- [Better Chrome Web Store Search Engine](https://cse.google.com/cse/publicurl?cx=006205189065513216365:pn3lumi80ne)
-- [App Store Custom Search Engine](https://cse.google.com/cse/publicurl?cx=006205189065513216365:aqogom-kfne)
-- [Google.com Hack Attack](https://cse.google.com/cse/publicurl?cx=017648920863780530960:lddgpbzqgoi)
-- [Search by FileType](https://cse.google.com/cse/publicurl?cx=013991603413798772546:mu-oio3a980)
-- [Search Engine Finder](https://cse.google.com/cse?cx=016621447308871563343:nyvaorurd5l)
-- [Mindmap Search Engine](http://cse.google.com/cse?cx=013991603413798772546:gj6rx9spox8#gsc.tab=0)
+
+- [Homepage Search Engine](https://cse.google.com/cse?cx=005797772976587943970:3tu7im1-rdg#gsc.tab=0) - Custom search for homepage content.
+- [Amazon Cloud Search Engine](https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0) - Searches Amazon Cloud content.
+- [Google CSE instances Search Engine](https://cse.google.com/cse?cx=009462381166450434430:vggeu3dhhgg#gsc.tab=0) - Searches Google Custom Search Engine instances.
+- [Robots.txt Search Engine](https://cse.google.com/cse?cx=013991603413798772546:zu7epjqvunu) - Searches robots.txt files.
+- [Short URL Search Engine](https://cse.google.com/cse?cx=017261104271573007538:magh-vr6t6g#gsc.tab=0) - Searches short URLs.
+- [Wikispaces Search Engine](https://cse.google.com/cse/publicurl?cx=005797772976587943970:afbre9pr2ly) - Custom search for Wikispaces content.
+- [Dog Bites Search Engine](https://cse.google.com/cse?cx=partner-pub-8216357153102971:3267723418) - Searches for dog bite incidents.
+- [Google Domain Hacker](https://cse.google.com/cse/publicurl?cx=005797772976587943970:ca2hiy6hmri) - Custom search for hacking Google domains.
+- [Google Drive Folder Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:nwzqlcysx_w) - Searches Google Drive folders.
+- [Chrome Extension Archive Search Engine](https://cse.google.com/cse/publicurl?cx=000501358716561852263:h-5uyshsclq) - Searches for archived Chrome extensions.
+- [Github with Awesome-List Search Engine](https://cse.google.com/cse/publicurl?cx=017261104271573007538:fqn_jyftcdq) - Searches GitHub repositories with awesome lists.
+- [Better Chrome Web Store Search Engine](https://cse.google.com/cse/publicurl?cx=006205189065513216365:pn3lumi80ne) - Improved search for Chrome Web Store extensions.
+- [App Store Custom Search Engine](https://cse.google.com/cse/publicurl?cx=006205189065513216365:aqogom-kfne) - Custom search for App Store content.
+- [Google.com Hack Attack](https://cse.google.com/cse/publicurl?cx=017648920863780530960:lddgpbzqgoi) - Custom search for hacking-related content on Google.
+- [Search by FileType](https://cse.google.com/cse/publicurl?cx=013991603413798772546:mu-oio3a980) - Searches for specific file types.
+- [Search Engine Finder](https://cse.google.com/cse?cx=016621447308871563343:nyvaorurd5l) - Finds various search engines.
+- [Mindmap Search Engine](http://cse.google.com/cse?cx=013991603413798772546:gj6rx9spox8#gsc.tab=0) - Searches for mind maps.
+
     
 ## IMAGE / VIDEO / AUDIO / MEDIA
-    
-- [Google Images](https://images.google.com/)
-- [Yandex Images](https://yandex.com/images/)
-- [Bing Images](https://www.bing.com/images)
-- [See it, search it](https://www.bing.com/visualsearch)
-- [Images Search Engine](https://cse.google.com/cse?cx=281566d4e61dcc05d)
-- [miniPaint](https://viliusle.github.io/miniPaint/)
-- [PimEyes](https://pimeyes.com/en/)
-- [TinEye](https://tineye.com/)
-- [Findclone](https://findclone.ru/)
-- [Image Raider](https://infringement.report/api/raider-reverse-image-search/)
-- [same.energy](https://same.energy/)
-- [Baidu](https://image.baidu.com/)
-- [Peteyvid.com](https://www.peteyvid.com/)
-- [Free Music Search](http://musgle.com/)
-- [Yahoo Image Search](https://images.search.yahoo.com/images)
-- [Photo Album Finder](https://cse.google.com/cse/publicurl?cx=013991603413798772546:bldnx392j6u)
-- [Image Metadata Viewer](http://exif.regex.info/exif.cgi)
-- [Search for Music Using Your Voice](https://www.midomi.com/)
-- [MyHeritage Photo Enhancer](https://www.myheritage.com/photo-enhancer)
-- [Neural network image super-resolution and enhancement](https://letsenhance.io/)
-- [SVG Editor](https://svg-edit.github.io/svgedit/)
-- [Pixsy](https://www.pixsy.com/)
-- [FotoForensics](https://fotoforensics.com/)
-- [Listen Notes](https://www.listennotes.com/)
-- [image identify](https://www.imageidentify.com/)
-- [EXIF Data Viewer](http://exifdata.com/)
-- [Discover Podcasts Here!](https://podsearch.com/)
-- [Pictures](https://www.picsearch.com/)
-- [Background Removal Tool](https://photoscissors.com/)
-- [Museo](https://museo.app/)
-- [Diff Checker](https://www.diffchecker.com/image-diff/)
-- [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
-- [Pictriev](http://pictriev.com/)
-- [WhatTheFont](https://www.myfonts.com/WhatTheFont/)
-- [Sogou](https://pic.sogou.com/)
-- [Pixabay](https://pixabay.com/images/search/)
+
+- [Google Images](https://images.google.com/) - Search for images on Google.
+- [Yandex Images](https://yandex.com/images/) - Search for images on Yandex.
+- [Bing Images](https://www.bing.com/images) - Search for images on Bing.
+- [See it, search it](https://www.bing.com/visualsearch) - Visual search tool by Bing.
+- [Images Search Engine](https://cse.google.com/cse?cx=281566d4e61dcc05d) - Custom search engine for images.
+- [miniPaint](https://viliusle.github.io/miniPaint/) - Online image editor.
+- [PimEyes](https://pimeyes.com/en/) - Facial recognition search engine.
+- [TinEye](https://tineye.com/) - Reverse image search engine.
+- [Findclone](https://findclone.ru/) - Facial recognition search in VKontakte.
+- [Image Raider](https://infringement.report/api/raider-reverse-image-search/) - Reverse image search for finding image copies online.
+- [same.energy](https://same.energy/) - Visual search for similar images.
+- [Baidu](https://image.baidu.com/) - Search for images on Baidu.
+- [Peteyvid.com](https://www.peteyvid.com/) - Video search engine.
+- [Free Music Search](http://musgle.com/) - Search for free music tracks.
+- [Yahoo Image Search](https://images.search.yahoo.com/images) - Search for images on Yahoo.
+- [Photo Album Finder](https://cse.google.com/cse/publicurl?cx=013991603413798772546:bldnx392j6u) - Custom search engine for photo albums.
+- [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - View EXIF metadata of images.
+- [Search for Music Using Your Voice](https://www.midomi.com/) - Search for music by singing or humming.
+- [MyHeritage Photo Enhancer](https://www.myheritage.com/photo-enhancer) - Enhance old photos with AI.
+- [Neural network image super-resolution and enhancement](https://letsenhance.io/) - Enhance images using AI.
+- [SVG Editor](https://svg-edit.github.io/svgedit/) - Online SVG editor.
+- [Pixsy](https://www.pixsy.com/) - Protect and monitor your images online.
+- [FotoForensics](https://fotoforensics.com/) - Analyze images for forensics.
+- [Listen Notes](https://www.listennotes.com/) - Podcast search engine.
+- [image identify](https://www.imageidentify.com/) - Identify objects in images.
+- [EXIF Data Viewer](http://exifdata.com/) - Online EXIF data viewer.
+- [Discover Podcasts Here!](https://podsearch.com/) - Search for podcasts.
+- [Pictures](https://www.picsearch.com/) - Search for pictures.
+- [Background Removal Tool](https://photoscissors.com/) - Remove backgrounds from images.
+- [Museo](https://museo.app/) - Search for art and museum collections.
+- [Diff Checker](https://www.diffchecker.com/image-diff/) - Compare differences between images.
+- [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Toolset for digital image forensics.
+- [Pictriev](http://pictriev.com/) - Facial recognition search and analysis.
+- [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Identify fonts in images.
+- [Sogou](https://pic.sogou.com/) - Search for images on Sogou.
+- [Pixabay](https://pixabay.com/images/search/) - Free image search on Pixabay.
+
 
 ## LICENSE PLATE/VIN/VEHICLE
- 
-- [Plate Recognizer](https://platerecognizer.com/)
-- [License Plates of the World](http://www.worldlicenseplates.com/)
-- [VIN decoder](http://www.vindecoderz.com/)
-- [Poctra.com](https://poctra.com/)
-- [FAXVIN](https://www.faxvin.com/)
-- [AutoCheck](https://www.autocheck.com/)
-- [VIN Lookup](https://thatsthem.com/vin-lookup)
-- [VINCheck®](https://www.nicb.org/vincheck)
-- [Autogespot](https://www.autogespot.us/spots)
-- [Nomerogram.ru](https://www.nomerogram.ru/)
-- [COSINT – OSINT on Cars](https://osintcurio.us/2021/02/17/cosint-osint-on-cars/)
-- [🚗License Plates in Canada 🇨🇦](https://www.google.com/maps/d/viewer?mid=1zXYL2BF2MByEduLzYN5brVnli9J3cIlv)
-- [Vehical Info](https://www.vehicleinfo.in/)    
-    
+
+- [Plate Recognizer](https://platerecognizer.com/) - License plate recognition software.
+- [License Plates of the World](http://www.worldlicenseplates.com/) - Database of license plates from around the world.
+- [VIN decoder](http://www.vindecoderz.com/) - Decodes vehicle identification numbers (VIN).
+- [Poctra.com](https://poctra.com/) - Searches for stolen vehicles by VIN.
+- [FAXVIN](https://www.faxvin.com/) - VIN lookup and vehicle history reports.
+- [AutoCheck](https://www.autocheck.com/) - Provides vehicle history reports.
+- [VIN Lookup](https://thatsthem.com/vin-lookup) - Searches for information by VIN.
+- [VINCheck®](https://www.nicb.org/vincheck) - Free VIN check for stolen or salvaged vehicles.
+- [Autogespot](https://www.autogespot.us/spots) - Spotting and photographing of exotic cars.
+- [Nomerogram.ru](https://www.nomerogram.ru/) - Searches for Russian license plates.
+- [COSINT – OSINT on Cars](https://osintcurio.us/2021/02/17/cosint-osint-on-cars/) - Guide on OSINT techniques for vehicles.
+- [🚗License Plates in Canada 🇨🇦](https://www.google.com/maps/d/viewer?mid=1zXYL2BF2MByEduLzYN5brVnli9J3cIlv) - Map of Canadian license plates.
+- [Vehical Info](https://www.vehicleinfo.in/) - Provides vehicle registration details in India.
+
 ## FLIGHT TRACKER
-    
-- [FlightAirMap](https://www.flightairmap.com/)
-- [ADS-B Exchange](https://globe.adsbexchange.com/)
-- [Icarus.flights](https://icarus.flights/)
-- [FlightAware](https://flightaware.com/)
-- [Flightradar24](https://www.flightradar24.com/)
-- [Live Air Traffic Control](https://www.liveatc.net/)
-- [Planespotters.net](https://www.planespotters.net/)
-- [Skyscanner](https://www.skyscanner.com/)
-- [RadarBox](https://www.radarbox.com/)
-- [ICAO Civil and Military airspace SUASHP](https://www.arcgis.com/apps/webappviewer/index.html?id=5db021bcb221498f81be055b3e238bf8)
-    
-## MARITIME
-    
-- [Marine Traffic](https://www.marinetraffic.com/)
-- [VesselFinder](https://www.vesselfinder.com/)
-- [FlightAirMap](https://www.flightairmap.com/)
-- [OSINT on the Ocean](https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1)
-    
-## OPEN DIRECTORY
-    
-- [FilePhish](https://cartographia.github.io/FilePhish/)
-- [Open Directory Finder](https://odfinder.github.io/)
-- [Filetype search tool](https://www.aware-online.com/en/osint-tools/filetype-search-tool/)
-- [Opendirsearch.abifog.com](https://opendirsearch.abifog.com/)
-- [Archive-it.org](https://archive-it.org/)
-- [Odcrawler.xyz](https://odcrawler.xyz/)
-- [Google Docs CSE](https://cse.google.com/cse/publicurl?cx=013991603413798772546:rse-4irjrn8#gsc.tab=0)
-- [Documents Search Engine](https://cse.google.com/cse?cx=e6756edc507bcfa91)
-- [Cybersec Documents Search Engine](https://cse.google.com/cse?cx=013991603413798772546:ekjmizm8vus#gsc.tab=0)
-- [GoogleDrive Search Engine](https://cse.google.com/cse?cx=c64ba311eb8c31896)
-- [SlideShare Search Engine](https://cse.google.com/cse?cx=465eeeb114c7f523f)
-- [Document Search](https://one-plus.github.io/DocumentSearch)
-- [FONETASK](http://fonetask.com/)
-- [Web archive search tool](https://www.aware-online.com/osint-tools/web-archive-search-tool/)
-- [Pdfsearch.io](https://www.pdfsearch.io/)
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Drivesearch.kwebpia.net](http://drivesearch.kwebpia.net/)
-- [Filepursuit.com](https://filepursuit.com/)
-- [Open Directory Search](http://eyeofjustice.com/od/)
-- [Mamont’s open FTP Index](https://www.mmnt.net/)
-- [LENDX](http://lendx.org/)
-- [Direct Download Almost Anything](https://ewasion.github.io/opendirectory-finder/)
-    
-## DATASET
-    
-- [Datasetsearch.research.google.com](https://datasetsearch.research.google.com/)
-- [Databasd](https://databasd.com/)
-- [Data.gov](https://www.data.gov/)
-- [data.world](https://data.world/)
-- [BigQuery public datasets](https://cloud.google.com/bigquery/public-data/)
-- [DSC Data Science Search Engine](https://www.datasciencecentral.com/page/search)
-- [Datasetlist.com](https://www.datasetlist.com/)
-- [Search Datasets](https://datahub.io/search)
-- [OpenData by Socrata](https://opendata.socrata.com/)
-- [Opensanctions.org](https://opensanctions.org/)
-- [FiveThirtyEight](https://fivethirtyeight.com/?s=)
-- [Kaggle](https://www.kaggle.com/search?q=)
-    
-## SOURCE CODES
-    
-- [Pastes Search Engine](https://cse.google.com/cse?cx=661713d0371832a02)
-- [Pastes Search Engine 2](https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e)
-- [GitHub Search Engine](https://cse.google.com/cse?cx=1b053c8ec746d6611)
-- [Source Code Search Engine](https://publicwww.com/)
-- [Google to search profiles on GitHub](https://recruitin.net/github.php)
-- [Grep.app](https://grep.app/)
-- [NerdyData](https://www.nerdydata.com/)
-- [Paste Search](https://psbdmp.ws/)
-- [GitHub Code Search](https://github.com/search)
-- [Bitbucket Repo Search](https://bitbucket.org/repo/all/)
-- [Shhgit](https://github.com/eth0izzle/shhgit)
-- [git-hound](https://github.com/tillson/git-hound)
-- [Webfinery | Source Code Search](https://webfinery.com/search)
-- [Online IDE and Paste Search Engine](https://redhuntlabs.com/online-ide-search)
-- [searchcode](https://searchcode.com/)
-- [Sourcegraph](https://about.sourcegraph.com/)
-- [Awesome Open Source](https://awesomeopensource.com/)
-- [Zen](https://github.com/s0md3v/Zen)
-- [GitDorker](https://github.com/obheda12/GitDorker)
-    
-## WHOIS
-    
-- [WHOIS Service](https://whoismind.com/)
-- [Whois Search](https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US)
-- [Who.is](https://who.is/)
-- [Whoxy](https://www.whoxy.com/)
-- [Whois History](https://osint.sh/whoishistory/)
-    
-## DOMAIN / IP / DNS
-    
-- [Domain Codex](https://www.domaincodex.com/search.php)
-- [dnslytics](https://dnslytics.com/)
-- [SecurityTrails](https://securitytrails.com/)
-- [Shodan](https://shodan.io/)
-- [Internetdb.shodan.io](https://internetdb.shodan.io/)
-- [GreyNoise Intelligence](https://www.greynoise.io/viz/)
-- [zoomeye](https://www.zoomeye.org/)
-- [Censys](https://search.censys.io/)
-- [ViewDNS.info](https://viewdns.info/)
-- [Internet Census 2012](http://census2012.sourceforge.net/paper.html)
-- [ONYPHE](https://www.onyphe.io/)
-- [IPLeak](https://ipleak.net/)
-- [Censys Certificates](https://censys.io/certificates)
-- [Censys IPv4](https://censys.io/ipv4)
-- [ViewDNS.info](https://viewdns.info/)
-- [Robtex](https://www.robtex.com/)
-- [Website search tool](https://www.aware-online.com/en/osint-tools/website-search-tool/)
-- [Wappalyzer](https://www.wappalyzer.com/lookup/)
-- [photon](https://pypi.org/project/photon/)
-- [Technology Lookup](https://osint.sh/stack/)
-- [BuiltWith Technology Lookup](https://builtwith.com/)
-- [NMAP Online](https://osint.sh/nmap/)
-- [Free online network tools](https://centralops.net/co/)
-- [Google Transparency Report](https://transparencyreport.google.com/https/certificates)
-- [Certificate Search](https://osint.sh/crt/)
-- [CRT](https://crt.sh/)
-- [LeakIX](https://leakix.net/)
-- [URL and website scanner](https://urlscan.io/)
-- [dnsdumpster](https://dnsdumpster.com/)
-- [Domain Codex](https://www.domaincodex.com/search.php)
-- [SimilarWeb](https://www.similarweb.com/)
-- [Alexa](https://www.alexa.com/siteinfo)
-- [Website Information](https://one-plus.github.io/WebsiteInformation)
-- [IP search - Network Entity Reputation Database](https://nerd.cesnet.cz/nerd/ips/)
-- [Reverse Domain](https://osint.sh/domain/)
-- [Poodle Check](https://osint.sh/poodle/)
-- [Heartbleed Check](https://osint.sh/heartbleed/)
-- [DNS History Lookup](https://osint.sh/dnshistory/)
-- [Subdomain Finder](https://osint.sh/subdomain/)
-- [Reverse IP Lookup](https://osint.sh/reverseip/)
-- [Reverse Google Adsense](https://osint.sh/adsense/)
-- [Reverse Google Analytics](https://osint.sh/analytics/)
-- [Reverse MX Record](https://osint.sh/reversemx/)
-- [IP GEO Location Lookup](https://osint.sh/ip/)
-- [IANA — Root Zone Database](https://www.iana.org/domains/root/db)
-- [Punkspider](https://punkspider.org/)
-- [metabigor](https://github.com/j3ssie/metabigor)
-    
-## MALWARE
-    
-- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
-- [Interactive Online Malware Analysis Sandbox](https://app.any.run/)
-- [Free Automated Malware Analysis Service](https://hybrid-analysis.com/)
-- [VirusTotal](https://www.virustotal.com/gui/)
-- [Maltiverse](https://maltiverse.com/search)
-- [Malware News Search](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc)
-- [AlienVault Open Threat Exchange](https://otx.alienvault.com/)
-- [Jotti’s malware scan](https://virusscan.jotti.org/)
-- [IObit Cloud](https://cloud.iobit.com/index.php)
-- [theZoo](https://github.com/ytisf/theZoo)
-- [Vx-underground.org](https://vx-underground.org/)
-- [VX Heaven](https://vx-underground.org/archive/VxHeaven/index.html)
-- [aptnotes/data](https://github.com/aptnotes/data)
-- [exploit-database-papers](https://github.com/offensive-security/exploitdb-papers)
-- [exploitdb-bin-sploits](https://github.com/offensive-security/exploitdb-bin-sploits)
-    
-## IoT
-    
-- [Webcam Search Engine](https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0)
-- [Insecam](http://www.insecam.org/)
-- [Camhacker.com](https://www.camhacker.com/)
-- [EarthCam](https://www.earthcam.com/)
-- [Airport Webcams](https://airportwebcams.net/)
-- [Default Router Login](https://www.cleancss.com/router-default/)
-- [Webcams Abroad live images](https://www.webcamsabroad.com/)
-- [WEBCAM LIVE](https://www.whatsupcams.com/en/)
-- [city-webcams.com](https://city-webcams.com/)
-- [Live World Webcam](http://liveworldwebcam.net/)
-- [Live Cams | Iplivecams](https://www.iplivecams.com/live-cams/)
-- [Webcamtaxi](https://www.webcamtaxi.com/en/)
-- [Explorecams.com](https://explorecams.com/)
-- [Nest Cam Directory](https://www.nestcamdirectory.com/)
-- [Opentopia](http://www.opentopia.com/)
-- [WorldCam](https://worldcam.eu/)
-- [Hawaii Traffic Cameras](http://goakamai.org/home)
-- [Honolulu Traffic Cams](http://www2.honolulu.gov/honolulumyway/?trafficcam)
-- [Toronto area Live Traffic Cams](https://gtaupdate.com/traffic/)
-- [Lake County Fire Cameras](https://www.arcgis.com/apps/webappviewer/index.html?id=0f7aa08cc4b74fc6a0c4308d4eace6b3)
-- [VDOT Traffic Cams](https://www.arcgis.com/apps/dashboards/a0d3fb34cda44f5b8b10be1b245f24a3)
-- [Lubbock Live Traffic Cameras](https://www.arcgis.com/apps/webappviewer/index.html?id=affe50ac55824c7a8c757d3980787e31)
-- [Hong Kong Traffic Data & Cams](https://www.arcgis.com/apps/dashboards/47be6372a0434beaba99ae9c9f1d598d)
-- [Baton Rouge Traffic Cams](https://www.arcgis.com/apps/webappviewer/index.html?id=0ec05ffb0d2d4735a969e8f31f820a7b)
-    
-## RADIO
-    
-- [Broadcastify](https://www.broadcastify.com/listen/)
-- [RadioReference](https://www.radioreference.com/apps/db/)
-- [Feeds.talonvoice.com](https://feeds.talonvoice.com/)
-- [Automated transcription for radio stations](https://sonix.ai/radio-stations)
-- [Scanmap](https://scanmap.mobi/)
-- [WiGLE: Wireless Network Mapping](https://wigle.net/)
-- [Ham Radio QRZ Callsign Database Search](https://www.qrz.com/lookup)
-- [Radio-Locator](https://radio-locator.com/)
-- [RadioID Database](https://database.radioid.net/database/search#!)
-- [Radio-Sherlock](http://dxmaps.com/search.html)
-- [Rfsearch.com](http://rfsearch.com/)
-- [@murph_live](https://twitter.com/murph_live)
-- [Radio Garden](http://radio.garden/search)
+
+- [FlightAirMap](https://www.flightairmap.com/) - Displays real-time flight data on a map.
+- [ADS-B Exchange](https://globe.adsbexchange.com/) - Global flight tracking using ADS-B data.
+- [Icarus.flights](https://icarus.flights/) - Flight tracking and data visualization.
+- [FlightAware](https://flightaware.com/) - Real-time flight tracking and status.
+- [Flightradar24](https://www.flightradar24.com/) - Live flight tracker with map.
+- [Live Air Traffic Control](https://www.liveatc.net/) - Listen to live air traffic control audio.
+- [Planespotters.net](https://www.planespotters.net/) - Aircraft spotting and photography community.
+- [Skyscanner](https://www.skyscanner.com/) - Flight search engine for finding flights and fares.
+- [RadarBox](https://www.radarbox.com/) - Real-time flight tracking and data sharing.
+- [ICAO Civil and Military airspace SUASHP](https://www.arcgis.com/apps/webappviewer/index.html?id=5db021bcb221498f81be055b3e238bf8) - Map of ICAO civil and military airspace.
 
     
+## MARITIME
+
+- [Marine Traffic](https://www.marinetraffic.com/) - Real-time ship tracking and maritime information.
+- [VesselFinder](https://www.vesselfinder.com/) - Vessel tracking and maritime information.
+- [FlightAirMap](https://www.flightairmap.com/) - Displays real-time flight data on a map, including maritime tracking.
+- [OSINT on the Ocean](https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1) - Guide on maritime intelligence gathering techniques.
+
+## OPEN DIRECTORY
+
+- [FilePhish](https://cartographia.github.io/FilePhish/) - Finds open directories and files.
+- [Open Directory Finder](https://odfinder.github.io/) - Tool to locate open directories.
+- [Filetype search tool](https://www.aware-online.com/en/osint-tools/filetype-search-tool/) - Searches for specific file types in open directories.
+- [Opendirsearch.abifog.com](https://opendirsearch.abifog.com/) - Search engine for open directories.
+- [Archive-it.org](https://archive-it.org/) - Web archiving services and tools.
+- [Odcrawler.xyz](https://odcrawler.xyz/) - Crawler for open directories.
+- [Google Docs CSE](https://cse.google.com/cse/publicurl?cx=013991603413798772546:rse-4irjrn8#gsc.tab=0) - Custom search engine for Google Docs.
+- [Documents Search Engine](https://cse.google.com/cse?cx=e6756edc507bcfa91) - Custom search engine for documents.
+- [Cybersec Documents Search Engine](https://cse.google.com/cse?cx=013991603413798772546:ekjmizm8vus#gsc.tab=0) - Custom search engine for cybersecurity documents.
+- [GoogleDrive Search Engine](https://cse.google.com/cse?cx=c64ba311eb8c31896) - Custom search engine for Google Drive.
+- [SlideShare Search Engine](https://cse.google.com/cse?cx=465eeeb114c7f523f) - Searches for presentations on SlideShare.
+- [Document Search](https://one-plus.github.io/DocumentSearch) - Tool for document searching.
+- [FONETASK](http://fonetask.com/) - Document and file search engine.
+- [Web archive search tool](https://www.aware-online.com/osint-tools/web-archive-search-tool/) - Searches web archives.
+- [Pdfsearch.io](https://www.pdfsearch.io/) - Search engine for PDF files.
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Collection of public datasets.
+- [Drivesearch.kwebpia.net](http://drivesearch.kwebpia.net/) - Search engine for files in Google Drive.
+- [Filepursuit.com](https://filepursuit.com/) - Search engine for open directories and files.
+- [Open Directory Search](http://eyeofjustice.com/od/) - Tool to search open directories.
+- [Mamont’s open FTP Index](https://www.mmnt.net/) - Index of open FTP sites.
+- [LENDX](http://lendx.org/) - Directory search engine.
+- [Direct Download Almost Anything](https://ewasion.github.io/opendirectory-finder/) - Finds direct download links from open directories.
+
+    
+## DATASET
+
+- [Datasetsearch.research.google.com](https://datasetsearch.research.google.com/) - Google's dataset search engine.
+- [Databasd](https://databasd.com/) - Search for datasets.
+- [Data.gov](https://www.data.gov/) - U.S. government open data portal.
+- [data.world](https://data.world/) - Collaborative data community.
+- [BigQuery public datasets](https://cloud.google.com/bigquery/public-data/) - Google's public datasets for BigQuery.
+- [DSC Data Science Search Engine](https://www.datasciencecentral.com/page/search) - Search engine for data science resources.
+- [Datasetlist.com](https://www.datasetlist.com/) - Lists of datasets for various fields.
+- [Search Datasets](https://datahub.io/search) - Open data search on DataHub.
+- [OpenData by Socrata](https://opendata.socrata.com/) - Open data portal by Socrata.
+- [Opensanctions.org](https://opensanctions.org/) - Datasets on global sanctions.
+- [FiveThirtyEight](https://fivethirtyeight.com/?s=) - Datasets used in FiveThirtyEight articles.
+- [Kaggle](https://www.kaggle.com/search?q=) - Datasets for data science and machine learning.
+
+## SOURCE CODES
+
+- [Pastes Search Engine](https://cse.google.com/cse?cx=661713d0371832a02) - Custom search engine for pastes.
+- [Pastes Search Engine 2](https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e) - Another custom search engine for pastes.
+- [GitHub Search Engine](https://cse.google.com/cse?cx=1b053c8ec746d6611) - Custom search engine for GitHub.
+- [Source Code Search Engine](https://publicwww.com/) - Search engine for source code.
+- [Google to search profiles on GitHub](https://recruitin.net/github.php) - Custom Google search for GitHub profiles.
+- [Grep.app](https://grep.app/) - Searches code from various repositories.
+- [NerdyData](https://www.nerdydata.com/) - Searches code on the web.
+- [Paste Search](https://psbdmp.ws/) - Searches paste sites for code and text.
+- [GitHub Code Search](https://github.com/search) - Searches code on GitHub.
+- [Bitbucket Repo Search](https://bitbucket.org/repo/all/) - Searches repositories on Bitbucket.
+- [Shhgit](https://github.com/eth0izzle/shhgit) - Finds secrets in GitHub repositories.
+- [git-hound](https://github.com/tillson/git-hound) - Hunts for sensitive information in GitHub.
+- [Webfinery | Source Code Search](https://webfinery.com/search) - Source code search engine.
+- [Online IDE and Paste Search Engine](https://redhuntlabs.com/online-ide-search) - Searches online IDEs and paste sites.
+- [searchcode](https://searchcode.com/) - Search engine for source code.
+- [Sourcegraph](https://about.sourcegraph.com/) - Universal code search tool.
+- [Awesome Open Source](https://awesomeopensource.com/) - Directory of open source projects.
+- [Zen](https://github.com/s0md3v/Zen) - Dorks for GitHub.
+- [GitDorker](https://github.com/obheda12/GitDorker) - Tool for GitHub dorking.
+
+    
+## WHOIS
+
+- [WHOIS Service](https://whoismind.com/) - Comprehensive WHOIS lookup service.
+- [Whois Search](https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US) - WHOIS search by Verisign.
+- [Who.is](https://who.is/) - WHOIS lookup tool.
+- [Whoxy](https://www.whoxy.com/) - WHOIS history and domain information.
+- [Whois History](https://osint.sh/whoishistory/) - WHOIS history lookup.
+
+## DOMAIN / IP / DNS
+
+- [Domain Codex](https://www.domaincodex.com/search.php) - Domain search tool.
+- [dnslytics](https://dnslytics.com/) - Provides DNS and domain information.
+- [SecurityTrails](https://securitytrails.com/) - Comprehensive domain and IP intelligence.
+- [Shodan](https://shodan.io/) - Search engine for internet-connected devices.
+- [Internetdb.shodan.io](https://internetdb.shodan.io/) - Free Shodan search tool.
+- [GreyNoise Intelligence](https://www.greynoise.io/viz/) - Contextualizes internet scanning activity.
+- [zoomeye](https://www.zoomeye.org/) - Search engine for cyberspace.
+- [Censys](https://search.censys.io/) - Provides internet-wide scanning data.
+- [ViewDNS.info](https://viewdns.info/) - DNS and domain tools.
+- [Internet Census 2012](http://census2012.sourceforge.net/paper.html) - Analysis of the 2012 internet census.
+- [ONYPHE](https://www.onyphe.io/) - Search engine for open source and cyber threat intelligence data.
+- [IPLeak](https://ipleak.net/) - Checks for IP leaks and security issues.
+- [Censys Certificates](https://censys.io/certificates) - Searches for SSL certificates.
+- [Censys IPv4](https://censys.io/ipv4) - Searches for IPv4 hosts.
+- [Robtex](https://www.robtex.com/) - DNS and network tools.
+- [Website search tool](https://www.aware-online.com/en/osint-tools/website-search-tool/) - Searches for website information.
+- [Wappalyzer](https://www.wappalyzer.com/lookup/) - Identifies technologies used on websites.
+- [photon](https://pypi.org/project/photon/) - Fast crawler designed for OSINT.
+- [Technology Lookup](https://osint.sh/stack/) - Looks up technologies used on websites.
+- [BuiltWith Technology Lookup](https://builtwith.com/) - Analyzes websites and lists the technologies they use.
+- [NMAP Online](https://osint.sh/nmap/) - Online NMAP tool.
+- [Free online network tools](https://centralops.net/co/) - Provides various network tools.
+- [Google Transparency Report](https://transparencyreport.google.com/https/certificates) - Certificate transparency report.
+- [Certificate Search](https://osint.sh/crt/) - Searches SSL certificates.
+- [CRT](https://crt.sh/) - Certificate transparency log search.
+- [LeakIX](https://leakix.net/) - Monitors and searches for leaked data.
+- [URL and website scanner](https://urlscan.io/) - Scans and analyzes websites.
+- [dnsdumpster](https://dnsdumpster.com/) - DNS recon and research tool.
+- [SimilarWeb](https://www.similarweb.com/) - Analyzes website traffic and performance.
+- [Alexa](https://www.alexa.com/siteinfo) - Provides website traffic statistics.
+- [Website Information](https://one-plus.github.io/WebsiteInformation) - Gathers information about websites.
+- [IP search - Network Entity Reputation Database](https://nerd.cesnet.cz/nerd/ips/) - IP reputation database.
+- [Reverse Domain](https://osint.sh/domain/) - Reverse domain lookup.
+- [Poodle Check](https://osint.sh/poodle/) - Checks for POODLE vulnerability.
+- [Heartbleed Check](https://osint.sh/heartbleed/) - Checks for Heartbleed vulnerability.
+- [DNS History Lookup](https://osint.sh/dnshistory/) - Looks up DNS history.
+- [Subdomain Finder](https://osint.sh/subdomain/) - Finds subdomains for a domain.
+- [Reverse IP Lookup](https://osint.sh/reverseip/) - Reverse IP lookup tool.
+- [Reverse Google Adsense](https://osint.sh/adsense/) - Reverse lookup for Google AdSense IDs.
+- [Reverse Google Analytics](https://osint.sh/analytics/) - Reverse lookup for Google Analytics IDs.
+- [Reverse MX Record](https://osint.sh/reversemx/) - Reverse lookup for MX records.
+- [IP GEO Location Lookup](https://osint.sh/ip/) - Geolocation lookup for IP addresses.
+- [IANA — Root Zone Database](https://www.iana.org/domains/root/db) - Root zone database by IANA.
+- [Punkspider](https://punkspider.org/) - Web application vulnerability search engine.
+- [metabigor](https://github.com/j3ssie/metabigor) - OSINT tool for passive reconnaissance.
+
+    
+## MALWARE
+
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Comprehensive repository of malware.
+- [Interactive Online Malware Analysis Sandbox](https://app.any.run/) - Online sandbox for malware analysis.
+- [Free Automated Malware Analysis Service](https://hybrid-analysis.com/) - Automated malware analysis.
+- [VirusTotal](https://www.virustotal.com/gui/) - Analyzes files and URLs for viruses.
+- [Maltiverse](https://maltiverse.com/search) - Platform for malware threat intelligence.
+- [Malware News Search](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc) - Custom search engine for malware news.
+- [AlienVault Open Threat Exchange](https://otx.alienvault.com/) - Community-driven threat intelligence.
+- [Jotti’s malware scan](https://virusscan.jotti.org/) - Online malware scanner.
+- [IObit Cloud](https://cloud.iobit.com/index.php) - Cloud-based malware analysis.
+- [theZoo](https://github.com/ytisf/theZoo) - Repository of live malware for research.
+- [Vx-underground.org](https://vx-underground.org/) - Collection of malware samples.
+- [VX Heaven](https://vx-underground.org/archive/VxHeaven/index.html) - Malware archive.
+- [aptnotes/data](https://github.com/aptnotes/data) - Collection of APT reports.
+- [exploit-database-papers](https://github.com/offensive-security/exploitdb-papers) - Collection of exploit-related papers.
+- [exploitdb-bin-sploits](https://github.com/offensive-security/exploitdb-bin-sploits) - Binary exploits repository.
+
+## IoT
+
+- [Webcam Search Engine](https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0) - Custom search engine for webcams.
+- [Insecam](http://www.insecam.org/) - Directory of online surveillance cameras.
+- [Camhacker.com](https://www.camhacker.com/) - Directory of open webcams.
+- [EarthCam](https://www.earthcam.com/) - Live streaming webcams.
+- [Airport Webcams](https://airportwebcams.net/) - Live webcams at airports.
+- [Default Router Login](https://www.cleancss.com/router-default/) - Default login credentials for routers.
+- [Webcams Abroad live images](https://www.webcamsabroad.com/) - Directory of webcams worldwide.
+- [WEBCAM LIVE](https://www.whatsupcams.com/en/) - Live webcam streaming.
+- [city-webcams.com](https://city-webcams.com/) - Directory of city webcams.
+- [Live World Webcam](http://liveworldwebcam.net/) - Live streaming webcams from around the world.
+- [Live Cams | Iplivecams](https://www.iplivecams.com/live-cams/) - Live webcams from various locations.
+- [Webcamtaxi](https://www.webcamtaxi.com/en/) - Live webcam streams.
+- [Explorecams.com](https://explorecams.com/) - Explore webcams from around the world.
+- [Nest Cam Directory](https://www.nestcamdirectory.com/) - Directory of Nest Cams.
+- [Opentopia](http://www.opentopia.com/) - Live public webcams.
+- [WorldCam](https://worldcam.eu/) - Directory of world webcams.
+- [Hawaii Traffic Cameras](http://goakamai.org/home) - Live traffic cams in Hawaii.
+- [Honolulu Traffic Cams](http://www2.honolulu.gov/honolulumyway/?trafficcam) - Traffic cams in Honolulu.
+- [Toronto area Live Traffic Cams](https://gtaupdate.com/traffic/) - Live traffic cams in the Toronto area.
+- [Lake County Fire Cameras](https://www.arcgis.com/apps/webappviewer/index.html?id=0f7aa08cc4b74fc6a0c4308d4eace6b3) - Fire cameras in Lake County.
+- [VDOT Traffic Cams](https://www.arcgis.com/apps/dashboards/a0d3fb34cda44f5b8b10be1b245f24a3) - Virginia Department of Transportation traffic cameras.
+- [Lubbock Live Traffic Cameras](https://www.arcgis.com/apps/webappviewer/index.html?id=affe50ac55824c7a8c757d3980787e31) - Live traffic cameras in Lubbock.
+- [Hong Kong Traffic Data & Cams](https://www.arcgis.com/apps/dashboards/47be6372a0434beaba99ae9c9f1d598d) - Traffic data and cameras in Hong Kong.
+- [Baton Rouge Traffic Cams](https://www.arcgis.com/apps/webappviewer/index.html?id=0ec05ffb0d2d4735a969e8f31f820a7b) - Traffic cams in Baton Rouge.
+
+    
+## RADIO
+
+- [Broadcastify](https://www.broadcastify.com/listen/) - Live audio streaming from public safety, aircraft, rail, and marine radios.
+- [RadioReference](https://www.radioreference.com/apps/db/) - Comprehensive database of radio communications.
+- [Feeds.talonvoice.com](https://feeds.talonvoice.com/) - Collection of live radio feeds.
+- [Automated transcription for radio stations](https://sonix.ai/radio-stations) - Transcription services for radio broadcasts.
+- [Scanmap](https://scanmap.mobi/) - Maps of live scanner feeds.
+- [WiGLE: Wireless Network Mapping](https://wigle.net/) - Wireless network mapping and geolocation.
+- [Ham Radio QRZ Callsign Database Search](https://www.qrz.com/lookup) - Database for amateur radio callsigns.
+- [Radio-Locator](https://radio-locator.com/) - Database of radio station information.
+- [RadioID Database](https://database.radioid.net/database/search#!) - Search for radio IDs.
+- [Radio-Sherlock](http://dxmaps.com/search.html) - Radio search tool.
+- [Rfsearch.com](http://rfsearch.com/) - RF signal search tool.
+- [@murph_live](https://twitter.com/murph_live) - Twitter feed for live radio.
+- [Radio Garden](http://radio.garden/search) - Interactive map of live radio stations.
+
 ## RESOLVERS
-    
-- [Skype Resolver](http://www.skypeipresolver.net/index.php)
-- [PSN Resolver](https://playstationresolver.xyz/)
-- [Cloudflare Resolver](http://www.skypeipresolver.net/cloudflare.php)
-- [Discord Resolver](https://www.leaked.site/index.php?resolver/discord.0/)
-    
+
+- [Skype Resolver](http://www.skypeipresolver.net/index.php) - Resolves Skype usernames to IP addresses.
+- [PSN Resolver](https://playstationresolver.xyz/) - Resolves PlayStation Network usernames to IP addresses.
+- [Cloudflare Resolver](http://www.skypeipresolver.net/cloudflare.php) - Resolves Cloudflare protected IP addresses.
+- [Discord Resolver](https://www.leaked.site/index.php?resolver/discord.0/) - Resolves Discord usernames to IP addresses.
+
 ## REAL ESTATE
-    
-- [PrimeLocation](https://www.primelocation.com/)
-- [Realtor](https://www.realtor.com/)
-- [rehold](https://rehold.com/)
-- [Zillow](https://www.zillow.com/)
-- [Zillow Canada](https://www.zillow.com/z/canada/canada-homes/)
-- [Zoopla](https://www.zoopla.co.uk/)
-- [homemetry](https://homemetry.com/)
-- [Explore Canada’s Real Estate Market](https://www.remax.ca/find-real-estate)
-- [Onondaga County Home Sales](https://b2.caspio.com/dp.asp?AppKey=18321000d7j6h9j6c1i4e8f0i5a9)
+
+- [PrimeLocation](https://www.primelocation.com/) - UK property search and listings.
+- [Realtor](https://www.realtor.com/) - US real estate listings and resources.
+- [rehold](https://rehold.com/) - US property information and history.
+- [Zillow](https://www.zillow.com/) - Real estate and rental listings.
+- [Zillow Canada](https://www.zillow.com/z/canada/canada-homes/) - Canadian real estate listings.
+- [Zoopla](https://www.zoopla.co.uk/) - UK property search and listings.
+- [homemetry](https://homemetry.com/) - Property data and owner information.
+- [Explore Canada’s Real Estate Market](https://www.remax.ca/find-real-estate) - Canadian real estate listings and resources.
+- [Onondaga County Home Sales](https://b2.caspio.com/dp.asp?AppKey=18321000d7j6h9j6c1i4e8f0i5a9) - Home sales data for Onondaga County.
+
     
 ## [CAN] CORPORATION
-    
-- [RJSC Connect](https://rjsc.novascotia.ca/)
-- [Search for a Federal Corporation](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA)
-- [FederalCorporation](https://federalcorporation.ca/)
-- [Corporate Affairs Registry Database](https://www.pxw2.snb.ca/card_online/cardsearch.aspx)
-- [MRAS Business Registry Search](https://beta.canadasbusinessregistries.ca/search)
-- [Alberta Business Search](https://albertacorporations.com/)
-- [LeoList](https://www.leolist.cc/)
-- [Toronto Star](https://misc.thestar.com/interactivegraphic/2019/07-july/25-housing-complaints-database/index.html)
-- [Rental in Canada](https://www.n49.com/search/rental/1/canada/)
-- [Manitoba Assessment Online](https://www.gov.mb.ca/mao/public/search_select.aspx)
-- [Business Directory | OCC](https://occ.ca/business-directory/)
-- [Rechercher par entreprise](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Entreprise)
-- [Rechercher par répondant](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Repondant)
-- [Rechercher par région ou type de travaux](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=RegionTypeTravaux)
-- [Services en ligne](https://www.pes.ctq.gouv.qc.ca/pes/faces/dossierclient/recherche.jsp)
-- [Alcool - Régie des alcools, des courses et des jeux (RACJ)](https://www.racj.gouv.qc.ca/en/registres-publics/alcool.html)
-- [BAnQ numérique](https://numerique.banq.qc.ca/resultats)
-- [Online Services PEI Business / Corporate Registry](https://www.princeedwardisland.ca/en/feature/pei-business-corporate-registry-original#/service/LegacyBusiness/LegacyBusinessSearch)
-- [XBRL Voluntary Filing Program](https://www.sedar.com/issuers/issuers_en.htm)
-    
+
+- [RJSC Connect](https://rjsc.novascotia.ca/) - Nova Scotia's Registry of Joint Stock Companies.
+- [Search for a Federal Corporation](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA) - Federal corporation search tool.
+- [FederalCorporation](https://federalcorporation.ca/) - Search for federal corporations in Canada.
+- [Corporate Affairs Registry Database](https://www.pxw2.snb.ca/card_online/cardsearch.aspx) - New Brunswick's Corporate Affairs Registry.
+- [MRAS Business Registry Search](https://beta.canadasbusinessregistries.ca/search) - Multi-jurisdictional registry access service.
+- [Alberta Business Search](https://albertacorporations.com/) - Search for Alberta corporations.
+- [LeoList](https://www.leolist.cc/) - Canadian classifieds and business directory.
+- [Toronto Star](https://misc.thestar.com/interactivegraphic/2019/07-july/25-housing-complaints-database/index.html) - Toronto housing complaints database.
+- [Rental in Canada](https://www.n49.com/search/rental/1/canada/) - Canadian rental listings.
+- [Manitoba Assessment Online](https://www.gov.mb.ca/mao/public/search_select.aspx) - Property assessment database in Manitoba.
+- [Business Directory | OCC](https://occ.ca/business-directory/) - Ontario Chamber of Commerce business directory.
+- [Rechercher par entreprise](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Entreprise) - Search Quebec's business licenses by company.
+- [Rechercher par répondant](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Repondant) - Search Quebec's business licenses by respondent.
+- [Rechercher par région ou type de travaux](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=RegionTypeTravaux) - Search Quebec's business licenses by region or type of work.
+- [Services en ligne](https://www.pes.ctq.gouv.qc.ca/pes/faces/dossierclient/recherche.jsp) - Quebec's online services for business licenses.
+- [Alcool - Régie des alcools, des courses et des jeux (RACJ)](https://www.racj.gouv.qc.ca/en/registres-publics/alcool.html) - Quebec's alcohol licensing registry.
+- [BAnQ numérique](https://numerique.banq.qc.ca/resultats) - Digital library of Quebec.
+- [Online Services PEI Business / Corporate Registry](https://www.princeedwardisland.ca/en/feature/pei-business-corporate-registry-original#/service/LegacyBusiness/LegacyBusinessSearch) - Prince Edward Island's business and corporate registry.
+- [XBRL Voluntary Filing Program](https://www.sedar.com/issuers/issuers_en.htm) - SEDAR's XBRL filing program.
+
 ## MAPS
-    
-- [Google Maps](https://www.google.com/maps)
-- [Bing Maps](https://www.bing.com/maps)
-- [Yandex.Maps](https://yandex.com/maps/)
-- [Mapillary](https://www.mapillary.com/app/)
-- [Waze](https://www.waze.com/live-map)
-- [百度地图](https://map.baidu.com/) - baidu map
-- [MapQuest](https://www.mapquest.com/)
-- [OpenStreetMap](https://www.openstreetmap.org/)
-- [ArcGIS Wildfire Map](https://www.arcgis.com/home/webmap/viewer.html?webmap=df8bcc10430f48878b01c96e907a1fc3#!)
-- [Living Atlas of the World | ArcGIS](https://livingatlas.arcgis.com/en/browse/)
-- [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/)
-- [COVID-19 Map](https://coronavirus.jhu.edu/map.html)
-- [Ukraine Interactive map](https://liveuamap.com/)
-- [Satellites.pro](https://satellites.pro/)
-- [Military bases around the world. - uMap](https://umap.openstreetmap.fr/en/map/military-bases-around-the-world_510207)
-- [Wikimapia](http://wikimapia.org/)
-- [Map of Syrian Civil War](https://syria.liveuamap.com/)
-- [Windy](https://www.windy.com/-Webcams/webcams)
-- [Gpx File Editor](https://gpx.studio/)
-- [OALLEY](https://www.oalley.net/app/)
-- [fgdc_gp_demos’s public fiddles](https://jsfiddle.net/user/fgdc_gp_demos/fiddles/)
-- [KartaView](https://kartaview.org/map/)
-- [Google Map Search Engine](https://cse.google.com/cse?cx=013991603413798772546:mofb1uoaebi)
-- [Power Plants in the United States](https://www.arcgis.com/apps/dashboards/201fc98c0d74482d8b3acb0c4cc47f16)
-- [UK Onshore Oil and Gas Activity](https://www.arcgis.com/apps/webappviewer/index.html?id=29c31fa4b00248418e545d222e57ddaa)
-- [Walmart Store Status](https://www.arcgis.com/apps/dashboards/4e573c79e1224081805165d25b4f33c7)
-- [MODIS Wildfire](https://www.arcgis.com/apps/dashboards/bf5df3a49a624521844a2e5e1ec7df05)
-- [Earthquake Watch](https://www.arcgis.com/apps/dashboards/c8af9c5411814584b460cc87cb7c3780)
-- [InciWeb](https://inciweb.nwcg.gov/)
-- [Earth](https://earth.nullschool.net/#current)
-- [US Labor Strike Map](https://www.google.com/maps/d/viewer?mid=1hE1nDR-Ff_sVgOS67IteJSxGZlvqIP3k)
-- [Active Agency Map](https://www.google.com/maps/d/viewer?mid=1eYVDPh5itXq5acDT9b0BVeQwmESBa4cB)
-- [Ontario GiveSendGo Donors](https://www.google.com/maps/d/viewer?mid=1heAgrb9bDuk287yqseyvhZ7-U_kz64hM)
-- [Допомога](https://dopomoha.pl/)
-- [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams)
-- [Ukraine War Map/Heatmap](https://ruarq.github.io/ukraine-war-heatmap)
-- [Live map of London Underground trains](https://traintimes.org.uk/map/tube/)
-- [Livecorona.co.kr](https://livecorona.co.kr/)
-- [TfL JamCams](https://www.tfljamcams.net/)
+
+- [Google Maps](https://www.google.com/maps) - Google's map service.
+- [Bing Maps](https://www.bing.com/maps) - Microsoft's map service.
+- [Yandex.Maps](https://yandex.com/maps/) - Yandex's map service.
+- [Mapillary](https://www.mapillary.com/app/) - Crowdsourced street-level imagery.
+- [Waze](https://www.waze.com/live-map) - Real-time driving directions and live traffic.
+- [百度地图](https://map.baidu.com/) - Baidu's map service.
+- [MapQuest](https://www.mapquest.com/) - Map service with driving directions.
+- [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative mapping project.
+- [ArcGIS Wildfire Map](https://www.arcgis.com/home/webmap/viewer.html?webmap=df8bcc10430f48878b01c96e907a1fc3#) - Interactive wildfire map.
+- [Living Atlas of the World | ArcGIS](https://livingatlas.arcgis.com/en/browse/) - Collection of geographic information layers.
+- [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - NASA's fire information for resource management system.
+- [COVID-19 Map](https://coronavirus.jhu.edu/map.html) - COVID-19 global cases map by Johns Hopkins University.
+- [Ukraine Interactive map](https://liveuamap.com/) - Real-time map of the Ukrainian conflict.
+- [Satellites.pro](https://satellites.pro/) - Satellite imagery and maps.
+- [Military bases around the world. - uMap](https://umap.openstreetmap.fr/en/map/military-bases-around-the-world_510207) - Map of military bases.
+- [Wikimapia](http://wikimapia.org/) - Collaborative mapping with a wiki system.
+- [Map of Syrian Civil War](https://syria.liveuamap.com/) - Real-time map of the Syrian conflict.
+- [Windy](https://www.windy.com/-Webcams/webcams) - Weather and webcam map.
+- [Gpx File Editor](https://gpx.studio/) - Online GPX file editor.
+- [OALLEY](https://www.oalley.net/app/) - Isochrone map tool.
+- [fgdc_gp_demos’s public fiddles](https://jsfiddle.net/user/fgdc_gp_demos/fiddles/) - GIS and mapping demos.
+- [KartaView](https://kartaview.org/map/) - Street-level imagery platform.
+- [Google Map Search Engine](https://cse.google.com/cse?cx=013991603413798772546:mofb1uoaebi) - Custom Google Maps search engine.
+- [Power Plants in the United States](https://www.arcgis.com/apps/dashboards/201fc98c0d74482d8b3acb0c4cc47f16) - Map of US power plants.
+- [UK Onshore Oil and Gas Activity](https://www.arcgis.com/apps/webappviewer/index.html?id=29c31fa4b00248418e545d222e57ddaa) - UK oil and gas activity map.
+- [Walmart Store Status](https://www.arcgis.com/apps/dashboards/4e573c79e1224081805165d25b4f33c7) - Status of Walmart stores.
+- [MODIS Wildfire](https://www.arcgis.com/apps/dashboards/bf5df3a49a624521844a2e5e1ec7df05) - MODIS wildfire map.
+- [Earthquake Watch](https://www.arcgis.com/apps/dashboards/c8af9c5411814584b460cc87cb7c3780) - Earthquake monitoring dashboard.
+- [InciWeb](https://inciweb.nwcg.gov/) - Incident information system for wildfires.
+- [Earth](https://earth.nullschool.net/#current) - Visualization of global weather conditions.
+- [US Labor Strike Map](https://www.google.com/maps/d/viewer?mid=1hE1nDR-Ff_sVgOS67IteJSxGZlvqIP3k) - Map of US labor strikes.
+- [Active Agency Map](https://www.google.com/maps/d/viewer?mid=1eYVDPh5itXq5acDT9b0BVeQwmESBa4cB) - Map of active agencies.
+- [Ontario GiveSendGo Donors](https://www.google.com/maps/d/viewer?mid=1heAgrb9bDuk287yqseyvhZ7-U_kz64hM) - Map of Ontario donors.
+- [Допомога](https://dopomoha.pl/) - Aid map for Ukraine.
+- [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams) - Live cameras in Ukraine.
+- [Ukraine War Map/Heatmap](https://ruarq.github.io/ukraine-war-heatmap) - Heatmap of the Ukraine war.
+- [Live map of London Underground trains](https://traintimes.org.uk/map/tube/) - Real-time map of London Underground trains.
+- [Livecorona.co.kr](https://livecorona.co.kr/) - Live COVID-19 map for Korea.
+- [TfL JamCams](https://www.tfljamcams.net/) - Traffic cameras for Transport for London.
+
     
 ## GEO
-    
-- [GEOINT](https://start.me/p/W1kDAj/geoint)
-- [GeoNames](https://www.geonames.org/)
-- [Geoseer.net](https://www.geoseer.net/)
-- [GeoINT Search](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
-- [Earth Engine Dataset](https://developers.google.com/earth-engine/datasets/)
-- [Inspire-geoportal.eu](http://www.inspire-geoportal.eu/)
-- [FAO Map Catalog](https://data.apps.fao.org/map/catalog/srv/eng/catalog.search#/home)
-- [ISRIC Data Hub](https://data.isric.org/geonetwork/srv/eng/catalog.search#/home)
-- [geocreepy](http://www.geocreepy.com/)
-- [US Crisis Monitor](https://acleddata.com/special-projects/us-crisis-monitor/)
-- [Toronto Live](https://apps.esri.ca/torontolive/)
-- [Residential Fire Fatalities in Indiana](https://www.arcgis.com/apps/dashboards/4d1289ab105145a1b1f80c1ad3cf19fb)
-- [geoprotests API](https://rapidapi.com/gisfromscratch/api/geoprotests/)
-- [geoint-py](https://github.com/gisfromscratch/geoint-py)
-    
+
+- [GEOINT](https://start.me/p/W1kDAj/geoint) - Resources for geospatial intelligence.
+- [GeoNames](https://www.geonames.org/) - Geographical database with various information.
+- [Geoseer.net](https://www.geoseer.net/) - Search engine for geospatial data.
+- [GeoINT Search](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0) - Custom search engine for geospatial intelligence.
+- [Earth Engine Dataset](https://developers.google.com/earth-engine/datasets/) - Datasets available for Google Earth Engine.
+- [Inspire-geoportal.eu](http://www.inspire-geoportal.eu/) - European geospatial data portal.
+- [FAO Map Catalog](https://data.apps.fao.org/map/catalog/srv/eng/catalog.search#/home) - FAO's geospatial data catalog.
+- [ISRIC Data Hub](https://data.isric.org/geonetwork/srv/eng/catalog.search#/home) - Soil data and information system.
+- [geocreepy](http://www.geocreepy.com/) - Geolocation information gathering tool.
+- [US Crisis Monitor](https://acleddata.com/special-projects/us-crisis-monitor/) - Data on political violence and demonstrations in the U.S.
+- [Toronto Live](https://apps.esri.ca/torontolive/) - Live map of Toronto.
+- [Residential Fire Fatalities in Indiana](https://www.arcgis.com/apps/dashboards/4d1289ab105145a1b1f80c1ad3cf19fb) - Dashboard for tracking fire fatalities in Indiana.
+- [geoprotests API](https://rapidapi.com/gisfromscratch/api/geoprotests/) - API for geospatial protest data.
+- [geoint-py](https://github.com/gisfromscratch/geoint-py) - Python library for geospatial intelligence.
+
 ## CRYPTOCURRENCY
-    
-- [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/)
-- [Bitcoin Explorer](https://blockchair.com/bitcoin)
-- [Ethereum Block Explorer](https://etherscan.io/)
-- [Flowscan.org](https://flowscan.org/)
-- [Bitcoin Forums Search Engine](https://cse.google.com/cse?cx=f49f9d5e679b15787)
-- [Blockchain Explorer](https://www.blockchain.com/explorer)
-- [Blockcypher](https://live.blockcypher.com/)
-- [Addresschecker.eu](http://addresschecker.eu/)
-- [Coinwink.com](https://coinwink.com/)
-- [Cryptocurrency search tool](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)
-- [OSINT cryptocurrencies](https://www.aware-online.com/en/osint-tools/cryptocurrency-tools/)
+
+- [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/) - Alerts for cryptocurrency prices and transactions.
+- [Bitcoin Explorer](https://blockchair.com/bitcoin) - Bitcoin blockchain explorer.
+- [Ethereum Block Explorer](https://etherscan.io/) - Ethereum blockchain explorer.
+- [Flowscan.org](https://flowscan.org/) - Explorer for the Flow blockchain.
+- [Bitcoin Forums Search Engine](https://cse.google.com/cse?cx=f49f9d5e679b15787) - Custom search engine for Bitcoin forums.
+- [Blockchain Explorer](https://www.blockchain.com/explorer) - Blockchain explorer for various cryptocurrencies.
+- [Blockcypher](https://live.blockcypher.com/) - Blockchain explorer and API.
+- [Addresschecker.eu](http://addresschecker.eu/) - Checks the reputation of Bitcoin addresses.
+- [Coinwink.com](https://coinwink.com/) - Cryptocurrency price alerts and portfolio tracking.
+- [Cryptocurrency search tool](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/) - Search tool for cryptocurrencies.
+- [OSINT cryptocurrencies](https://www.aware-online.com/en/osint-tools/cryptocurrency-tools/) - OSINT tools for cryptocurrency investigation.
+
     
 ## DARKNET
-    
-- [Dark Tracer](https://darktracer.io/)
-- [ransomwatch 👀 🦅 ](https://ransomwatch.telemetry.ltd/#/INDEX)
-- [Ransomware Darknet websites](https://sizeof.cat/post/ransomware-darknet-websites/)
-- [Ahmia — Search Tor Hidden Services](https://ahmia.fi/)
-- [Onion search engine](https://onionsearchengine.com/)
-- [onionsearch](https://pypi.org/project/onionsearch/)
-- [Tor2Web: Tor Hidden Services Gateway](https://tor2web.onionsearchengine.com/)
-- [Ransomware Group Sites](http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion.pet/)
-- [Blockpath.com](https://blockpath.com/)
-- [Onions - Darknetlive](https://darknetlive.com/onions/)
-- [Darknet Market List](https://darknetlive.com/markets/)
-- [Darkweb Forums](https://darknetlive.com/forums/)
-- [Raklet](http://iwr4usy33opfclmbyemzbmnwwnmmqpqltezpac7fyqqkdv3mabtm6kqd.onion.pet/)
-- [Tool | path](https://learnmeabitcoin.com/tools/path/)
-    
+
+- [Dark Tracer](https://darktracer.io/) - Monitors darknet activities.
+- [ransomwatch 👀 🦅](https://ransomwatch.telemetry.ltd/#/INDEX) - Monitors ransomware group activities.
+- [Ransomware Darknet websites](https://sizeof.cat/post/ransomware-darknet-websites/) - List of ransomware websites on the darknet.
+- [Ahmia — Search Tor Hidden Services](https://ahmia.fi/) - Search engine for Tor hidden services.
+- [Onion search engine](https://onionsearchengine.com/) - Search engine for onion sites.
+- [onionsearch](https://pypi.org/project/onionsearch/) - Python package for searching onion sites.
+- [Tor2Web: Tor Hidden Services Gateway](https://tor2web.onionsearchengine.com/) - Gateway for accessing Tor sites from the web.
+- [Ransomware Group Sites](http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion.pet/) - List of ransomware group sites.
+- [Blockpath.com](https://blockpath.com/) - Blockchain analysis tool.
+- [Onions - Darknetlive](https://darknetlive.com/onions/) - List of onion sites.
+- [Darknet Market List](https://darknetlive.com/markets/) - List of darknet markets.
+- [Darkweb Forums](https://darknetlive.com/forums/) - List of darknet forums.
+- [Raklet](http://iwr4usy33opfclmbyemzbmnwwnmmqpqltezpac7fyqqkdv3mabtm6kqd.onion.pet/) - Darknet service directory.
+- [Tool | path](https://learnmeabitcoin.com/tools/path/) - Bitcoin transaction path analysis tool.
+
 ## DATA DUMP
-    
-- [Have I been pwned](https://haveibeenpwned.com/)
-- [DeepSearch](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion.pet/)
-- [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check/)
-- [Intelligence X](https://intelx.io/)
-- [DDoSecrets](https://ddosecrets.com/wiki/Special:AllPages)
-- [Scylla.so](https://scylla.so/)
-- [Leakedpassword.com](https://leakedpassword.com/)
-- [DeHashed](https://dehashed.com/)
-- [Snusbase](https://www.snusbase.com/)
-- [Leaked.site](https://www.leaked.site/)
-- [Ashley Madison hacked email checker](https://ashley.cynic.al/)
-- [Search Ashley Madison Leaked Data](http://checkashleymadison.com/)
-- [Sony Archives](https://wikileaks.org/sony/emails/)
+
+- [Have I been pwned](https://haveibeenpwned.com/) - Checks if your email has been in a data breach.
+- [DeepSearch](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion.pet/) - Deep web search engine.
+- [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check/) - Checks if your personal data has been leaked.
+- [Intelligence X](https://intelx.io/) - Search engine for leaked data and documents.
+- [DDoSecrets](https://ddosecrets.com/wiki/Special:AllPages) - Database of leaked data.
+- [Scylla.so](https://scylla.so/) - Search engine for leaked data.
+- [Leakedpassword.com](https://leakedpassword.com/) - Checks if a password has been leaked.
+- [DeHashed](https://dehashed.com/) - Search engine for hacked databases.
+- [Snusbase](https://www.snusbase.com/) - Search engine for breached data.
+- [Leaked.site](https://www.leaked.site/) - Database of leaked information.
+- [Ashley Madison hacked email checker](https://ashley.cynic.al/) - Checks if an email was part of the Ashley Madison leak.
+- [Search Ashley Madison Leaked Data](http://checkashleymadison.com/) - Search the Ashley Madison leak.
+- [Sony Archives](https://wikileaks.org/sony/emails/) - Archive of the Sony email leaks.
+
 
    
 ## EXTREMIST / FAR-RIGHT
-    
-- [Unicorn Riot: Discord Leaks](https://discordleaks.unicornriot.ninja/discord/)
-- [Data | DDoSecrets Search](https://search.ddosecrets.com/data/)
-- [Parler Capitol Videos](https://projects.propublica.org/parler-capitol-videos/)
-- [Project Whispers](https://whispers.ddosecrets.com/)
-- [4chansearch.org](https://4chansearch.org/)
-- [archived.moe](https://archived.moe/)
-- [Extremist Profiles](https://www.splcenter.org/fighting-hate/extremist-files/individual)
-- [Extremist Groups](https://www.splcenter.org/fighting-hate/extremist-files/groups)
-- [Database of suspected terrorists](https://www.nsatt.org/)
-- [TSA No-Fly List](https://www.no-fly-list.com/)
-- [Global Terrorism Database](https://www.start.umd.edu/gtd/access/)
-- [Sanctions List Search](https://sanctionssearch.ofac.treas.gov/)
-- [Trump Twitter Archive](https://www.thetrumparchive.com/)
-- [OFAC Sanctioned Search Engine](https://cse.google.com/cse?cx=e96467889fb82b9b0)
-- [INFORMNAPALM](https://informnapalm.org/db/russian-aggression/#lang=en&page=m_unit)
-- [gogettr](https://pypi.org/project/gogettr/)
-- [GUTTR](https://github.com/VVX7/GUTTR)
-- [FBI Most Wanted Search Engine](https://cse.google.com/cse?cx=1ee952e6584aa91f9)
-- [Interpol Most Wanted Search Engine](https://cse.google.com/cse?cx=b1746754c83012613)
-- [Europol Most Wanted Search Engine](https://cse.google.com/cse?cx=f08e8dc2172da1ba8)
-- [Ironmarch.exposed](https://www.ironmarch.exposed/)
-    
+
+- [Unicorn Riot: Discord Leaks](https://discordleaks.unicornriot.ninja/discord/) - Leaked Discord chat logs from extremist groups.
+- [Data | DDoSecrets Search](https://search.ddosecrets.com/data/) - Search leaked data related to extremist activities.
+- [Parler Capitol Videos](https://projects.propublica.org/parler-capitol-videos/) - Videos from the Capitol riot posted on Parler.
+- [Project Whispers](https://whispers.ddosecrets.com/) - Archive of leaked extremist communications.
+- [4chansearch.org](https://4chansearch.org/) - Search engine for 4chan posts.
+- [archived.moe](https://archived.moe/) - Archive and search engine for 4chan.
+- [Extremist Profiles](https://www.splcenter.org/fighting-hate/extremist-files/individual) - Profiles of individual extremists.
+- [Extremist Groups](https://www.splcenter.org/fighting-hate/extremist-files/groups) - Information on extremist groups.
+- [Database of suspected terrorists](https://www.nsatt.org/) - Database of suspected terrorists.
+- [TSA No-Fly List](https://www.no-fly-list.com/) - Information about the TSA no-fly list.
+- [Global Terrorism Database](https://www.start.umd.edu/gtd/access/) - Database of global terrorism incidents.
+- [Sanctions List Search](https://sanctionssearch.ofac.treas.gov/) - Search for individuals and entities on U.S. sanctions lists.
+- [Trump Twitter Archive](https://www.thetrumparchive.com/) - Archive of Donald Trump's tweets.
+- [OFAC Sanctioned Search Engine](https://cse.google.com/cse?cx=e96467889fb82b9b0) - Custom search engine for OFAC sanctions.
+- [INFORMNAPALM](https://informnapalm.org/db/russian-aggression/#lang=en&page=m_unit) - Database on Russian aggression and terrorism.
+- [gogettr](https://pypi.org/project/gogettr/) - Tool to scrape data from GETTR.
+- [GUTTR](https://github.com/VVX7/GUTTR) - Tool for analyzing GETTR data.
+- [FBI Most Wanted Search Engine](https://cse.google.com/cse?cx=1ee952e6584aa91f9) - Custom search engine for FBI most wanted.
+- [Interpol Most Wanted Search Engine](https://cse.google.com/cse?cx=b1746754c83012613) - Custom search engine for Interpol most wanted.
+- [Europol Most Wanted Search Engine](https://cse.google.com/cse?cx=f08e8dc2172da1ba8) - Custom search engine for Europol most wanted.
+- [Ironmarch.exposed](https://www.ironmarch.exposed/) - Archive of the Ironmarch extremist forum.
+
 ## FINANCE
-    
-- [Greylist Trace](https://greylisttrace.com/)
-- [Tradint Research Tool](https://tradint.io/)
-- [analytics-engine](https://github.com/mashiox/analytics-engine)
-- [Ppp.adatascienti.st](https://ppp.adatascienti.st/)
-- [Search Our PPP Loan Database](https://ppp.directory/search)
-- [TMX](https://www.m-x.ca/en/trading/data/quotes?symbol=)
-- [TMX TSX](https://www.tsx.com/listings/listing-with-us/listed-company-directory)
-- [Search for Investment Fund Documents](https://www.sedar.com/search/search_form_mf_en.htm)
+
+- [Greylist Trace](https://greylisttrace.com/) - Tool for tracking greylisted entities.
+- [Tradint Research Tool](https://tradint.io/) - Financial research tool.
+- [analytics-engine](https://github.com/mashiox/analytics-engine) - Financial analytics engine.
+- [Ppp.adatascienti.st](https://ppp.adatascienti.st/) - Database of PPP loan recipients.
+- [Search Our PPP Loan Database](https://ppp.directory/search) - Searchable database of PPP loan data.
+- [TMX](https://www.m-x.ca/en/trading/data/quotes?symbol=) - Montreal Exchange trading data.
+- [TMX TSX](https://www.tsx.com/listings/listing-with-us/listed-company-directory) - Directory of listed companies on the TSX.
+- [Search for Investment Fund Documents](https://www.sedar.com/search/search_form_mf_en.htm) - Search engine for investment fund documents on SEDAR.
+
     
 ## BUSINESS
-    
-- [Companies & Orgs Search Engine](https://cse.google.com/cse?cx=72ea9d8cfefc142d3)
-- [AllPeople](https://allpeople.com/)
-- [Corporation Wiki](https://www.corporationwiki.com/)
-- [PA PPP Database](https://public.flourish.studio/visualisation/3105919/)
-- [Michigan PPP loans](https://c0eib122.caspio.com/dp/74321000d4c16abc2baf480b8934)
-- [Companies House](https://www.gov.uk/government/organisations/companies-house)
-- [Global Brownbook](https://www.brownbook.net/)
-- [list-org](https://www.list-org.com/)
-- [OpenCorporates](https://opencorporates.com/)
-- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/)
-- [Home Comptroller.Texas.Gov](https://comptroller.texas.gov/)
-- [Company search tool](https://www.aware-online.com/en/osint-tools/company-search-tool/)
-- [XRefer](https://www.xrefer.com/)
-- [Startup Tracker](https://startuptracker.io/home)
-- [Shopsearchengine.com](http://shopsearchengine.com/)
-- [Covidbailouttracker.com](https://covidbailouttracker.com/)
-- [Coronavirus Bailouts: Search Every Company Approved for Federal Loans Over $150k](https://projects.propublica.org/coronavirus/bailouts/)
-- [LA County CA Restaurant Health Violations](https://b2.caspio.com/dp.asp?AppKey=22341000af0b9c98ebf047f1b9f2)
-- [Kansas Restaurant Inspections](https://b2.caspio.com/dp/a1a31000af3bac4c5e434987a857)
-- [Lexington-Fayette County KY Health Department Restaurant Inspections](https://b2.caspio.com/dp.asp?AppKey=c8521000c641ab80b6d2448e89d9)
-- [FL Energy Money in Politics](https://b2.caspio.com/dp.asp?AppKey=c73210001174b8c2a8d444768f5c)
-- [ValidFleetList (unknown Sail Boat database)](https://c0eru285.caspio.com/dp/0dc330002829dcc1ad864b5bb094)
-    
+
+- [Companies & Orgs Search Engine](https://cse.google.com/cse?cx=72ea9d8cfefc142d3) - Custom search engine for companies and organizations.
+- [AllPeople](https://allpeople.com/) - Directory of company profiles and contacts.
+- [Corporation Wiki](https://www.corporationwiki.com/) - Database of corporate relationships.
+- [PA PPP Database](https://public.flourish.studio/visualisation/3105919/) - Pennsylvania PPP loan recipients.
+- [Michigan PPP loans](https://c0eib122.caspio.com/dp/74321000d4c16abc2baf480b8934) - Michigan PPP loan recipients.
+- [Companies House](https://www.gov.uk/government/organisations/companies-house) - UK company registration and data.
+- [Global Brownbook](https://www.brownbook.net/) - Global business directory.
+- [list-org](https://www.list-org.com/) - Russian business directory.
+- [OpenCorporates](https://opencorporates.com/) - The largest open database of companies.
+- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Database of offshore leaks and financial documents.
+- [Home Comptroller.Texas.Gov](https://comptroller.texas.gov/) - Texas comptroller’s office business resources.
+- [Company search tool](https://www.aware-online.com/en/osint-tools/company-search-tool/) - Search tool for company information.
+- [XRefer](https://www.xrefer.com/) - Business directory and contacts.
+- [Startup Tracker](https://startuptracker.io/home) - Search and track startups.
+- [Shopsearchengine.com](http://shopsearchengine.com/) - Directory of online shops.
+- [Covidbailouttracker.com](https://covidbailouttracker.com/) - Track COVID bailout funds.
+- [Coronavirus Bailouts: Search Every Company Approved for Federal Loans Over $150k](https://projects.propublica.org/coronavirus/bailouts/) - Database of companies approved for federal loans over $150k.
+- [LA County CA Restaurant Health Violations](https://b2.caspio.com/dp.asp?AppKey=22341000af0b9c98ebf047f1b9f2) - Health violations in LA County restaurants.
+- [Kansas Restaurant Inspections](https://b2.caspio.com/dp/a1a31000af3bac4c5e434987a857) - Kansas restaurant inspection results.
+- [Lexington-Fayette County KY Health Department Restaurant Inspections](https://b2.caspio.com/dp.asp?AppKey=c8521000c641ab80b6d2448e89d9) - Health inspections in Lexington-Fayette County, KY.
+- [FL Energy Money in Politics](https://b2.caspio.com/dp.asp?AppKey=c73210001174b8c2a8d444768f5c) - Follow the money in FL energy politics.
+- [ValidFleetList (unknown Sail Boat database)](https://c0eru285.caspio.com/dp/0dc330002829dcc1ad864b5bb094) - Database of sailboats.
+
 ## POLICE / LE / FED
-    
-- [Openoversight](https://openoversight.com/)
-- [Criminal Cop Database Lookup](https://extras.mercurynews.com/criminalcops/database/)
-- [The Philadelphia Police Misconduct Database](https://datawrapper.dwcdn.net/3GbVI/1/)
-- [NYPD Misconduct Complaint Database](https://nyclu.shinyapps.io/CCRB_combo/)
-- [NYPD Officer Profile](https://nypdonline.org/link/2)
-- [Maine County Law Enforcement Discipline Chart](https://public.flourish.studio/visualisation/4443849/?utm_source=showcase&utm_campaign=visualisation/4443849)
-- [Arizona LE Database - ABC15](https://datawrapper.dwcdn.net/kkg90/6/)
-- [Police Complaint Lookup](http://complaints.cuapb.org/)
-- [Boston Police Internal Affairs Cases, 2010-2020](https://apps.bostonglobe.com/graphics/2020/law-enforcement/index.html?initialWidth=1029&childId=police-embed&parentTitle=Database%3A%20Search%2010%20years%27%20worth%20of%20Boston%20Police%20Department%20disciplinary%20action&parentUrl=https%3A%2F%2Fwww.bostonglobe.com%2F2020%2F11%2F24%2Fmetro%2Fheres-searchable-database-boston-police-department-internal-investigations-disciplinary-actions-more%2F)
-- [Police Decertifcations Search and Report](https://c0acu882.caspio.com/dp/07da6000e467ebc2a444430c9c1d)
-- [San Francisco CopWatch Database](https://airtable.com/embed/shreS9yA6eWiJAmHZ/tbl0A1AfPBOaPNBhH?backgroundColor=blue)
-- [NJ Police and Fire FY 2011 Pension contribution](https://b2.caspio.com/dp.asp?AppKey=c43d100007eedbb0f0e740188660)
-- [EFF Atlas of Surveillance](https://atlasofsurveillance.org/)
-- [Clearview AI US taxpayer-funded entities](https://datawrapper.dwcdn.net/VOOIE/16/)
-- [Oregon DPSST Professional Standards Cases Database](https://www.oregon.gov/dpsst/CJ/Pages/Cases.aspx)
-- [PA Forfeiture 2010-2016 Search](https://b2.caspio.com/dp/0a921000328dc970793c4364bb2a)
-- [Plain View Project](https://www.plainviewproject.org/data)
-- [RCMP Death Search](https://c0cqk108.caspio.com/dp/9156100036f195cdf0934662917c)
-- [RCMP Death Search 2](https://c0cqk108.caspio.com/dp/915610007f161cceda514e33a0b7)
-- [RCMP Death Search 3](https://b2.caspio.com/dp/91561000c38ca49de99e4ecf9619)
-- [Policecrime.bgsu.edu](https://policecrime.bgsu.edu/)
-- [Citizens Police Data Project](https://beta.cpdp.co/)
-- [Fatal Encounters](https://fatalencounters.org/people-search/)
-- [The NYPD Files](https://projects.propublica.org/nypd-ccrb/)
-- [Open Data Policing](https://opendatapolicing.com/)
-- [Police Surveillance in Chicago](https://redshiftzero.github.io/policesurveillance/)
-- [Mappingpoliceviolence.org](https://mappingpoliceviolence.org/)
-- [Police Protest Videos](https://projects.propublica.org/protest-police-videos/)
-- [GeorgeFloyd Protest police brutality videos](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA#)
-- [Police Body-Worn Camera Footage Access Map](https://www.rcfp.org/resources/bodycams/)
-- [Policebrutalitydatabase.org](https://www.policebrutalitydatabase.org/)
-- [Civilian Office of Police Accountability](https://www.chicagocopa.org/data-cases/case-portal/)
-- [How many untested rape kits does your city police department or county sheriff’s office have?](https://datawrapper.dwcdn.net/uOdaT/4/)
-- [Gun Dealer Inspections | The Trace](https://projects.thetrace.org/inspections/)
-- [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/)
-- [Chicago Police Department Demographics](https://public.flourish.studio/visualisation/1089756/)
-- [George Floyd - Where black people are most disproportionately killed by police](https://public.flourish.studio/visualisation/2646234/)
-- [Iowa Cities police budgets](https://public.flourish.studio/visualisation/3168834/)
-- [TGCG Members Page](https://c2ffn114.caspio.com/dp/e6a74000833e44e23c324a10987c)
+
+- [Openoversight](https://openoversight.com/) - Database of law enforcement officers and their misconduct.
+- [Criminal Cop Database Lookup](https://extras.mercurynews.com/criminalcops/database/) - Database of criminal charges against police officers.
+- [The Philadelphia Police Misconduct Database](https://datawrapper.dwcdn.net/3GbVI/1/) - Misconduct complaints against Philadelphia police.
+- [NYPD Misconduct Complaint Database](https://nyclu.shinyapps.io/CCRB_combo/) - NYPD misconduct complaints.
+- [NYPD Officer Profile](https://nypdonline.org/link/2) - Profile information for NYPD officers.
+- [Maine County Law Enforcement Discipline Chart](https://public.flourish.studio/visualisation/4443849/?utm_source=showcase&utm_campaign=visualisation/4443849) - Discipline records of Maine law enforcement.
+- [Arizona LE Database - ABC15](https://datawrapper.dwcdn.net/kkg90/6/) - Database of Arizona law enforcement.
+- [Police Complaint Lookup](http://complaints.cuapb.org/) - Lookup police complaints.
+- [Boston Police Internal Affairs Cases, 2010-2020](https://apps.bostonglobe.com/graphics/2020/law-enforcement/index.html?initialWidth=1029&childId=police-embed&parentTitle=Database%3A%20Search%2010%20years%27%20worth%20of%20Boston%20Police%20Department%20disciplinary%20action&parentUrl=https%3A%2F%2Fwww.bostonglobe.com%2F2020%2F11%2F24%2Fmetro%2Fheres-searchable-database-boston-police-department-internal-investigations-disciplinary-actions-more%2F) - Internal affairs cases for Boston Police.
+- [Police Decertifications Search and Report](https://c0acu882.caspio.com/dp/07da6000e467ebc2a444430c9c1d) - Decertified police officers.
+- [San Francisco CopWatch Database](https://airtable.com/embed/shreS9yA6eWiJAmHZ/tbl0A1AfPBOaPNBhH?backgroundColor=blue) - Database of San Francisco police officers.
+- [NJ Police and Fire FY 2011 Pension contribution](https://b2.caspio.com/dp.asp?AppKey=c43d100007eedbb0f0e740188660) - New Jersey police and fire pension contributions.
+- [EFF Atlas of Surveillance](https://atlasofsurveillance.org/) - Map of surveillance technologies used by law enforcement.
+- [Clearview AI US taxpayer-funded entities](https://datawrapper.dwcdn.net/VOOIE/16/) - List of US entities using Clearview AI.
+- [Oregon DPSST Professional Standards Cases Database](https://www.oregon.gov/dpsst/CJ/Pages/Cases.aspx) - Professional standards cases in Oregon.
+- [PA Forfeiture 2010-2016 Search](https://b2.caspio.com/dp/0a921000328dc970793c4364bb2a) - Forfeiture data in Pennsylvania.
+- [Plain View Project](https://www.plainviewproject.org/data) - Database of police officers' social media posts.
+- [RCMP Death Search](https://c0cqk108.caspio.com/dp/9156100036f195cdf0934662917c) - Search RCMP-related deaths.
+- [RCMP Death Search 2](https://c0cqk108.caspio.com/dp/915610007f161cceda514e33a0b7) - Additional RCMP-related deaths.
+- [RCMP Death Search 3](https://b2.caspio.com/dp/91561000c38ca49de99e4ecf9619) - Further RCMP-related deaths.
+- [Policecrime.bgsu.edu](https://policecrime.bgsu.edu/) - Database of criminal charges against police officers.
+- [Citizens Police Data Project](https://beta.cpdp.co/) - Database of Chicago police misconduct.
+- [Fatal Encounters](https://fatalencounters.org/people-search/) - Database of people killed by law enforcement.
+- [The NYPD Files](https://projects.propublica.org/nypd-ccrb/) - NYPD misconduct records.
+- [Open Data Policing](https://opendatapolicing.com/) - Database of traffic stops and use of force.
+- [Police Surveillance in Chicago](https://redshiftzero.github.io/policesurveillance/) - Map of police surveillance in Chicago.
+- [Mappingpoliceviolence.org](https://mappingpoliceviolence.org/) - Database of police violence incidents.
+- [Police Protest Videos](https://projects.propublica.org/protest-police-videos/) - Videos of police violence at protests.
+- [GeorgeFloyd Protest police brutality videos](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA#) - Database of police brutality during George Floyd protests.
+- [Police Body-Worn Camera Footage Access Map](https://www.rcfp.org/resources/bodycams/) - Access to police body camera footage.
+- [Policebrutalitydatabase.org](https://www.policebrutalitydatabase.org/) - Database of police brutality incidents.
+- [Civilian Office of Police Accountability](https://www.chicagocopa.org/data-cases/case-portal/) - Chicago's police accountability database.
+- [How many untested rape kits does your city police department or county sheriff’s office have?](https://datawrapper.dwcdn.net/uOdaT/4/) - Database of untested rape kits.
+- [Gun Dealer Inspections | The Trace](https://projects.thetrace.org/inspections/) - Database of gun dealer inspections.
+- [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/) - Catalog of secret surveillance tools.
+- [Chicago Police Department Demographics](https://public.flourish.studio/visualisation/1089756/) - Demographics of the Chicago Police Department.
+- [George Floyd - Where black people are most disproportionately killed by police](https://public.flourish.studio/visualisation/2646234/) - Map of police killings.
+- [Iowa Cities police budgets](https://public.flourish.studio/visualisation/3168834/) - Budgets of police departments in Iowa cities.
+- [TGCG Members Page](https://c2ffn114.caspio.com/dp/e6a74000833e44e23c324a10987c) - Database of law enforcement gang members.
+
     
 ## INFORMANT
-    
-- [WhosaRat.com](https://whosarat.com/)
-- [Snitch List](https://web.archive.org/web/20200115091633/http://sniitch.com/all/)
-     
-## RESIDENT DATABASE
-    
-- [Michigan Resident Database](https://www.michiganresidentdatabase.com/)
-- [Ohio Resident Database](https://www.ohioresidentdatabase.com/)
-- [Florida Residents Directory](https://www.floridaresidentsdirectory.com/)
-- [North Carolina Resident Database](https://northcarolinaresidentdatabase.com/)
-- [NY Rent Regulated Building Search](https://apps.hcr.ny.gov/BuildingSearch/)
 
-    
+- [WhosaRat.com](https://whosarat.com/) - Database of informants and undercover agents.
+- [Snitch List](https://web.archive.org/web/20200115091633/http://sniitch.com/all/) - Archived list of informants.
+
+## RESIDENT DATABASE
+
+- [Michigan Resident Database](https://www.michiganresidentdatabase.com/) - Database of Michigan residents.
+- [Ohio Resident Database](https://www.ohioresidentdatabase.com/) - Database of Ohio residents.
+- [Florida Residents Directory](https://www.floridaresidentsdirectory.com/) - Directory of Florida residents.
+- [North Carolina Resident Database](https://northcarolinaresidentdatabase.com/) - Database of North Carolina residents.
+- [NY Rent Regulated Building Search](https://apps.hcr.ny.gov/BuildingSearch/) - Search for rent-regulated buildings in New York.
+
 ## PUBLIC RECORDS
-    
-- [JudyRecords](https://www.judyrecords.com/)
-- [CourtListener](https://www.courtlistener.com/)
-- [Public Access to Court Electronic Records](https://pacer.uscourts.gov/)
-- [Parallelsearch case law](https://parallelsearch.casetext.com/)
-- [Canadian Legal Information Institute](https://www.canlii.org/en/)
-- [Supreme Court of Canada - Cases](https://www.scc-csc.ca/case-dossier/index-eng.aspx)
-- [Offender Tracking Information System (OTIS)](https://mdocweb.state.mi.us/OTIS2/otis2.aspx)
-- [New York State Prison Records](https://stevemorse.org/prison/prison.html)
-- [Texas Public Records Search](https://publicrecords.searchsystems.net/United_States_Free_Public_Records_by_State/Texas_Public_Records/)
-- [Arrest Bookings Search and Report](https://b2.caspio.com/dp/a1a3100009b7083c53a9405f8c6b)
-- [Credibly Accused](https://projects.propublica.org/credibly-accused/)
-- [Sortedbybirthdate](https://sortedbybirthdate.com/)
-- [NJParcels.com](http://njparcels.com/property/)
-- [Social Security Death Master File](https://ssdmf.info/)
-- [SortedByName.com](https://sortedbyname.com/)
-- [Sortedbybirthdate.com](https://sortedbybirthdate.com/)
-- [Social Security Death Index](https://stevemorse.org/ssdi/ssdi.html)
-- [FamilySearch’s United States Record Collections](https://stevemorse.org/fhl/websitesunitedstates.html)
-- [Chicago Cook County Genealogy](https://stevemorse.org/vital/cook.html)
-- [BoatInfoWorld](https://www.boatinfoworld.com/)
-- [Street Name Changes](https://stevemorse.org/census/changes.html)
-- [Brooklyn Genealogy](http://bklyn-genealogy-info.stevemorse.org/index.html)
-- [Little Rock AR Crime Search](https://b2.caspio.com/dp.asp?AppKey=88321000961d92fc4ed343f38a0e)
-- [New England Facts](https://newenglandfacts.com/)
-- [Michigan State Records](https://michigan.staterecords.org/)
-- [Independent fundamental Baptist sexual misconduct database](https://datawrapper.dwcdn.net/UyECh/20/)
-- [York County PA 2017 Write in Report](https://b2.caspio.com/dp/0a9210000bece9f2f50642ff9cac)
-- [PA teacher salary average](https://b2.caspio.com/dp/0a921000a059622d4771466aab79)
-- [High schools that received NRA grants 2010-2016](https://b4.caspio.com/dp/55073000c492127ebd8d4a03a06a)
-- [Corrections Books Approval Search](https://b2.caspio.com/dp/0a921000cae47f9702f44d2bb94b)
-- [Wisconsin Fox River Veterans’ Grave Registration Database](https://c3cqk813.caspio.com/dp/b201500011643c5f4c7f4bfba7d1)
-- [OH marijuana docs](https://c0eru132.caspio.com/dp/95d310003d6c2e38182a48ef9bb2)
-- [AL Local Surety Association Directory](https://c0gaf106.caspio.com/dp/2d4e1000c7506b7686a540d3b10f)
-- [Ohio obituaries, death & marriage Search](https://c0abe732.caspio.com/dp/679e5000cbc8c6a587bb42efa9ef)
-- [SECO Verification of Course Attendance 2018](https://c0esh132.caspio.com/dp/9040200005c29c35a74342e2b357)
-- [IUS The Horizon Search and Report](https://c0acy802.caspio.com/dp/cf3b6000f61f1e0724984cb28f5c)
-- [Katrina Spending Search](https://b2.caspio.com/dp/a4321000cb4905373d1946e5b33f)
-- [AR College University 2017 Salaries](https://b2.caspio.com/dp.asp?AppKey=883210005c5e51279b424364aab2)
-- [The Weapons ID Database](http://www.smallarmssurvey.org/weapons-and-markets/tools/weapons-id-database.html)
+
+- [JudyRecords](https://www.judyrecords.com/) - Free public court records search.
+- [CourtListener](https://www.courtlistener.com/) - Free legal research database.
+- [Public Access to Court Electronic Records](https://pacer.uscourts.gov/) - Access to federal court records.
+- [Parallelsearch case law](https://parallelsearch.casetext.com/) - Search case law.
+- [Canadian Legal Information Institute](https://www.canlii.org/en/) - Access to Canadian legal information.
+- [Supreme Court of Canada - Cases](https://www.scc-csc.ca/case-dossier/index-eng.aspx) - Supreme Court of Canada cases.
+- [Offender Tracking Information System (OTIS)](https://mdocweb.state.mi.us/OTIS2/otis2.aspx) - Michigan offender tracking system.
+- [New York State Prison Records](https://stevemorse.org/prison/prison.html) - Search New York state prison records.
+- [Texas Public Records Search](https://publicrecords.searchsystems.net/United_States_Free_Public_Records_by_State/Texas_Public_Records/) - Texas public records search.
+- [Arrest Bookings Search and Report](https://b2.caspio.com/dp/a1a3100009b7083c53a9405f8c6b) - Search for arrest bookings.
+- [Credibly Accused](https://projects.propublica.org/credibly-accused/) - Database of credibly accused clergy.
+- [Sortedbybirthdate](https://sortedbybirthdate.com/) - Public records sorted by birthdate.
+- [NJParcels.com](http://njparcels.com/property/) - New Jersey property records.
+- [Social Security Death Master File](https://ssdmf.info/) - Social Security death records.
+- [SortedByName.com](https://sortedbyname.com/) - Public records sorted by name.
+- [Sortedbybirthdate.com](https://sortedbybirthdate.com/) - Public records sorted by birthdate.
+- [Social Security Death Index](https://stevemorse.org/ssdi/ssdi.html) - Social Security death index.
+- [FamilySearch’s United States Record Collections](https://stevemorse.org/fhl/websitesunitedstates.html) - FamilySearch U.S. record collections.
+- [Chicago Cook County Genealogy](https://stevemorse.org/vital/cook.html) - Cook County genealogy records.
+- [BoatInfoWorld](https://www.boatinfoworld.com/) - Boat information and owner lookup.
+- [Street Name Changes](https://stevemorse.org/census/changes.html) - Historical street name changes.
+- [Brooklyn Genealogy](http://bklyn-genealogy-info.stevemorse.org/index.html) - Brooklyn genealogy information.
+- [Little Rock AR Crime Search](https://b2.caspio.com/dp.asp?AppKey=88321000961d92fc4ed343f38a0e) - Crime search in Little Rock, AR.
+- [New England Facts](https://newenglandfacts.com/) - New England public records.
+- [Michigan State Records](https://michigan.staterecords.org/) - Michigan state records search.
+- [Independent fundamental Baptist sexual misconduct database](https://datawrapper.dwcdn.net/UyECh/20/) - Database of sexual misconduct in the IFB.
+- [York County PA 2017 Write in Report](https://b2.caspio.com/dp/0a9210000bece9f2f50642ff9cac) - Write-in report for York County, PA.
+- [PA teacher salary average](https://b2.caspio.com/dp/0a921000a059622d4771466aab79) - Average teacher salaries in PA.
+- [High schools that received NRA grants 2010-2016](https://b4.caspio.com/dp/55073000c492127ebd8d4a03a06a) - High schools receiving NRA grants.
+- [Corrections Books Approval Search](https://b2.caspio.com/dp/0a921000cae47f9702f44d2bb94b) - Search for approved correctional books.
+- [Wisconsin Fox River Veterans’ Grave Registration Database](https://c3cqk813.caspio.com/dp/b201500011643c5f4c7f4bfba7d1) - Veterans' grave registration in Wisconsin.
+- [OH marijuana docs](https://c0eru132.caspio.com/dp/95d310003d6c2e38182a48ef9bb2) - Ohio marijuana documents.
+- [AL Local Surety Association Directory](https://c0gaf106.caspio.com/dp/2d4e1000c7506b7686a540d3b10f) - Directory of local surety associations in AL.
+- [Ohio obituaries, death & marriage Search](https://c0abe732.caspio.com/dp/679e5000cbc8c6a587bb42efa9ef) - Ohio obituaries, death, and marriage records.
+- [SECO Verification of Course Attendance 2018](https://c0esh132.caspio.com/dp/9040200005c29c35a74342e2b357) - SECO course attendance verification.
+- [IUS The Horizon Search and Report](https://c0acy802.caspio.com/dp/cf3b6000f61f1e0724984cb28f5c) - Indiana University Southeast Horizon newspaper search.
+- [Katrina Spending Search](https://b2.caspio.com/dp/a4321000cb4905373d1946e5b33f) - Search for Katrina-related spending.
+- [AR College University 2017 Salaries](https://b2.caspio.com/dp.asp?AppKey=883210005c5e51279b424364aab2) - Salaries at Arkansas colleges and universities.
+- [The Weapons ID Database](http://www.smallarmssurvey.org/weapons-and-markets/tools/weapons-id-database.html) - Small Arms Survey weapons ID database.
+
     
 ## GOVERNMENT
-    
-- [data.occrp.org](https://data.occrp.org/)
-- [The Pegasus Project | OCCRP](https://cdn.occrp.org/projects/project-p/#/)
-- [COP26 registered attendees](https://datawrapper.dwcdn.net/UCUWs/3/)
-- [MuckRock](https://www.muckrock.com/)
-- [GovSalaries](https://govsalaries.com/)
-- [Openpayrolls.com](https://openpayrolls.com/)
-- [SeeThroughNY :: Pensions](https://www.seethroughny.net/pensions)
-- [Scotussearch.com](https://www.scotussearch.com/)
-- [Nonprofit Explorer](https://projects.propublica.org/nonprofits/)
-- [Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/)
-- [Nursing Home Inspect](https://projects.propublica.org/nursing-homes/)
-- [GI Files](https://search.wikileaks.org/gifiles/)
-- [LittleSis](https://littlesis.org/)
-- [Lexington KY Employee Salaries 2021](https://c0ect130.caspio.com/dp/c852100055664d756c6e441aa963)
-- [Greater Sacramento Area Public Salaries](https://b2.caspio.com/dp/c48210000605c38aa22f4080a1be)
-- [Illinois Public Salaries](https://c0ctb111.caspio.com/dp/1a7210001e4dbabdb7204962bc03)
-- [Milwaukee Wisconsin City Employee Salaries 2019](https://c0ebl104.caspio.com/dp/eab010008ed5ca97d7404269bf89)
-- [Texas Local Superintendent Salaries Search and Report](https://b3.caspio.com/dp/5a5b1000b41b35162a3844b4b7ec)
-- [Baytown TX Employee Directory](https://c0ctb134.caspio.com/dp/c5f5200097e7aef4edb54e09bd5e)
-- [MA Middlesex County City employee salary 2019](https://c0eib112.caspio.com/dp/6ee01000497ba7e2d63b46229a99)
-- [KY State Salary 2019](https://c0ect130.caspio.com/dp/c8521000065e102da08c40e696ad)
-- [UKY Salaries 2019](https://c0ect130.caspio.com/dp/c8521000eca729c2125e46c487fd)
-- [Mobile AL Salaries Search and Report](https://b2.caspio.com/dp/362210004ae292fb5cf34f0fb079)
-- [NC State Government Salaries Search and Report](https://b2.caspio.com/dp/96073000345d59bc5b1744109afe)
-- [NC State Employee Overtime 2018 Search and Report](https://c0eib112.caspio.com/dp/6ee01000325ae85bbfe24ade9bea)
-- [PA 2017 Certificate Actions (Education)](https://b2.caspio.com/dp/0a9210006dbe656876084f9b9f59)
-- [First Philadelphia Preparatory Charter School Staff Public Release 2017](https://b2.caspio.com/dp/0a921000842668d3d3e644d2bd8f)
-- [PA School Districts Deeds user-facing web search](https://b2.caspio.com/dp/0a92100000938817df46468fa2a0)
-- [PA Perry County 2017 Compensation Search and Report](https://b2.caspio.com/dp/0a921000e05cf4b592b245aeae20)
-- [Gettysburg PA Adams County 2017 Payroll Search and Report](https://b2.caspio.com/dp/0a9210006f0ddf22afd8417f9711)
-- [Lebanon County PA 2017 Search and Report](https://b2.caspio.com/dp/0a9210001cc98f2f21004ce4a3d4)
-- [Dauphin County PA 2017 Compensation](https://b2.caspio.com/dp/0a921000a2f20d556db84221a92c)
-- [York City PA Compensation](https://b2.caspio.com/dp/0a92100001903125816c4d34a37a)
-- [York County VA 2017 Public Salaries](https://b2.caspio.com/dp/0a921000b12e238357df42e7affc)
-- [OH Court Costs](https://b2.caspio.com/dp/95d31000da9841d5980644c98761)
-- [German Gov Employee Database (Unknown)](https://c0acz339.caspio.com/dp/E171600054612b9f79fb4ddf8f2b)
-- [Brazillian Address CEP Search and Report](https://c2abn462.caspio.com/dp/6c2d80006c6adb825b3b45079cb8)
-- [HEALTHCARE EDUCATION PROVIDERS](https://c3dug085.caspio.com/dp/1fec4000740ace75fdb94ec5bca5)
-- [Cal Poly Email Search](https://c0acw966.caspio.com/dp/5dbe60009c7190a3b0bb407eaea0)
-- [Dutchess and Ulster bridge safety ratings 2015](https://b2.caspio.com/dp.asp?AppKey=996f1000109b0cd3b24b408daf60)
-- [Lou Barletta 2017 Donors](https://b2.caspio.com/dp/0a9210001cdd2eaac90941488478)
-- [Worcester MA Employee Gross Pay](https://c0acu481.caspio.com/dp/e0536000108787410ed749fdb240)
+
+- [data.occrp.org](https://data.occrp.org/) - Investigative data from the OCCRP.
+- [The Pegasus Project | OCCRP](https://cdn.occrp.org/projects/project-p/#/) - Investigation into the Pegasus spyware.
+- [COP26 registered attendees](https://datawrapper.dwcdn.net/UCUWs/3/) - List of registered attendees at COP26.
+- [MuckRock](https://www.muckrock.com/) - Public records request service.
+- [GovSalaries](https://govsalaries.com/) - Database of government salaries.
+- [Openpayrolls.com](https://openpayrolls.com/) - Transparent payroll data for public employees.
+- [SeeThroughNY :: Pensions](https://www.seethroughny.net/pensions) - NY public pension data.
+- [Scotussearch.com](https://www.scotussearch.com/) - Search engine for U.S. Supreme Court cases.
+- [Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Database of nonprofit financials.
+- [Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/) - Searchable database of coronavirus bailout funds.
+- [Nursing Home Inspect](https://projects.propublica.org/nursing-homes/) - Inspection reports for nursing homes.
+- [GI Files](https://search.wikileaks.org/gifiles/) - WikiLeaks' Global Intelligence Files.
+- [LittleSis](https://littlesis.org/) - Network of corporate and government relationships.
+- [Lexington KY Employee Salaries 2021](https://c0ect130.caspio.com/dp/c852100055664d756c6e441aa963) - Salaries of Lexington, KY employees.
+- [Greater Sacramento Area Public Salaries](https://b2.caspio.com/dp/c48210000605c38aa22f4080a1be) - Public salaries in the Greater Sacramento Area.
+- [Illinois Public Salaries](https://c0ctb111.caspio.com/dp/1a7210001e4dbabdb7204962bc03) - Public salaries in Illinois.
+- [Milwaukee Wisconsin City Employee Salaries 2019](https://c0ebl104.caspio.com/dp/eab010008ed5ca97d7404269bf89) - Milwaukee city employee salaries for 2019.
+- [Texas Local Superintendent Salaries Search and Report](https://b3.caspio.com/dp/5a5b1000b41b35162a3844b4b7ec) - Search for Texas local superintendent salaries.
+- [Baytown TX Employee Directory](https://c0ctb134.caspio.com/dp/c5f5200097e7aef4edb54e09bd5e) - Directory of Baytown, TX employees.
+- [MA Middlesex County City employee salary 2019](https://c0eib112.caspio.com/dp/6ee01000497ba7e2d63b46229a99) - Middlesex County city employee salaries for 2019.
+- [KY State Salary 2019](https://c0ect130.caspio.com/dp/c8521000065e102da08c40e696ad) - Kentucky state salaries for 2019.
+- [UKY Salaries 2019](https://c0ect130.caspio.com/dp/c8521000eca729c2125e46c487fd) - University of Kentucky salaries for 2019.
+- [Mobile AL Salaries Search and Report](https://b2.caspio.com/dp/362210004ae292fb5cf34f0fb079) - Search for Mobile, AL employee salaries.
+- [NC State Government Salaries Search and Report](https://b2.caspio.com/dp/96073000345d59bc5b1744109afe) - North Carolina state government salaries.
+- [NC State Employee Overtime 2018 Search and Report](https://c0eib112.caspio.com/dp/6ee01000325ae85bbfe24ade9bea) - Search for NC state employee overtime in 2018.
+- [PA 2017 Certificate Actions (Education)](https://b2.caspio.com/dp/0a9210006dbe656876084f9b9f59) - Pennsylvania education certificate actions for 2017.
+- [First Philadelphia Preparatory Charter School Staff Public Release 2017](https://b2.caspio.com/dp/0a921000842668d3d3e644d2bd8f) - Public release of staff information for First Philadelphia Preparatory Charter School.
+- [PA School Districts Deeds user-facing web search](https://b2.caspio.com/dp/0a92100000938817df46468fa2a0) - Search for PA school district deeds.
+- [PA Perry County 2017 Compensation Search and Report](https://b2.caspio.com/dp/0a921000e05cf4b592b245aeae20) - Perry County, PA compensation for 2017.
+- [Gettysburg PA Adams County 2017 Payroll Search and Report](https://b2.caspio.com/dp/0a9210006f0ddf22afd8417f9711) - Payroll information for Gettysburg, PA Adams County.
+- [Lebanon County PA 2017 Search and Report](https://b2.caspio.com/dp/0a9210001cc98f2f21004ce4a3d4) - Lebanon County, PA information for 2017.
+- [Dauphin County PA 2017 Compensation](https://b2.caspio.com/dp/0a921000a2f20d556db84221a92c) - Compensation for Dauphin County, PA in 2017.
+- [York City PA Compensation](https://b2.caspio.com/dp/0a92100001903125816c4d34a37a) - Compensation information for York City, PA.
+- [York County VA 2017 Public Salaries](https://b2.caspio.com/dp/0a921000b12e238357df42e7affc) - Public salaries in York County, VA for 2017.
+- [OH Court Costs](https://b2.caspio.com/dp/95d31000da9841d5980644c98761) - Search for Ohio court costs.
+- [German Gov Employee Database (Unknown)](https://c0acz339.caspio.com/dp/E171600054612b9f79fb4ddf8f2b) - Database of German government employees.
+- [Brazillian Address CEP Search and Report](https://c2abn462.caspio.com/dp/6c2d80006c6adb825b3b45079cb8) - Search for Brazilian addresses by CEP.
+- [HEALTHCARE EDUCATION PROVIDERS](https://c3dug085.caspio.com/dp/1fec4000740ace75fdb94ec5bca5) - Database of healthcare education providers.
+- [Cal Poly Email Search](https://c0acw966.caspio.com/dp/5dbe60009c7190a3b0bb407eaea0) - Email search for Cal Poly.
+- [Dutchess and Ulster bridge safety ratings 2015](https://b2.caspio.com/dp.asp?AppKey=996f1000109b0cd3b24b408daf60) - Safety ratings for bridges in Dutchess and Ulster.
+- [Lou Barletta 2017 Donors](https://b2.caspio.com/dp/0a9210001cdd2eaac90941488478) - Donor information for Lou Barletta in 2017.
+- [Worcester MA Employee Gross Pay](https://c0acu481.caspio.com/dp/e0536000108787410ed749fdb240) - Gross pay for Worcester, MA employees.
 
 ## ONLYFANS
-    
-- [Onlysearch.co](https://onlysearch.co/)
-- [OnlyFinder](https://onlyfinder.com/)
-- [Search OnlyFans profiles](https://hubite.com/onlyfans-search/)
+
+- [Onlysearch.co](https://onlysearch.co/) - OnlyFans profile search engine.
+- [OnlyFinder](https://onlyfinder.com/) - Search for OnlyFans creators.
+- [Search OnlyFans profiles](https://hubite.com/onlyfans-search/) - Search tool for OnlyFans profiles.
+
 
 
 ![](https://user-images.githubusercontent.com/24913656/242868456-df08a82d-b732-4cd7-b5ba-b1a87badfce9.png)
