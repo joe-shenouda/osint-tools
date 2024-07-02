@@ -62,13 +62,7 @@ Essential OSINT software and utilities
 
 ## 🤝 Contributing
 
-We welcome contributions! If you have suggestions, corrections, or new tools to add, please:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
+I welcome contributions! If you have suggestions, corrections, or new tools to add.
 
 ## 📜 License
 
