@@ -15,48 +15,21 @@
 - Regularly verified and updated to ensure all links are functional
 - Contributions and corrections integrated from the Astrosp fork
 
-## 📚 Table of Contents
+## Index
+[AI](#ai) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Bot](#bot) ⁕ [Business](#business) ⁕ [Clubhouse](#clubhouse) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Darknet](#darknet) ⁕ [Data Dump](#data-dump) ⁕ [Dataset](#dataset) ⁕ [Discord](#discord) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Downloader](#downloader) ⁕ [Email](#email) ⁕ [Emulator](#emulator) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [Facebook](#facebook) ⁕ [File Upload](#file-upload) ⁕ [Finance](#finance) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Geo](#geo) ⁕ [Google](#google) ⁕ [Google CSE](#google-cse) ⁕ [Government](#government) ⁕ [Hash Recovery](#hash-recovery) ⁕ [ID Generator](#id-generator) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Image / Video / Audio / Media](#image--video--audio--media) ⁕ [Informant](#informant) ⁕ [Instagram](#instagram) ⁕ [IoT](#iot) ⁕ [License Plate/VIN/Vehicle](#license-plate-vin-vehicle) ⁕ [LinkedIn](#linkedin) ⁕ [Malware](#malware) ⁕ [Maps](#maps) ⁕ [Maritime](#maritime) ⁕ [News](#news) ⁕ [OnlyFans](#onlyfans) ⁕ [Open Directory](#open-directory) ⁕ [Other](#other) ⁕ [People](#people) ⁕ [Phone](#phone) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Privacy / Security](#privacy--security) ⁕ [Productivity](#productivity) ⁕ [Public Records](#public-records) ⁕ [Radio](#radio) ⁕ [Real Estate](#real-estate) ⁕ [Reddit](#reddit) ⁕ [Resident Database](#resident-database) ⁕ [Resolvers](#resolvers) ⁕ [Resources](#resources) ⁕ [Recon](#recon) ⁕ [Search Engines](#search-engines) ⁕ [Secure Communication](#secure-communication) ⁕ [Snapchat](#snapchat) ⁕ [Source Codes](#source-codes) ⁕ [Steam](#steam) ⁕ [Telegram](#telegram) ⁕ [Threat Intel](#threat-intel) ⁕ [Throwaway Contact/Temporary contact](#throwaway-contacttemporary-contact) ⁕ [TikTok](#tiktok) ⁕ [Toolset](#toolset) ⁕ [Twitch](#twitch) ⁕ [Twitter](#twitter) ⁕ [Unified Search](#unified-search) ⁕ [Username](#username) ⁕ [Weather](#weather) ⁕ [Whois](#whois) ⁕ [YouTube](#youtube) ⁕ [[CAN] Corporation](#[can]-corporation)
 
-<table>
-  <tr>
-    <td><a href="#ai">🤖 AI</a></td>
-    <td><a href="#recon">🔍 Recon</a></td>
-    <td><a href="#productivity">⚡ Productivity</a></td>
-    <td><a href="#file-upload">📤 File Upload</a></td>
-    <td><a href="#toolset">🧰 Toolset</a></td>
-  </tr>
-  <tr>
-    <td><a href="#image--video--audio--media">🎨 Media</a></td>
-    <td><a href="#search-engines">🔎 Search Engines</a></td>
-    <td><a href="#whois">🌐 Whois</a></td>
-    <td><a href="#source-codes">💻 Source Codes</a></td>
-    <td><a href="#domain--ip--dns">🔗 Domain/IP/DNS</a></td>
-  </tr>
-  <tr>
-    <td><a href="#malware">🦠 Malware</a></td>
-    <td><a href="#dataset">📊 Dataset</a></td>
-    <td><a href="#geo">🗺️ Geo</a></td>
-    <td><a href="#iot">🏠 IoT</a></td>
-    <td><a href="#darknet">🕵️ Darknet</a></td>
-  </tr>
-</table>
-
-## 🌟 Featured Categories
-
-### 🤖 AI
-AI-powered tools for OSINT and cybersecurity
-
-### 🔍 Recon
-Advanced reconnaissance tools and techniques
-
-### ⚡ Productivity
-Boost your OSINT workflow efficiency
-
-### 📤 File Upload
-Secure file sharing and analysis platforms
-
-### 🧰 Toolset
-Essential OSINT software and utilities
+### New Categories
+- ⚡ [Productivity](#⚡-productivity)
+- 🌟 [Featured Categories](#🌟-featured-categories)
+- 📚 [Table of Contents](#📚-table-of-contents)
+- 📜 [License](#📜-license)
+- 📤 [File Upload](#📤-file-upload)
+- 🔍 [Recon](#🔍-recon)
+- 🙏 [Acknowledgments](#🙏-acknowledgments)
+- 🚀 [Features](#🚀-features)
+- 🤖 [AI](#🤖-ai)
+- 🤝 [Contributing](#🤝-contributing)
+- 🧰 [Toolset](#🧰-toolset)
 
 [View all categories](#-table-of-contents)
 
