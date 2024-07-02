@@ -1,18 +1,89 @@
-<h1 align="center">
-<b>OSINT for Everything</b></h1>
+# 🌐 OSINT for Everything
+
+![OSINT Banner](https://user-images.githubusercontent.com/24913656/242844072-9d76c50d-b656-44de-a1ff-9cdcd7a3fbd0.png)
+
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202%2C%202023-brightgreen.svg)](https://github.com/joe-shenouda)
+[![Maintained by](https://img.shields.io/badge/Maintained%20by-Joe%20Shenouda-blue.svg)](https://github.com/joe-shenouda)
+[![Forked from](https://img.shields.io/badge/Forked%20from-Astrosp-orange.svg)](https://github.com/astrosp/osint-tools)
+
+> A meticulously curated and regularly updated collection of OSINT tools, websites, and resources for cybersecurity professionals, researchers, and enthusiasts.
+
+## 🚀 Features
+
+- Comprehensive toolset for penetration testing, reverse searching, and red team operations
+- Extensive resources for information gathering and bug bounties
+- Regularly verified and updated to ensure all links are functional
+- Contributions and corrections integrated from the Astrosp fork
+
+## 📚 Table of Contents
+
+<table>
+  <tr>
+    <td><a href="#ai">🤖 AI</a></td>
+    <td><a href="#recon">🔍 Recon</a></td>
+    <td><a href="#productivity">⚡ Productivity</a></td>
+    <td><a href="#file-upload">📤 File Upload</a></td>
+    <td><a href="#toolset">🧰 Toolset</a></td>
+  </tr>
+  <tr>
+    <td><a href="#image--video--audio--media">🎨 Media</a></td>
+    <td><a href="#search-engines">🔎 Search Engines</a></td>
+    <td><a href="#whois">🌐 Whois</a></td>
+    <td><a href="#source-codes">💻 Source Codes</a></td>
+    <td><a href="#domain--ip--dns">🔗 Domain/IP/DNS</a></td>
+  </tr>
+  <tr>
+    <td><a href="#malware">🦠 Malware</a></td>
+    <td><a href="#dataset">📊 Dataset</a></td>
+    <td><a href="#geo">🗺️ Geo</a></td>
+    <td><a href="#iot">🏠 IoT</a></td>
+    <td><a href="#darknet">🕵️ Darknet</a></td>
+  </tr>
+</table>
+
+## 🌟 Featured Categories
+
+### 🤖 AI
+AI-powered tools for OSINT and cybersecurity
+
+### 🔍 Recon
+Advanced reconnaissance tools and techniques
+
+### ⚡ Productivity
+Boost your OSINT workflow efficiency
+
+### 📤 File Upload
+Secure file sharing and analysis platforms
+
+### 🧰 Toolset
+Essential OSINT software and utilities
+
+[View all categories](#-table-of-contents)
+
+## 🤝 Contributing
+
+We welcome contributions! If you have suggestions, corrections, or new tools to add, please:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## 🙏 Acknowledgments
+
+- Original fork from [Astrosp's OSINT Tools](https://github.com/astrosp/osint-tools)
+- Maintained and enhanced by Joe Shenouda
+
+---
 
 <p align="center">
-A comprehensive collection of OSINT tools, websites, and resources for various purposes such as penetration testing, reverse searching, red team operations, information gathering, and bug bounties. This extensive list is free of broken links, and I have contributed all the corrections back to Astrosp after forking it from them. The latest verification for bad links was conducted on June 2nd, 2023 by Joe Shenouda
+  Made with ❤️ with the OSINT community by Joe Shenouda
 </p>
-
-![](https://user-images.githubusercontent.com/24913656/242844072-9d76c50d-b656-44de-a1ff-9cdcd7a3fbd0.png)
-
-<!---<p align="center">
-	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>
-	<a href="https://github.com/astrosp/osint-tools#FILE UPLOAD" target="_blank">File Upload</a>
-	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
---->	
-|| [AI](#ai) || [Recon](#recon) || [Productivity](#productivity) || [File Upload](#file-upload) || [Toolset](#toolset) || [Image/Video/Audio](#image--video--audio--media) || [Search Engines](#search-engines) || [Whois](#whois) || [Source Codes](#source-codes) || [Domain / IP / DNS](#domain--ip--dns) || [Malware](#malware) || [Dataset](#dataset) || [Geo](#geo) || [IoT](#iot) || [Darknet](#darknet) || [Cryptocurrency](#cryptocurrency) || [Username](#username) || [Email](#email) || [Phone](#phone) || [Social Media](#social-media) || [Facebook](#facebook) || [Twitter](#twitter) || [Youtube](#youtube) || [Instagram](#instagram) || [Reddit](#reddit) || [LinkedIn](#linkedin) || [Google](#google) || [Discord](#discord) || [Twitch](#twitch) || [Telegram](#telegram) || [Snapchat](#snapchat) || [TikTok](#tiktok) || [Steam](#steam) || [Clubhouse](#clubhouse) || [Bot](#bot) || [Analysis](#analytics) || [Blog](#blog) || [Throwaway Contact](#throwaway-contact) || [ID Generator](#id-generator) || [Emulator](#emulator) || [Hash Recovery](#hash-recovery) || [Downloader](#downloader) || [Privacy / Security](#privacy--security) || [Secure Communication](#secure-communication) || [Resources](#resources) || [Threat Intel](#threat-intel) || [Identity Resolution](#identity-resolution) || [People](#people) || [Google CSE](#google-cse) || [Radio](#radio) || [Open Directory](#open-directory) || [Maps](#maps) || [Data Dump](#data-dump) || [Informant](#informant) || [Public Record](#public-records) || [Government](#government) ||
 
 ## AI
 AI tools/Site
