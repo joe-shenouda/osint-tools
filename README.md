@@ -2,7 +2,7 @@
 
 ![OSINT Banner](https://user-images.githubusercontent.com/24913656/242844072-9d76c50d-b656-44de-a1ff-9cdcd7a3fbd0.png)
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202%2C%202023-brightgreen.svg)](https://github.com/joe-shenouda)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202%2C%202024-brightgreen.svg)](https://github.com/joe-shenouda)
 [![Maintained by](https://img.shields.io/badge/Maintained%20by-Joe%20Shenouda-blue.svg)](https://github.com/joe-shenouda)
 [![Forked from](https://img.shields.io/badge/Forked%20from-Astrosp-orange.svg)](https://github.com/astrosp/osint-tools)
 
