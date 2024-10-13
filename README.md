@@ -149,14 +149,19 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Todoist](https://todoist.com/) - To-do list and task manager
 - [Evernote](https://evernote.com/) - Note-taking app for organizing, planning, and collaborating
     
- ## FILE UPLOAD
+## FILE UPLOAD
     
 - [MEGA](https://mega.io/) - Secure Cloud Storage and Communication Privacy by Design Get 20GB of storage for free.
-- [Upload | Disroot](https://disroot.org/en/services/upload) - Lufi - Encrypted temporary file upload service
+- [Upload | Disroot](https://upload.disroot.org/about) - Lufi - Encrypted temporary file upload service
 - [Chibisafe.moe](https://chibisafe.moe/) - Blazing fast file uploader. For real A modern and self-hosted file upload service that can handle anything you throw at it
-- [Bunker.is](https://bunker.is/) - 
+- [Bunker.is](https://bunker.is/) - Secure and anonymous file hosting service with end-to-end encryption
 - [Upload files to IPFS from Browser](https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/) - decentralize file shearing
 - [BlackHole](https://blackhole.run/) - BlackHole is a file transfer application built on top of blockchain for the new internet. You can share any super security file with ease and be sure the data is yours forever. You can use BlackHole for free, with no storage or bandwidth limit, but for files bigger than 512 MB
+- [Wormhole](https://wormhole.app/) - Simple, private file sharing with end-to-end encryption and auto-expiring links
+- [Filebin](https://filebin.net/) - Convenient file sharing service with no registration required
+- [WeTransfer](https://wetransfer.com/) - Simple file-sharing platform for sending large files
+- [Gofile](https://gofile.io/) - Free file sharing and storage platform with unlimited bandwidth
+- [Pixeldrain](https://pixeldrain.com/) - Simple and fast file sharing service with no registration needed
     
 ## TOOLSET
    
