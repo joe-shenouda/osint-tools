@@ -306,41 +306,50 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [John the Ripper](https://www.openwall.com/john/) - An open source password security auditing and password recovery tool
 - [Ophcrack](https://ophcrack.sourceforge.io/) - A Windows password cracker based on rainbow tables
     
- ## DOWNLOADER
+## DOWNLOADER
     
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites 
-- [Media-downloader.net](https://media-downloader.net/) - 
-- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) -  A Pure client-side webapp to download entire or parts of Imgur albums. 
-- [Export Comments](https://exportcomments.com/) - Easily exports all comments from your social media posts to Excel file.
+- [Media-downloader.net](https://media-downloader.net/) - Online media downloader for various platforms
+- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) - A Pure client-side webapp to download entire or parts of Imgur albums
+- [Export Comments](https://exportcomments.com/) - Easily exports all comments from your social media posts to Excel file
 - [Image Extractor](https://extract.pics/) - Extract Images From any public website by using a virtual browser 
 - [Loader.to](https://loader.to/) - YouTube MP3 Playlist Downloader Online
-- [Commentexporter.com](https://www.commentexporter.com/) - Export and save facebook comment to your computer. Nested comment supported.
-Enter your "Post URL" to export
-- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - This tool lets you view the followers on any Twitch account.
-- [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome. It extracts all links from web page (including embedded links), sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems.   Also, Link Gopher does the same for unique domains.
-- [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/) - This tool will parse the html of a website and extract links from the page. The hrefs or "page links" are displayed in plain text for easy copying or review.
-    
+- [Commentexporter.com](https://www.commentexporter.com/) - Export and save facebook comment to your computer. Nested comment supported
+- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - This tool lets you view the followers on any Twitch account
+- [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome
+- [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/) - This tool will parse the html of a website and extract links from the page
+- [4K Video Downloader](https://www.4kdownload.com/products/product-videodownloader) - Download videos, playlists, channels and subtitles from YouTube and other sites
+- [JDownloader](https://jdownloader.org/) - Free, open-source download management tool
+- [Internet Download Manager](https://www.internetdownloadmanager.com/) - Tool to increase download speeds by up to 5 times
+- [youtube-dl](https://youtube-dl.org/) - Command-line program to download videos from YouTube and other sites
+- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections
+
 ## PRIVACY / SECURITY
     
-- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html) - The Hitchhiker’s Guide to Online Anonymity
-- [Privacy Guides](https://privacyguides.org/) - The guide to restoring your online privacy.
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html) - The Hitchhiker's Guide to Online Anonymity
+- [Privacy Guides](https://privacyguides.org/) - The guide to restoring your online privacy
 - [Surveillance Self-Defense](https://ssd.eff.org/) - Surveillance Self-Defense Tips, Tools and How-tos for Safer Online Communications
 - [Consumer Reports Security Planner](https://securityplanner.consumerreports.org/) - Keep Your Data Secure With a Personalized Plan
-Cut down on data collection and protect your sensitive personal information, health data, and geolocation. Answer a few simple questions to get customized recommendations to help you
-- [Security in a Box](https://securityinabox.org/en/) - digital security tools and tactics
-- [PRISM Break](https://prism-break.org/en/) - opt out of global data survelliance programs like PRISM, XKeyscore and Tempora
-- [Security First - Umbrella](https://secfirst.org/umbrella/) - Umbrella is the only security handbook you'll ever need in a free, open source app. It's up-to-date information you can trust. And it's always in your pocket
-- [Matweb.info](https://matweb.info/) - Remove Metadata The file you see is just the tip of the iceberg. Remove the hidden metadata with MAT2
+- [Security in a Box](https://securityinabox.org/en/) - Digital security tools and tactics
+- [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora
+- [Security First - Umbrella](https://secfirst.org/umbrella/) - Umbrella is the only security handbook you'll ever need in a free, open source app
+- [Matweb.info](https://matweb.info/) - Remove Metadata The file you see is just the tip of the iceberg
 - [Metacleaner.com](https://metacleaner.com/) - MetaCleaner helps you stay anonymous Clean your files MetaData online
-- [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - This is a tool for anonymizing photographs taken at protests. It will remove identifying metadata (Exif data) from photographs, and also allow you to selectively blur parts of the image to cover faces and other identifiable information
+- [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - This is a tool for anonymizing photographs taken at protests
 - [View Exif data online, remove Exif online](http://www.verexif.com/en/) - View and remove Exif online
 - [Bitcoinprivacy.guide](https://bitcoinprivacy.guide/) - Bitcoin privacy guide a beginners guide to Bitcoin privacy
 - [LocalBitcoins](https://localbitcoins.com/) - Buy and Sell Bitcoin Everywhere
-- [Localmonero.co](https://localmonero.co/) - Buy Monero.Sell Monero.Cash or online.Anywhere.
-- [Paxful](https://paxful.com/) - Trade Bitcoin with Paxful.
-- [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php) - Audio jammers are popular tools used during confidential meetings. They produce a unique sound for masking and protecting conversations from external listening devices, such as a smartphone running an audio recording app, hidden in one of your guests' pocket
-- [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed.
-- [WhatsMyName](https://whatsmyname.app/) - This tool allows you to enumerate usernames across many websites, just enter username and this tool show you how many websites have that username.
+- [Localmonero.co](https://localmonero.co/) - Buy Monero. Sell Monero. Cash or online. Anywhere
+- [Paxful](https://paxful.com/) - Trade Bitcoin with Paxful
+- [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php) - Audio jammers are popular tools used during confidential meetings
+- [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve
+- [WhatsMyName](https://whatsmyname.app/) - This tool allows you to enumerate usernames across many websites
+- [Tor Browser](https://www.torproject.org/) - Defend yourself against tracking and surveillance
+- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy
+- [Bitwarden](https://bitwarden.com/) - Open source password management solutions for individuals, teams, and business organizations
+- [VeraCrypt](https://www.veracrypt.fr/) - Free open source disk encryption software for Windows, Mac OSX and Linux
+
+
     
  ## SECURE COMMUNICATION
     
