@@ -241,7 +241,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Windows Phone IMEI Generator](https://wpimeigenerator.github.io/) - Windows Phone IMEI Generator
 - [IMEI Number Generator](https://dyrk.org/tools/imei/) - fake IMEI number generator
 - [US SSN / Driver License / State ID / Passport / Tax ID Generator](https://www.elfqrin.com/usssndriverlicenseidgen.php) - US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator
-- [Washington State Driver’s License Generator](https://mmarvick.github.io/wa-drivers-license/) - Washington State Driver's License Generator
+- [Washington State Driver's License Generator](https://mmarvick.github.io/wa-drivers-license/) - Washington State Driver's License Generator
 - [Fake Drivers License Generator](https://fakeinfo.net/drivers-license-generator) - Get a false authorized Driver's License to fool your college friends and gain popularity using the Fake Driver License Generator. Use this tool for legal purposes only until you get an original one
 - [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/) - Rental Does not Exist
 - [Random Face Generator](https://fakeinfo.net/random-face-generator) - Want to make your profile more attractive to boost your account reach? Then try our Random Face Generator Tool. It lets you select your favorite image among the variety of options 
@@ -257,16 +257,20 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Nano ID CC](https://zelark.github.io/nano-id-cc/) - Nano ID is a library for generating random IDs. Likewise UUID, there is a probability of duplicate IDs. However, this probability is extremely small.
 - [Generate SA ID Numbers](https://chris927.github.io/generate-sa-idnumbers/) - Generate (Fake) South-African ID Numbers
 - [Decoding Social Security Numbers](https://stevemorse.org/ssn/ssn.html) - Decoding Social Security Numbers in One Step 
-- [Encoding and Decoding Driver’s License Numbers](https://stevemorse.org/dl/dl.html) - Encoding and Decoding Driver's License Numbers in One Step 
+- [Encoding and Decoding Driver's License Numbers](https://stevemorse.org/dl/dl.html) - Encoding and Decoding Driver's License Numbers in One Step 
 - [Dating Profile Generator](https://www.dating-profile-generator.org.uk/) - The aim of Dating Profile Generator is to help you fill that all-important free text field on online dating sites. Give us a feel for the kind of person that you are, and we'll write a description of you in the tone we think you'd take if you bothered to write it yourself
 - [Fake Identity ID Random Name Generator](https://www.elfqrin.com/fakeid.php) - Generate a random character with a fake name for games, novels, or alter ego avatars of yourself. Create a new virtual disposable identity instantly. Note that characters are not totally random: they are statistically adjusted, so that you can generate a credible population of realistic virtual people.
 - [Fake Company Name Generator](https://fakeinfo.net/company-name-generator) - Random Company Name Generator tool is designed to gratify the entrepreneur's needs. Generate catchy brand names within seconds for your new startups using our tool.
 - [Twitter Profile Generator](https://fakeinfo.net/fake-twitter-profile-generator) - If you want to have an attractive profile to gain more followers, then use our Fake Twitter Profile Generator tool. It lets you create a fake Twitter profile with a false number of followers and posts. 
 - [Fake Tiktok Profile Generator](https://fakeinfo.net/fake-tiktok-profile-generator) - Who doesn't love to have a huge number of followers and posts on the popular social media platform TikTok? Everybody loves to. One may create a fake TikTok profile with a higher follower count using our Fake Tiktok Profile Generator tool. 
-- [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - d you ever wish to become a YouTuber with a large number of subscribers? Well, dreams do come true. By using the Fake Youtube Channel Generator tool, you may create a fake youtube channel with an attractive channel name and several subscribers. 
+- [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - Did you ever wish to become a YouTuber with a large number of subscribers? Well, dreams do come true. By using the Fake Youtube Channel Generator tool, you may create a fake youtube channel with an attractive channel name and several subscribers. 
 - [Resume Builder](https://vinaysomawat.github.io/Resume-Builder/) - simple resume builder
 - [Fake Generator Tools](https://fauxid.com/tools) - Here are a list of tools that can help you create fake identities, fake emails, fake credit cards, fake driver's license, and a fake company.
-- [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - Tool for generating fake YouTube channels.
+- [Random User Generator](https://randomuser.me/) - API for generating random user data
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) - AI-generated faces for fake profiles
+- [Fake Address Generator](https://www.fakeaddressgenerator.com/) - Generate realistic fake addresses
+- [Temporary Phone Number](https://receive-smss.com/) - Get temporary phone numbers for verification
+- [Fake Email Generator](https://temp-mail.org/) - Create disposable email addresses
 
     
 ## EMULATOR
