@@ -1,4 +1,4 @@
-# 🌐 OSINT for Everything
+# 🌐 OSINT Tool for Everyone
 
 ![OSINT Banner](https://user-images.githubusercontent.com/24913656/242844072-9d76c50d-b656-44de-a1ff-9cdcd7a3fbd0.png)
 
@@ -351,69 +351,56 @@ Tools for Image/Audio/Video/Doc reconnaissance
 
 
     
- ## SECURE COMMUNICATION
+## SECURE COMMUNICATION
     
 - [Signal](https://signal.org/) - Signal is a simple, powerful, and secure messenger like whatsapp but opensource
 - [Element](https://element.io/) - Secure communication and collaboration
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums
-- [Jami.net](https://jami.net/) - Share, freely and privately
-- [Jitsi Meet](https://meet.jit.si/) - start and join meetings for free No account needed
-- [Rocket.Chat](https://rocket.chat/) - We use communication platforms on a daily basis to collaborate with colleagues, other companies, customers and communities. Most of them give you very little in terms of control and customizations; except Rocket.Chat.
-- [Wire](https://wire.com/en/) - Modern day communication meets the most advanced security and superior user experience. Protect your privacy and data like never before.
-START FOR FREE
-- [Telegram](https://www.telegram.org/) - Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed. 
-- [Brave Talk](https://talk.brave.com/) - unlinited private video calls, right in your browser. No app required
-- [The Tor Project](https://www.torproject.org/download/) - Protect yourself against tracking, surveillance, and censorship.
-- [Brave Browser](https://brave.com/) - Browse privately. Search privately. And ditch Big Tech.
-- [Psiphon](https://www.psiphon.ca/) - Secure and high-performance, Psiphon provides open access to the uncensored internet for millions of people around the world
-- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
-- [hide.me VPN](https://hide.me/en/) - hide.me VPN is trusted by more than 25 million users globally because of its simplicity, privacy features & speed.
-- [AdGuard VPN](https://adguard-vpn.com/en/welcome.html) - Use any browser or app and never worry about your anonymity again. The entire world is at your fingertips with AdGuard VPN.
-- [I2P](https://geti2p.net/en/download) - The Invisible Internet Project (I2P) is a fully encrypted private network layer that has been developed with privacy and security by design in order to provide protection for your activity, location and your identity. The software ships with a router that connects you to the network and applications for sharing, communicating and building.
-- [VPN Services](https://privacyguides.org/providers/vpn/) - Find a no-logging VPN operator who isn’t out to sell or read your web traffic.
-- [Browser Recommendations](https://privacyguides.org/browsers/) - These are our currently recommended desktop web browsers and configurations for standard/non-anonymous browsing. If you need to browse the internet anonymously, you should use Tor instead. In general, we recommend keeping your browser extensions to a minimum; they have privileged access within your browser, require you to trust the developer, can make you stand out, and weaken site isolation.
+- [Jami](https://jami.net/) - Share, freely and privately
+- [Jitsi Meet](https://meet.jit.si/) - Start and join meetings for free, no account needed
+- [Rocket.Chat](https://rocket.chat/) - Open source communication platform with advanced customization options
+- [Wire](https://wire.com/en/) - Modern day communication with advanced security and superior user experience
+- [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed
+- [Brave Talk](https://talk.brave.com/) - Unlimited private video calls, right in your browser. No app required
+- [Tor Browser](https://www.torproject.org/download/) - Protect yourself against tracking, surveillance, and censorship
+- [Brave Browser](https://brave.com/) - Browse privately. Search privately. And ditch Big Tech
+- [Psiphon](https://psiphon.ca/) - Secure and high-performance open access to the uncensored internet
+- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy
+- [hide.me VPN](https://hide.me/) - Trusted VPN service with privacy features & speed
+- [AdGuard VPN](https://adguard-vpn.com/en/welcome.html) - VPN service for anonymity and privacy protection
+- [I2P](https://geti2p.net/en/download) - The Invisible Internet Project for encrypted private network layer
+- [Threema](https://threema.ch/en/) - Secure and private messaging app with end-to-end encryption
+- [Session](https://getsession.org/) - Open-source, end-to-end encrypted messenger with a focus on privacy
+- [Keybase](https://keybase.io/) - Secure messaging and file-sharing platform
+
+## RESOURCES
     
- ## RESOURCES
-    
-- [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - This page is for anyone who loves open source investigating, and feels overwhelmed by the amount of resources and information out there. This is my personal one-stop shop for the best OSINT content available online, and I hope it helps you find new ways to learn from some amazing people
-- [OSINT Resources in Canada](https://start.me/p/aLe0vp/osint-resources-in-canada) - OSINT Resources in Canada. This is a free resource dedicated to open source tools located in the different provinces and territories in Canada
-- [FAROS OSINT Resources](https://start.me/p/1kvvxN/faros-osint-resources) - Financial Open Source Intellige
-- [TI](https://start.me/p/rxRbpo/ti) - collection of CTI resources. originally created this to track valuable investigation resources (mostly OSINT)
-- [TOOLKIT](https://start.me/p/W1AXYo/toolkit) - toolkit for osint
-- [Trouble Fake](https://start.me/p/QRQb0O/trouble-fake) - 
-- [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d) - Dutch guy with Open Source Intelligence & Analysis skills • Osint • Security Awareness • Opsec 
-- [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection 
-- [New Online Investigation (OSINT) Resources – IntelTechniques Blog](https://inteltechniques.com/blog/2019/04/09/new-online-investigation-osint-resources/) - New Online Investigation (OSINT) Resources
-- [OSINT Framework](https://osintframework.com/) - OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT 
-- [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet) - google dorks cheatsheet
-- [START CARING STOP SHARING](https://medium.com/@Dutchosintguy/start-caring-stop-sharing-9c108d957b2c) - An Open Source Intelligence perspective on the online sharing behavior of humans as effect of COVID19 pandemic to enable better Security Awareness.
-- [OSINT Tools](https://www.osinttechniques.com/osint-tools.html) - OSINT Tools
-- [OSINT tools for investigating websites](https://www.aware-online.com/en/osint-tools/website-tools/) - 
-- [Week in OSINT](https://sector035.nl/articles/category:week-in-osint)
-- [Osint.team](https://osint.team/)
-- [QueryTool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheets. With this tool you can perform complex search of terms, people, email addresses, files and many more. 
-- [Investigating the source code of a website](https://www.aware-online.com/en/osint-tutorials/investigating-the-source-code-of-a-website/) - The source code of a website can be seen as the readable text written by a programmer in a programming language. Simply said, the source code consists of a variety of code lines, which together ensure that a website ‘ works ‘ and that a website looks a certain way.
-- [Find open FTP Servers](https://www.aware-online.com/en/osint-tutorials/find-open-ftp-servers/) - find an open ftp server osint
+- [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - Comprehensive collection of OSINT resources
+- [OSINT Resources in Canada](https://start.me/p/aLe0vp/osint-resources-in-canada) - OSINT resources specific to Canada
+- [FAROS OSINT Resources](https://start.me/p/1kvvxN/faros-osint-resources) - Financial Open Source Intelligence resources
+- [TI](https://start.me/p/rxRbpo/ti) - Collection of Cyber Threat Intelligence resources
+- [TOOLKIT](https://start.me/p/W1AXYo/toolkit) - Toolkit for OSINT
+- [Trouble Fake](https://start.me/p/QRQb0O/trouble-fake) - Resources for identifying fake information
+- [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d) - Article on OSINT mindset
+- [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods for OSINT
+- [OSINT Framework](https://osintframework.com/) - Comprehensive OSINT framework
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - Curated list of OSINT resources
+- [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet) - Google dorks cheatsheet
+- [OSINT Tools](https://www.osinttechniques.com/osint-tools.html) - Collection of OSINT tools
+- [Week in OSINT](https://sector035.nl/articles/category:week-in-osint) - Weekly OSINT news and resources
+- [Osint.team](https://osint.team/) - OSINT community platform
+- [QueryTool](https://github.com/oryon-osint/querytool) - OSINT framework based on Google Spreadsheets
 - [Boolean Strings | Tools](https://booleanstrings.com/tools/) - 150+ Top Sourcing / #OSINT Tools
-- [osintme.com](https://www.osintme.com/) - 3 years an OSINT blog
-- [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607) - This toolkit includes satellite and mapping services, tools for verifying photos and videos, websites to archive web pages, and much more.
-- [@Ivan30394639 OSINT tools collection](https://cipher387.github.io/osint_stuff_tool_collection/) - different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 1000+ services for a wide variety of purposes).
-- [The Top 132 Osint Open Source Projects](https://awesomeopensource.com/projects/osint) - The Top 1,309 Osint Open Source Projects
-- [30 best OSINT extensions for Google Chrome – osintme.com](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/) - 30 best OSINT extensions for Google Chrome
-- [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) - A curated list of resources for Image and Video Deblurring
-- [OSINT.SH](https://osint.sh/) - All in one Information Gathering Tools
-- [OSINT Techniques](https://www.osinttechniques.com/) - Resources for Open Source Intelligence and Social Media Investigations.
-- [CTI & OSINT Online Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0) - 
-- [Emsisoft Decryptor for Avaddon](https://www.emsisoft.com/ransomware-decryption-tools/avaddon) - Use our free ransomware decryption tools to unlock your files without paying the ransom
-- [hwosint (@harrywald80)](https://twitter.com/harrywald80) - follow this twitter account for daily osint updates
-- [Awesomelists.top](http://awesomelists.top/) - AwesomeSearch makes you find what you want in awesome lists more quickly.
-- [GitHub Awesome Search](https://github.motakasoft.com/awesome/) - github awesome repo's
-- [Ph055a OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable) 
-- [MetaOSINT](https://metaosint.github.io/) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis. 
-- [Osint.support](https://osint.support/) - Open Source Intelligence (OSINT) is the collection and analysis of information that is gathered from public, or open, sources. OSINT is primarily used in national security, law enforcement, and business intelligence functions and is of value to analysts who use non-sensitive intelligence in answering classified, unclassified, or proprietary intelligence requirements across the previous intelligence disciplines
-- [How to find anyone with an advanced LinkedIn People Search](https://nubela.co/blog/how-to-find-anyone-with-an-advanced-linkedin-people-search/) - How To Find Anyone With An Advanced LinkedIn People Search
-- [Calls Node Status](https://www.broadcastify.com/calls/status/) - Current Active Call Ingest Nodes
+- [osintme.com](https://www.osintme.com/) - OSINT blog and resources
+- [Bellingcat's Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607) - Comprehensive OSINT toolkit
+- [@Ivan30394639 OSINT tools collection](https://cipher387.github.io/osint_stuff_tool_collection/) - Extensive collection of OSINT tools and resources
+- [OSINT.SH](https://osint.sh/) - All-in-one Information Gathering Tools
+- [OSINT Techniques](https://www.osinttechniques.com/) - Resources for OSINT and Social Media Investigations
+- [MetaOSINT](https://metaosint.github.io/) - Tool to identify relevant OSINT tools and resources
+- [Osint.support](https://osint.support/) - OSINT resources and information
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT resources
+- [OSINT Dojo](https://www.osintdojo.com/) - OSINT training and resources
+- [IntelTechniques](https://inteltechniques.com/) - OSINT tools and training by Michael Bazzell
     
 ## WEATHER
     
