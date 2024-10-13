@@ -275,13 +275,20 @@ Tools for Image/Audio/Video/Doc reconnaissance
     
 ## EMULATOR
     
-- [Kasm](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
-- [Bluestacks](https://www.bluestacks.com/) - Android emulator
+- [Kasm](https://www.kasmweb.com/) - Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
+- [BlueStacks](https://www.bluestacks.com/) - Android emulator for PC and Mac
 - [Genymotion](https://www.genymotion.com/) - Android Virtual Devices for all your team, project, development & testing needs
-- [PrimeOS](https://www.primeos.in/) - PrimeOS, the ideal Android based OS for mobile games on PC/Laptop 
-- [BigNox](https://www.bignox.com/) - NoxPlayer, the perfect Android emulator to play mobile games on PC
-- [Memuplay.com](https://www.memuplay.com/) - The most powerful android emulator enjoy ultimate mobile gaming experience on PC
-- [Ldplayer.net](https://www.ldplayer.net/) - Your Best Partner for Mobile Games
+- [PrimeOS](https://primeos.in/) - PrimeOS, the ideal Android based OS for mobile games on PC/Laptop 
+- [NoxPlayer](https://www.bignox.com/) - NoxPlayer, the perfect Android emulator to play mobile games on PC
+- [MEmu Play](https://www.memuplay.com/) - The most powerful android emulator enjoy ultimate mobile gaming experience on PC
+- [LDPlayer](https://www.ldplayer.net/) - Your Best Partner for Mobile Games
+- [Android Studio](https://developer.android.com/studio) - Official Android emulator for developers
+- [GameLoop](https://www.gameloop.com/) - Android emulator optimized for gaming
+- [Andy](https://www.andyroid.net/) - Android emulator for PC and Mac
+- [ARChon](https://archon-runtime.github.io/) - Run Android apps in Chrome browser
+- [Remix OS Player](https://www.jide.com/remixos-player) - Android emulator based on Android-x86
+- [Xamarin Android Player](https://visualstudio.microsoft.com/xamarin/) - Android emulator for app development in Visual Studio
+- [Anbox](https://anbox.io/) - Run Android applications on any GNU/Linux operating system
     
     
 ## HASH RECOVERY
