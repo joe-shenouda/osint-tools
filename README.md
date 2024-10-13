@@ -63,6 +63,15 @@ AI tools/Site
 - [10web](https://10web.io/) - Fill out a short questionnaire about your business, and 10Web will build an entire Wordpress website for you.
 - [AgentGPT](https://agentgpt.reworkd.ai/) - AutoGPT's are all the rage right now, and this is among the best ones out there. ive your agent a goal and it'll autonomously give itself tasks, browse the web, and execute it for you.
 - [LonardoAI](https://leonardo.ai/) - Leonardo.ai is a website for a company that offers AI-powered image and video editing tools. The website is designed with a sleek and modern look, featuring a black and white color scheme with pops of orange.
+- [Jasper](https://www.jasper.ai/) - AI-powered copywriting tool for creating marketing content, blog posts, and more.
+- [Midjourney](https://www.midjourney.com/) - AI art generator that creates stunning images from text descriptions.
+- [Otter.ai](https://otter.ai/) - AI-powered transcription and note-taking tool for meetings and interviews.
+- [Grammarly](https://www.grammarly.com/) - AI writing assistant that checks grammar, spelling, and style.
+- [Synthesia](https://www.synthesia.io/) - AI video creation platform for generating custom videos with virtual avatars.
+- [Lumen5](https://lumen5.com/) - AI-powered video creation tool that turns blog posts into engaging videos.
+- [Copy.ai](https://www.copy.ai/) - AI copywriting tool for generating marketing copy, product descriptions, and more.
+- [Descript](https://www.descript.com/) - AI-powered audio and video editing tool with transcription capabilities.
+- [RunwayML](https://runwayml.com/) - AI-powered creative tools for video editing, image generation, and more.
 
 
 ## Recon
