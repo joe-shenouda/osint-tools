@@ -408,36 +408,40 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Weather History & Data Archive](https://www.wunderground.com/history) - Access historical weather data.
 - [World Temperatures — Weather Around The World](https://www.timeanddate.com/weather/) - Check global weather conditions.
 - [AccuWeather](https://www.accuweather.com/) - Offers detailed weather forecasts and news.
+- [Windy](https://www.windy.com/) - Interactive weather forecast map.
+- [Earth Nullschool](https://earth.nullschool.net/) - Global weather conditions visualization.
+- [Ventusky](https://www.ventusky.com/) - Weather maps and forecasts.
     
-   
 ## THREAT INTEL
 
 - [Threatbutt](https://threatbutt.com/map/) - A humorous take on real-time threat maps.
 - [Cyberthreat Real-Time Map](https://cybermap.kaspersky.com/) - Displays live cyber threat activities globally.
-- [Live Cyber Attack Threat Map](https://www.checkpoint.com/ThreatPortal/livemap.html) - Shows real-time cyber attacks worldwide.
+- [Live Cyber Attack Threat Map](https://threatmap.checkpoint.com/) - Shows real-time cyber attacks worldwide.
 - [Digital Attack Map](https://www.digitalattackmap.com/) - Visualizes DDoS attacks happening around the world.
 - [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - Provides real-time cyber threat intelligence.
-- [Cyber Threat Intelligence](https://pulsedive.com/) - Offers an open threat intelligence platform.
-- [Cisco Talos Intelligence Group](https://talosintelligence.com/) - Delivers security research and threat intelligence.
+- [Pulsedive](https://pulsedive.com/) - Offers an open threat intelligence platform.
+- [Cisco Talos Intelligence](https://talosintelligence.com/) - Delivers security research and threat intelligence.
 - [Fortinet Threat Map](https://threatmap.fortiguard.com/) - Displays real-time cyber attacks globally.
 - [ThreatMiner](https://www.threatminer.org/) - A threat intelligence research platform.
-- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open-source tool for threat intelligence gathering.
-- [Visualizing Global Internet Performance](https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp) - Monitors global internet performance.
+- [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open-source tool for threat intelligence gathering.
 - [NETSCOUT Cyber Threat Horizon](https://horizon.netscout.com/) - Provides real-time threat intelligence and analysis.
 - [APTnotes](https://github.com/aptnotes/data) - A collection of APT reports and notes.
+- [AlienVault OTX](https://otx.alienvault.com/) - Open Threat Exchange for sharing threat intelligence.
+- [VirusTotal](https://www.virustotal.com/) - Analyzes suspicious files and URLs.
 
-    
 ## OTHER
 
 - [Nextstrain](https://nextstrain.org/) - Tracks and visualizes pathogen evolution in real-time.
+- [Flightradar24](https://www.flightradar24.com/) - Real-time flight tracker.
+- [MarineTraffic](https://www.marinetraffic.com/) - Real-time ship tracking.
 
-    
 ## IDENTITY RESOLUTION
 
-- [Clearbit](https://dashboard.clearbit.com/lookup) - Provides business intelligence and contact data.
-- [Aeroleads.com](https://aeroleads.com/) - Finds and verifies email addresses and contact details.
+- [Clearbit](https://clearbit.com/) - Provides business intelligence and contact data.
+- [Aeroleads](https://aeroleads.com/) - Finds and verifies email addresses and contact details.
+- [Hunter.io](https://hunter.io/) - Email finder and verifier.
+- [Pipl](https://pipl.com/) - People search and identity resolution.
 
-    
 ## UNIFIED SEARCH
 
 - [SynapsInt](https://synapsint.com/) - Provides unified search across various OSINT sources.
@@ -451,6 +455,9 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [OSINT Search Engine](https://cse.google.com/cse/publicurl?cx=006290531980334157382:qcaf4enph7i) - Specialized search engine for OSINT resources.
 - [LinkScope](https://github.com/AccentuSoft/LinkScope_Client) - OSINT tool for link analysis and data gathering.
 - [IOA](https://www.io-archive.org/) - Internet Archive for open source intelligence data.
+- [Maltego](https://www.maltego.com/) - Interactive data mining tool.
+- [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices.
+- [Spiderfoot](https://www.spiderfoot.net/) - Automated OSINT gathering platform.
 
     
 ## PEOPLE
@@ -458,56 +465,53 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [IDCrawl](https://www.idcrawl.com/) - Searches social media profiles and public web pages.
 - [WebMii](https://webmii.com/) - Finds information about people from various sources.
 - [TruePeopleSearch](https://www.truepeoplesearch.com/) - Free people search and background checks.
-- [Free People Search](https://www.peoplefinder.com/) - Provides people search and background information.
-- [fastpeoplesearch](https://fastpeoplesearch.com/) - Free people search and contact information.
-- [TruePeopleSearch](https://truepeoplesearch.com/) - Locates people and their contact details.
-- [People Search](http://itools.com/search/people-search) - Searches for people across different platforms.
-- [People Search Engine](https://cse.google.com/cse?cx=14db36e158cd791c0) - Google custom search for people information.
-- [Dating Sites Search Engine](https://cse.google.com/cse?cx=c7b340447e1e12653) - Searches across various dating sites.
+- [PeopleFinder](https://www.peoplefinder.com/) - Provides people search and background information.
+- [FastPeopleSearch](https://www.fastpeoplesearch.com/) - Free people search and contact information.
+- [People Search](https://itools.com/tool/wink-people-search) - Searches for people across different platforms.
 - [192](https://www.192.com/) - UK-based people search and directory services.
-- [International](https://www.infobel.com/) - Global directory for people and businesses.
-- [People search Tool](https://www.aware-online.com/en/osint-tools/people-search-tool/) - Comprehensive people search tool.
+- [Infobel](https://www.infobel.com/) - Global directory for people and businesses.
+- [People Search Tool](https://www.aware-online.com/en/osint-tools/people-search-tool/) - Comprehensive people search tool.
 - [PeekYou](https://www.peekyou.com/) - Searches social media profiles and public records.
 - [White Pages](https://www.whitepages.com/) - Provides contact information and public records.
-- [New Canada 411](https://www.canada411.ca/) - Canadian people and business directory.
-- [411](http://411.com/) - People search and directory assistance.
+- [Canada411](https://www.canada411.ca/) - Canadian people and business directory.
+- [411.com](https://www.411.com/) - People search and directory assistance.
 - [TruthFinder](https://www.truthfinder.com/) - Background checks and people search.
-- [zaba search](https://www.zabasearch.com/) - Public records and people search.
-- [Thats them](https://thatsthem.com/) - Free people search and reverse lookup.
-- [People search](https://radaris.com/) - Comprehensive people search and background information.
-- [No.1 Free People Search](http://www.yasni.com/) - Finds people and their online presence.
-- [xlek](https://xlek.com/) - Public records and people search.
-- [Ufind.name](https://ufind.name/) - Searches for people across social networks.
-- [York City PA Compensation](https://b2.caspio.com/dp/0a92100001903125816c4d34a37a) - Database of compensation in York City, PA.
+- [ZabaSearch](https://www.zabasearch.com/) - Public records and people search.
+- [That's Them](https://thatsthem.com/) - Free people search and reverse lookup.
+- [Radaris](https://radaris.com/) - Comprehensive people search and background information.
+- [Yasni](http://www.yasni.com/) - Finds people and their online presence.
+- [Spokeo](https://www.spokeo.com/) - People search, white pages, and reverse phone lookup.
+- [Pipl](https://pipl.com/) - Identity resolution and people search engine.
+- [BeenVerified](https://www.beenverified.com/) - Background check and people search services.
+- [Intelius](https://www.intelius.com/) - Background checks and people search.
+- [Instant Checkmate](https://www.instantcheckmate.com/) - Online background check service.
 
-
-    
 ## USERNAME
 
 - [WhatsMyName Web](https://whatsmyname.app/) - Checks usernames across multiple social networks.
 - [Username Checker](https://analyzeid.com/username/) - Verifies username availability on various platforms.
-- [Username Search](https://www.idcrawl.com/username) - Searches for usernames across social media.
-- [maigret](https://pypi.org/project/maigret/) - Investigates usernames across many sites.
-- [sherlock](https://github.com/sherlock-project/sherlock) - Finds usernames on social networks.
-- [socialscan](https://pypi.org/project/socialscan/) - Checks email addresses and usernames for usage.
-- [socid-extractor](https://pypi.org/project/socid-extractor/) - Extracts social media profile IDs.
-- [social-analyzer](https://pypi.org/project/social-analyzer/) - Analyzes and checks social media accounts.
+- [IDCrawl Username Search](https://www.idcrawl.com/username) - Searches for usernames across social media.
+- [Maigret](https://github.com/soxoj/maigret) - Investigates usernames across many sites.
+- [Sherlock](https://github.com/sherlock-project/sherlock) - Finds usernames on social networks.
+- [Socialscan](https://github.com/iojw/socialscan) - Checks email addresses and usernames for usage.
+- [Socid-extractor](https://github.com/soxoj/socid-extractor) - Extracts social media profile IDs.
+- [Social-analyzer](https://github.com/qeeqbox/social-analyzer) - Analyzes and checks social media accounts.
 - [KnowEm](https://knowem.com/) - Checks username availability across networks.
-- [Check Usernames](https://checkusernames.com/) - Checks availability of usernames on social networks.
-- [Username Checker](https://checkuser.org/) - Verifies username availability on various sites.
+- [CheckUsernames](https://checkusernames.com/) - Checks availability of usernames on social networks.
 - [Namechk](https://namechk.com/) - Checks usernames across multiple websites.
-- [Lullar Com](https://com.lullar.com/) - Searches for people by username.
-- [SearchPOF.com](https://searchpof.com/) - Searches Plenty of Fish profiles by username.
+- [Lullar Com](https://lullar-com-3.appspot.com/) - Searches for people by username.
 - [OSINT Toolkit](https://one-plus.github.io/EmailUsername) - Tools for email and username investigation.
-- [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/) - Searches for usernames across platforms.
-- [snoop](https://github.com/snooppr/snoop) - Checks usernames on social networks and websites.
-
+- [Username Search Tool](https://www.aware-online.com/en/osint-tools/username-search-tool/) - Searches for usernames across platforms.
+- [Snoop](https://github.com/snooppr/snoop) - Checks usernames on social networks and websites.
+- [Namecheckr](https://www.namecheckr.com/) - Checks username availability across social media platforms.
+- [UserSearch.org](https://usersearch.org/) - Finds people's profiles by username or email.
+- [Instant Username Search](https://instantusername.com/) - Checks username availability across multiple platforms.
     
 ## EMAIL
 
 - [Email Lookup](https://tools.epieos.com/email.php) - Searches for information associated with an email.
-- [holehe](https://pypi.org/project/holehe/) - Checks if an email is used on various sites.
-- [Infoga](http://github.com/m4ll0k/Infoga) - Scans email addresses for information.
+- [holehe](https://github.com/megadose/holehe) - Checks if an email is used on various sites.
+- [Infoga](https://github.com/m4ll0k/Infoga) - Scans email addresses for information.
 - [Trumail](https://trumail.io/) - Verifies email deliverability.
 - [Email Verifier](https://hunter.io/email-verifier) - Checks email validity and deliverability.
 - [Verify Email](https://verify-email.org/) - Verifies if an email address is valid.
@@ -522,29 +526,27 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Email Breach Analysis](https://www.hotsheet.com/inoitsu/) - Checks if an email was part of a breach.
 - [Emailrep.io](https://emailrep.io/) - Provides email address reputation and intelligence.
 - [Email Finder](https://osint.sh/email/) - Finds email addresses related to a domain.
-- [EmailHarvester](https://pypi.org/project/EmailHarvester/) - Harvests email addresses from websites.
-- [h8mail](https://pypi.org/project/h8mail/) - Finds passwords for emails in data breaches.
+- [EmailHarvester](https://github.com/maldevel/EmailHarvester) - Harvests email addresses from websites.
+- [h8mail](https://github.com/khast3x/h8mail) - Finds passwords for emails in data breaches.
 - [WhatBreach](https://github.com/Ekultek/WhatBreach) - Checks if emails were part of known breaches.
 - [email2phonenumber](https://github.com/martinvigo/email2phonenumber) - Finds phone numbers associated with emails.
 - [buster](https://github.com/sham00n/buster) - Email search and verification tool.
 - [Anymailfinder.com](https://anymailfinder.com/) - Finds and verifies professional email addresses.
-- [SimpleMail](https://www.simplemail.dev/) - Email search and verification service.
+- [SimpleLogin](https://simplelogin.io/) - Create aliases for your email address.
 
-    
 ## PHONE
 
-- [PhoneInfoga](https://demo.phoneinfoga.crvx.fr/) - Scans phone numbers and gathers information.
+- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) - Scans phone numbers and gathers information.
 - [Phonerator](https://www.martinvigo.com/tools/phonerator/) - Generates possible phone numbers for investigation.
 - [Skype Lookup](https://tools.epieos.com/skype.php) - Finds Skype accounts linked to phone numbers.
 - [Reverse Phone Lookup](https://www.idcrawl.com/phone) - Searches for information linked to phone numbers.
 - [Truecaller Search Engine](https://cse.google.com/cse?cx=c46b76bce1848d976) - Custom search engine for phone number lookup.
 - [Nuwber](https://nuwber.com/) - Provides reverse phone lookup and people search.
 - [Who Called Me](https://www.whocalledme.com/) - Identifies unknown callers and phone numbers.
-- [ignorant](https://pypi.org/project/ignorant/) - OSINT tool for phone number investigation.
+- [ignorant](https://github.com/megadose/ignorant) - OSINT tool for phone number investigation.
 - [Phone number search Tool](https://www.aware-online.com/en/osint-tools/phone-number-search-tool/) - Comprehensive phone number search tool.
 - [Validnumber.com](https://validnumber.com/) - Validates phone numbers for accuracy.
 - [Reverse Phone Lookup](https://www.zlookup.com/) - Free service to find information on phone numbers.
-- [Reverse Phone Lookup](https://www.reversephonecheck.com/) - Provides detailed information on phone numbers.
 - [Truecaller](https://www.truecaller.com/) - Identifies unknown callers and blocks spam calls.
 - [SYNC.me](https://sync.me/) - Provides caller ID and spam blocker services.
 - [OpenCelliD](https://opencellid.org/) - Crowdsourced global cell tower database.
@@ -556,10 +558,9 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Fcc.io](http://fcc.io/) - Looks up FCC ID numbers.
 - [Oldphonebook.com](http://www.oldphonebook.com/) - Searches for people in old phone books.
 - [carrier lookup](https://www.carrierlookup.com/) - Identifies phone number carriers.
-- [Free Reverse Phone Lookup](https://spydialer.com/default.aspx) - Finds information on phone numbers for free.
+- [Free Reverse Phone Lookup](https://spydialer.com/) - Finds information on phone numbers for free.
 
-    
-# SOCIAL MEDIA
+## SOCIAL MEDIA
 
 - [Social Profiles Finder](https://www.social-searcher.com/search-users/) - Searches for social media profiles across platforms.
 - [Who posted what?](https://whopostedwhat.com/) - Finds social media posts by keyword and user.
@@ -574,7 +575,11 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Instagram, Reddit & Snapchat](https://one-plus.github.io/Instagram) - Tools for investigating Instagram, Reddit, and Snapchat profiles.
 - [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php) - Custom Google search for Dribbble profiles.
 - [Google to search profiles on Xing](https://recruitin.net/xing.php) - Custom Google search for Xing profiles.
-
+- [Sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username.
+- [Twint](https://github.com/twintproject/twint) - Twitter Intelligence Tool.
+- [Instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [Maltego](https://www.maltego.com/) - Interactive data mining tool that renders directed graphs for link analysis.
+- [Social Blade](https://socialblade.com/) - Track user statistics for different platforms.
     
 ## FACEBOOK
 
