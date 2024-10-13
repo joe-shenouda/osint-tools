@@ -1,4 +1,4 @@
-# 🌐 OSINT Tool for Everyone
+# 🌐 OSINT Tools for Everyone
 
 ![OSINT Banner](https://user-images.githubusercontent.com/24913656/242844072-9d76c50d-b656-44de-a1ff-9cdcd7a3fbd0.png)
 
