@@ -98,8 +98,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [PrivateBin](https://privatebin.net/) - PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data
 - [Bin.disroot.org](https://bin.disroot.org/) - same as PrivateBin
 - [Pad.riseup.net](https://pad.riseup.net/) - Etherpad is a software libre web application that allows for real-time group collaboration of text documents. Riseup does not store IP addresses, we require https, and pads are automatically destroyed after 60 days of inactivity
-- [EtherCalc](https://ethercalc.net/) - 
-EtherCalc is a web spreadsheet.
+- [EtherCalc](https://ethercalc.net/) - EtherCalc is a web spreadsheet.
 - [Proofread Bot](https://proofreadbot.com/) - Proofread Bot gives you unlimited simple punctuation, style and grammar checks. For advanced checks (including plagiarism, comma splices, tenses....) 
 - [Write.as](https://write.as/) - Write.as is the easiest way to publish your writing on the web
 - [Cryptee](https://crypt.ee/) - A private home for all your digital belongings
@@ -107,8 +106,7 @@ EtherCalc is a web spreadsheet.
 - [Airborn.io](https://www.airborn.io/) - Create encrypted documents
 - [ZOOM URL Generator](https://skyzh.github.io/zoom-url-generator/) - Create Zoom meeting url
 - [Tor2web](https://www.tor2web.org/) - Tor is a software project that lets you anonymously browse the Internet. Tor2web is a project to let Internet users access Tor Onion Services without using Tor Browser
-- [archive.is](https://archive.is/) - Archive.today is a time capsule for web pages!
-It takes a 'snapshot' of a webpage that will always be online even if the original page disappears
+- [archive.is](https://archive.is/) - Archive.today is a time capsule for web pages! It takes a 'snapshot' of a webpage that will always be online even if the original page disappears
 - [Wayback Machine](https://web.archive.org/) - Internet archive of everything
 - [waybackpy](https://pypi.org/project/waybackpy/) - Python package that interfaces with the Internet Archive's Wayback Machine APIs. Archive pages and retrieve archived pages easily.
 - [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
@@ -130,8 +128,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Multi Translate](https://translate.mix.pink/)
 - [Yandex.Translate](https://translate.yandex.com/) - translator from yandex
 - [Bing Microsoft Translator](https://www.bing.com/translator) - translator from microsoft
-- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Enjoy cutting-edge AI-powered translation from Reverso in 15+ languages
-including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Polish
+- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Enjoy cutting-edge AI-powered translation from Reverso in 15+ languages including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Polish
 - [Translate](https://www.translatedict.com/) - 
 - [text to speech online](https://www.naturalreaders.com/online/) - text to speech translator online
 - [TTSReader](https://ttsreader.com/) - Read out loud webpages, texts, pdf's and ebooks with natural sounding voices
@@ -146,6 +143,11 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Project Gutenberg](https://www.gutenberg.org/) - Gutenberg is a library of over 60,000 free eBooks
 - [Shadowlibraries.github.io](https://shadowlibraries.github.io/) - A Pirate Library Archive 
 - [Editor.typely.com](https://editor.typely.com/) - Free online proofreading and essay editor
+- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases
+- [Trello](https://trello.com/) - Collaborative project management tool
+- [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible
+- [Todoist](https://todoist.com/) - To-do list and task manager
+- [Evernote](https://evernote.com/) - Note-taking app for organizing, planning, and collaborating
     
  ## FILE UPLOAD
     
