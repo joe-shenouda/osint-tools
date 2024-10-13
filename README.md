@@ -163,6 +163,9 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Gofile](https://gofile.io/) - Free file sharing and storage platform with unlimited bandwidth
 - [Pixeldrain](https://pixeldrain.com/) - Simple and fast file sharing service with no registration needed
     
+Here's the updated list with validated URLs and some additional tools:
+
+```html
 ## TOOLSET
    
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).   
@@ -183,8 +186,8 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/) - encode/decode URL in url form.
 - [Disasm.pro](https://disasm.pro/) - A realtime assembler/disassembler (formerly known as disasm.ninja) 
 - [Fotor](https://www.fotor.com/photo-editor-app/editor/basic) - Online image editor remove bg, crop, edit...
-- [Decompiler.com](http://www.decompiler.com/) - online decompiler for java, apk, lua ....
-- [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) - Colab, or "Colaboratory", allows you to write and execute Python in your browser, with Zero configuration required Access to GPUs free of charge Easy sharing.
+- [Decompiler.com](https://www.decompiler.com/) - online decompiler for java, apk, lua ....
+- [Google Colaboratory](https://colab.research.google.com/) - Colab, or "Colaboratory", allows you to write and execute Python in your browser, with Zero configuration required Access to GPUs free of charge Easy sharing.
 - [Compiler Explorer](https://godbolt.org/) - Run compilers interactively from your web browser and interact with the assembly
 - [HTML editor](https://onlinehtmleditor.dev/) - Online HTML editor
 - [Online Color Picker](https://colorpicker.me/) - Online color picker in HSL, Hex code, RGB, HSV
@@ -198,13 +201,18 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Anonymous YouTube Playlists](https://neverducky.github.io/anonymous-youtube-playlists/) - A simple tool for generating a YouTube playlist that isn't tied to an account
 - [Vega Editor](https://vega.github.io/editor/#/) - create pie, charts and more through your browser
 - [DISA Code Template Generator](https://duncanford.github.io/disa-code-generator) - To purpose of this generator is to quickly create the content for all the separate five files you need to create a template DISA integration. Almost everything can be keyed from a single name: the name of the plugin
-- [Canary Tokens](http://canarytokens.org/generate) -You'll be familiar with web bugs, the transparent images which track when someone opens an email. They work by embedding a unique URL in a page's image tag, and monitoring incoming GET requests. Canarytokens helps track activity and actions on your network.
+- [Canary Tokens](https://canarytokens.org/generate) - You'll be familiar with web bugs, the transparent images which track when someone opens an email. They work by embedding a unique URL in a page's image tag, and monitoring incoming GET requests. Canarytokens helps track activity and actions on your network.
 - [explainshell.com](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 - [ShowTheDocs](http://showthedocs.com/) - showthedocs is a documentation browser that finds the relevant docs for your code. It works by parsing the code and connecting parts of it to their explanation in the docs
 - [osint-cli-tool-skeleton](https://pypi.org/project/osint-cli-tool-skeleton/) - OSINT cli tool skeleton
 - [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
 - [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
 - [Tool | path](https://learnmeabitcoin.com/tools/path/) - Search Bitcoin transactions, blocks, and addresses.
+- [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches
+- [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices
+- [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
+- [OSINT Framework](https://osintframework.com/) - Collection of various OSINT tools divided into categories
+- [Maltego](https://www.maltego.com/) - Interactive data mining tool that renders directed graphs for link analysis
 
 
 
