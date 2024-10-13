@@ -299,7 +299,12 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Online Password Hash Crack](https://www.onlinehashcrack.com/) - Cloud-based service that attempts to recover passwords (hashes, WPA dumps, Office, PDF, iTunes Backup, Archives) obtained in a legal way (pentest, audit,..).
 - [Md5 Decrypt & Encrypt](https://md5decrypt.net/en/) - encrypt decrypt md5 hashes
 - [MD5 reverse lookup](https://md5.gromweb.com/) - MD5 conversion and reverse lookup
-- [Ultimate Hashing](https://md5hashing.net/) -  [En|De]crypt Hash — Generate hash out of the string and lookup (unhash) for hash value in our pre-computed hash-tables 
+- [Ultimate Hashing](https://md5hashing.net/) -  [En|De]crypt Hash — Generate hash out of the string and lookup (unhash) for hash value in our pre-computed hash-tables
+- [HashKiller](https://hashkiller.io/) - Online hash cracking service supporting various hash types
+- [Crackq](https://github.com/f0cker/crackq) - A Python Hashcat cracking queue system
+- [Hashcat](https://hashcat.net/hashcat/) - World's fastest and most advanced password recovery utility
+- [John the Ripper](https://www.openwall.com/john/) - An open source password security auditing and password recovery tool
+- [Ophcrack](https://ophcrack.sourceforge.io/) - A Windows password cracker based on rainbow tables
     
  ## DOWNLOADER
     
