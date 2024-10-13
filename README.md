@@ -221,11 +221,16 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously
 - [MailDrop](https://maildrop.cc/) - Save your inbox from spam. Use Maildrop when you don't want to give out your real address No signup required - Maildrop is free for anyone to use when you need a quick, disposable email address.
 - [Send text free](https://globfone.com/send-text/) - Send text online without worrying about phone bills. Free SMS to hundreds of GSM operators worldwide
-- [Free Fax](https://faxzero.com/) -Send faxes for free to anywhere in the U.S. and Canada Or, Send an International Fax
-- [Receive SMS Online for FREE](http://freesmsverification.com/) - Free SMS Verification Receive SMS Online Verify your SMS received from any place in the World. The messages will show up on the webpage.
+- [Free Fax](https://faxzero.com/) - Send faxes for free to anywhere in the U.S. and Canada Or, Send an International Fax
+- [Receive SMS Online for FREE](https://freesmsverification.com/) - Free SMS Verification Receive SMS Online Verify your SMS received from any place in the World. The messages will show up on the webpage.
 - [Smstome.com](https://smstome.com/) - Virtual Temporary and Disposable Phone Numbers
-- [Amazon SNS](https://aws.amazon.com/sns/) - Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications. These applications include Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda, and other HTTPS endpoints. A2P functionality lets you send messages to your customers with SMS texts, push notifications, and email. 
-- [Twilio](https://www.twilio.com/) - api for sms services
+- [Amazon SNS](https://aws.amazon.com/sns/) - Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications. These applications include Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda, and other HTTPS endpoints. A2P functionality lets you send messages to your customers with SMS texts, push notifications, and email. 
+- [Twilio](https://www.twilio.com/) - API for SMS services
+- [Temp-Mail](https://temp-mail.org/) - Disposable temporary email service
+- [Guerrilla Mail](https://www.guerrillamail.com/) - Disposable temporary email addresses
+- [Burner Mail](https://burnermail.io/) - Create and manage disposable email addresses
+- [Receive SMS](https://receive-smss.com/) - Free temporary phone numbers for receiving SMS
+- [TextNow](https://www.textnow.com/) - Free texting and calling app with a real phone number
     
 ## ID GENERATOR
     
