@@ -163,9 +163,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Gofile](https://gofile.io/) - Free file sharing and storage platform with unlimited bandwidth
 - [Pixeldrain](https://pixeldrain.com/) - Simple and fast file sharing service with no registration needed
     
-Here's the updated list with validated URLs and some additional tools:
 
-```html
 ## TOOLSET
    
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).   
