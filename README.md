@@ -77,8 +77,15 @@ AI tools/Site
 ## Recon
 Tools for Image/Audio/Video/Doc reconnaissance 
 
-- [FOCA](https://github.com/ElevenPaths/FOCA) -  Tool to find metadata and hidden information in the documents. 
+- [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents. 
 - [FaceCheck](https://facecheck.id/) - Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.
+- [TinEye](https://tineye.com/) - Reverse image search engine to find where an image appears online.
+- [Yandex Images](https://yandex.com/images/) - Reverse image search engine with powerful facial recognition capabilities.
+- [ExifTool](https://exiftool.org/) - Read, write and edit metadata information in various file types.
+- [Metagoofil](https://github.com/laramies/metagoofil) - Metadata extraction tool for public documents.
+- [InVID](https://www.invid-project.eu/) - Video verification tool for detecting manipulated or fake videos.
+- [Audacity](https://www.audacityteam.org/) - Open-source audio software for analyzing and editing audio files.
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) - Tool for viewing technical and tag information about video and audio files.
 
 ## PRODUCTIVITY
     
