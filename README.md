@@ -1084,6 +1084,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [zoomeye](https://www.zoomeye.org/) - Search engine for cyberspace.
 - [Censys](https://search.censys.io/) - Provides internet-wide scanning data.
 - [ViewDNS.info](https://viewdns.info/) - DNS and domain tools.
+- [CC.LA](https://cc.la) - Free domain & network research platform: WHOIS, RDAP, DNS, IP WHOIS, name server history, SSL certificate lookup, ping/traceroute/MTR diagnostics. No sign-up.
 - [Internet Census 2012](http://census2012.sourceforge.net/paper.html) - Analysis of the 2012 internet census.
 - [ONYPHE](https://www.onyphe.io/) - Search engine for open source and cyber threat intelligence data.
 - [IPLeak](https://ipleak.net/) - Checks for IP leaks and security issues.
