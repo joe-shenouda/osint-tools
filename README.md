@@ -759,6 +759,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Snap Map](https://map.snapchat.com/) - View public Snapchat stories on a map.
 - [SnapScraper](https://rhematt.github.io/Snap-Scraper/) - Tool for scraping Snapchat stories from Snap Map.
 - [snapmap-archiver](https://pypi.org/project/snapmap-archiver/) - Archive Snap Map stories.
+- [SnapDataHub](https://snapdatahub.com/) - Look up public Snapchat profiles: subscribers, Spotlight performance, engagement.
 
 ## TIKTOK
 
